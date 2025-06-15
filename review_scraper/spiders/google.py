@@ -32,9 +32,9 @@ scrape_data_file = "./reviews_eu.csv"
 # COUNTRIES = ["Saudi Arabia","United Arab Emirates","Lebanon","Egypt","Qatar"] # THE ARAB COUNTRIES
 COUNTRIES = ["Germany","United Kingdom","Italy","Spain","France"] # THE EU COUNTRIES
 
-NUM_RESTAURANTS_PER_COUNTRY = 400 # GET 400 RESTAURANTS PER COUNTRY
-NUM_REVIEWS_THRESHHOLD = 350 # RESTAURANTS ARE PICKED ONLY IF THEIR TOTAL NUMBER OF REVIEWS EXCEED 350
-NUM_IMGS_TO_DOWNLOAD = 25 # PER RESTAURANT 25 IMAGES ARE DOWNLOADED
+NUM_RESTAURANTS_PER_COUNTRY = 4 # GET 400 RESTAURANTS PER COUNTRY
+NUM_REVIEWS_THRESHHOLD = 3 # RESTAURANTS ARE PICKED ONLY IF THEIR TOTAL NUMBER OF REVIEWS EXCEED 350
+NUM_IMGS_TO_DOWNLOAD = 2 # PER RESTAURANT 25 IMAGES ARE DOWNLOADED
 MAX_NUM_IMGS_PER_USER = 5 # MAX NUMBER OF IMAGES SCRAPED FROM A SINGLE USER PER RESTAURANT
 
 CITY_RESTAURANT_CNT_THRESHHOLD = 200 # DONT INCLUDE THE CITIES WHICH HAVE LESS THAN 200 RESTUARANTS LISTED ON THE WEBSITE
@@ -682,10 +682,10 @@ class GoogleSpider(scrapy.Spider):
 spider = GoogleSpider()
 
 '''Method to get city names from restaurantguru.com from country name'''
-# spider.scrape_city_names_from_countries(COUNTRIES) # WARNING: THIS MIGHT TRIGGER CPATCHAS
+spider.scrape_city_names_from_countries(COUNTRIES) # WARNING: THIS MIGHT TRIGGER CPATCHAS
 
 '''Method to get restaurant names from the city names we collected previously'''
-# spider.scrape_restaurant_names_from_countries(COUNTRIES)
+spider.scrape_restaurant_names_from_countries(COUNTRIES)
 
 '''Scrapy calls start_requests on it's own when "scrapy crawl google" command is passed'''
 '''But if you only want to get the restaurant names or city names, use "python google.py" and it should be enough'''
