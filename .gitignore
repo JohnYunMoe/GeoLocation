@@ -5,3 +5,4 @@ review_scraper/spiders/backup
 geoclip_eval/images
 geoclip_eval/evalenv
 image_clustering/clusterenv
+.env
