@@ -1,9 +1,4 @@
-"""Google Maps Reviewer-Place Chain Scraper
-
-DISCLAIMER:
-This code automates Google Maps, which may violate Google Maps Terms of Service and
-can trigger anti-bot protections (CAPTCHAs, throttling). Use ONLY for educational
-purposes, respect robots.txt / ToS, add delays, and avoid large-scale scraping.
+r"""Google Maps Reviewer-Place Chain Scraper
 
 Goal:
 Start from a given Google Maps place URL (restaurant/POI). From its reviews:
@@ -47,6 +42,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
+from bs4 import BeautifulSoup
 
 # --------------------------- Configuration ----------------------------------
 TARGET_CITY = "Abu Dhabi"  # Default city filter (case-insensitive substring match)
@@ -54,6 +50,7 @@ DEFAULT_WAIT = 20
 SCROLL_PAUSE = 1.2
 PROFILE_SCROLL_LIMIT = 8
 PLACE_REVIEWER_SCROLL_LIMIT = 6
+DEBUG_DUMP = True
 
 # Persistent profile configuration (set path to an existing signed-in profile)
 PERSISTENT_USER_DATA_DIR = r"C:\selenium\gprofile"  # create & sign in first
@@ -82,7 +79,7 @@ def extract_place_id_from_url(url: str) -> str:
     if m:
         return m.group(1)
     m2 = re.search(r"!1s([^!]+)", url)
-    if m2:
+    if m2:  
         return m2.group(1)
     return str(abs(hash(url)))
 
@@ -187,17 +184,56 @@ class GoogleMapsChainScraper:
             time.sleep(2)
         except Exception:
             pass  # Panel may already be open
+        
+    def _debug_dump_reviews_container(self, container) -> None:
+        """Print and save a readable snapshot of the reviews container."""
+        try:
+            html = container.get_attribute("outerHTML") or ""
+            pretty = BeautifulSoup(html, "html.parser").prettify()
+            # Print a truncated view to console
+            print("\n[DEBUG] Reviews container (truncated):")
+            print(pretty[:3000] + ("\n...[truncated]..." if len(pretty) > 3000 else ""))
+
+            # List immediate children tags/classes
+            kids = container.find_elements(By.XPATH, "./*")
+            print(f"\n[DEBUG] Immediate children count: {len(kids)}")
+            for i, k in enumerate(kids[:25]):  # limit to first 25
+                print(f"  [{i}] <{k.tag_name}> id='{k.get_attribute('id')}' class='{k.get_attribute('class')}'")
+
+            # Save full HTML and a screenshot for offline inspection
+            with open("container_dump.html", "w", encoding="utf-8") as f:
+                f.write(pretty)
+            try:
+                container.screenshot("container.png")
+            except Exception:
+                pass
+            print("\n[DEBUG] Saved container_dump.html and container.png in current working directory.")
+        except Exception as e:
+            print(f"[DEBUG] Failed to dump container: {e}")
 
     def _pick_first_reviewer(self) -> Optional[tuple[str, str]]:
         """Open reviews panel (if needed) and return (reviewer_name, reviewer_profile_url)."""
         self._open_reviews_panel()
         # Scroll some to load reviews
         container = self._locate_reviews_scroll_container()
+        if DEBUG_DUMP and container:
+            self._debug_dump_reviews_container(container)  # human-readable dump
         if container:
             for _ in range(2):
                 self.driver.execute_script('arguments[0].scrollTop = arguments[0].scrollTop + 800;', container)
                 time.sleep(SCROLL_PAUSE)
-        reviewers = self.driver.find_elements(By.XPATH, '//a[contains(@href, "https://www.google.com/maps/contrib/") and (@aria-label or .//img)]')
+        reviewers = []
+        if container:
+            reviewers = container.find_elements(
+                By.XPATH,
+                './/a[starts-with(@href, "https://www.google.com/maps/contrib/")]'
+            )
+        # Fallback (page-wide) if container-based search found nothing
+        if not reviewers:
+            reviewers = self.driver.find_elements(
+                By.XPATH,
+                '//a[starts-with(@href, "https://www.google.com/maps/contrib/")]'
+            )
         if not reviewers:
             return None
         first = reviewers[0]

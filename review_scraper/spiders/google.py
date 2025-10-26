@@ -24,15 +24,15 @@ from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 
 # LOGS AND OUTPUT FILES
-scraping_progress_file = "./logs/scraping_log_eu.json" # REPLACE THE _eu WITH _ar TO SAVE TO THE ARAB COUNTRIES' LOG
-restaurant_details_file = "./data/restaurant_details_eu.json"
-scrape_data_file = "./reviews_eu.csv"
+scraping_progress_file = "./logs/scraping_log_ar.json" # REPLACE THE _eu WITH _ar TO SAVE TO THE ARAB COUNTRIES' LOG
+restaurant_details_file = "./data/restaurant_details_ar.json"
+scrape_data_file = "./reviews_ar.csv"
 
 # CONSTRAINTS
-# COUNTRIES = ["Saudi Arabia","United Arab Emirates","Lebanon","Egypt","Qatar"] # THE ARAB COUNTRIES
-COUNTRIES = ["Germany","United Kingdom","Italy","Spain","France"] # THE EU COUNTRIES
+COUNTRIES = ["Saudi Arabia","United Arab Emirates","Lebanon","Egypt","Qatar"] # THE ARAB COUNTRIES
+# COUNTRIES = ["Germany","United Kingdom","Italy","Spain","France"] # THE EU COUNTRIES
 
-NUM_RESTAURANTS_PER_COUNTRY = 4 # GET 400 RESTAURANTS PER COUNTRY
+NUM_RESTAURANTS_PER_COUNTRY = 100 # GET 10000 RESTAURANTS PER COUNTRY
 NUM_REVIEWS_THRESHHOLD = 3 # RESTAURANTS ARE PICKED ONLY IF THEIR TOTAL NUMBER OF REVIEWS EXCEED 350
 NUM_IMGS_TO_DOWNLOAD = 2 # PER RESTAURANT 25 IMAGES ARE DOWNLOADED
 MAX_NUM_IMGS_PER_USER = 5 # MAX NUMBER OF IMAGES SCRAPED FROM A SINGLE USER PER RESTAURANT
