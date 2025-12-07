@@ -6,10 +6,12 @@ import shutil
 import time
 
 from urllib.parse import quote_plus
+from urllib.parse import urljoin
 
 import numpy as np
 from PIL import Image
 
+import pprint
 import requests
 import scrapy
 from scrapy.http.request import Request
@@ -22,6 +24,30 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
+
+from dotenv import load_dotenv, find_dotenv
+load_dotenv(find_dotenv()) 
+
+
+host = 'brd.superproxy.io'
+port = 33335
+
+username = 'brd-customer-hl_55a0a56d-zone-isp_proxy1' 
+password = 'pz8q19m63gpu'
+
+proxy_url = f'http://{username}-country-ae:{password}@{host}:{port}'
+
+proxies = {
+    'http': proxy_url,
+    'https': proxy_url
+}
+
+
+
+# API data
+# BRIGHTDATA_API_KEY = os.getenv("BRIGHTDATA_API_KEY")
+# BRIGHTDATA_DATASET_ID = os.getenv("BRIGHTDATA_DATASET_ID")
+# BRIGHTDATA_ENDPOINT = f"https://api.brightdata.com/datasets/v3/scrape?dataset_id=gd_m8ebnr0q2qlklc02fz&notify=false&include_errors=true&type=discover_new&discover_by=location"
 
 # LOGS AND OUTPUT FILES
 scraping_progress_file = "./logs/scraping_log_ar.json" # REPLACE THE _eu WITH _ar TO SAVE TO THE ARAB COUNTRIES' LOG
@@ -43,18 +69,43 @@ class GoogleSpider(scrapy.Spider):
 
     name = "google"
 
-    HEADERS = {
-        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66",
-        "referer": None,
-    }
+    # HEADERS = {
+    #     "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66",
+    #     "referer": None,
+    # }
+
 
     def __init__(self, *args, **kwargs):
         super(GoogleSpider, self).__init__(*args, **kwargs)
 
+        # self.HEADERS = {
+        #     "User-Agent": (
+        #         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        #         "AppleWebKit/537.36 (KHTML, like Gecko) "
+        #         "Chrome/120.0.0.0 Safari/537.36"
+        #     ),
+        #     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        #     "Accept-Language": "en-US,en;q=0.8",
+        #     "Cache-Control": "no-cache",
+        #     "Pragma": "no-cache",
+        #     "Upgrade-Insecure-Requests": "1",
+        #     "Referer": "https://www.google.com/",
+        #     # This helps skip some consent interstitials. Safe to include.
+        #     "Cookie": "CONSENT=YES+1; PREF=hl=en",
+        # }
+
         self.HEADERS = {
-            "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66",
-            "referer": None,
+            "Authorization": "Bearer 5dbe9addb2ae9bec756198b7c71a1fd54330c0e8915caedbb77108c928e1ba42",
+            "Content-Type": "application/json"
         }
+
+        self.session = requests.Session()
+        self.session.headers.update(self.HEADERS)
+        try:
+            # warm-up so Google sets consent cookies
+            self.session.get("https://www.google.com/?hl=en", timeout=20)
+        except Exception:
+            pass
         
         self.scraping_progress_file = scraping_progress_file
         self.scraping_progress = self.load_progress(self.scraping_progress_file)
@@ -166,7 +217,6 @@ class GoogleSpider(scrapy.Spider):
                                     )
                                     restaurant_name = name_element.text
                                     restaurant_name = restaurant_name.replace(",","-")
-                                    restaurant_url = name_element.get_attribute('href')
                                     
                                     try:
                                         closed_or_not = item.find_element(
@@ -181,15 +231,14 @@ class GoogleSpider(scrapy.Spider):
                                     
 
                                     
-                                        
-                                    fid,gps_coordinate,city_name_google,search_url = self.get_review_page_fid_gps_from_name(driver, restaurant_name,city_name=city_name,country_name=country_name)
+                                    fid,city_name,search_url = self.get_review_page_fid_gps_from_name(restaurant_name,city_name=city_name,country_name=country_name)
 
-                                    if not fid or not gps_coordinate or not city_name:
+                                    if not fid or not search_url or not city_name:
                                         continue
                                     
 
                                     if not self.restaurant_details['restaurants'].get(fid,None):
-                                        self.restaurant_details['restaurants'][fid] = {"restaurant_name":restaurant_name,"city_name":city_name,"country_name":country_name,"url":search_url,"gps_coordinates":gps_coordinate}
+                                        self.restaurant_details['restaurants'][fid] = {"restaurant_name":restaurant_name,"city_name":city_name,"country_name":country_name,"url":search_url}
                                         city_detail['sampled_restaurant_count_city'] = city_detail.get('sampled_restaurant_count_city',0) + 1
                                         self.restaurant_details['countries'][country_name]["sampled_restaurant_count_country"] = self.restaurant_details['countries'][country_name].get("sampled_restaurant_count_country",0) + 1
                                         if self.restaurant_details['countries'][country_name]["sampled_restaurant_count_country"] >= NUM_RESTAURANTS_PER_COUNTRY:
@@ -290,7 +339,6 @@ class GoogleSpider(scrapy.Spider):
                 country_dict['cities'] = cities_dict
                 country_dict['cities_count'] = len(cities_dict.keys())
                 country_dict['country_restaurant_count'] = country_restaurant_count
-                country_dict['sampled_restaurant_count_country'] = 0
 
             finally:
                 driver.quit()
@@ -300,99 +348,106 @@ class GoogleSpider(scrapy.Spider):
             
         self.save_progress(self.restaurant_details_file,self.restaurant_details)
 
-    def get_review_page_fid_gps_from_name(self,driver,  restaurant_name, city_name="", country_name=""):
-        """
-        Searches for the restaurant name along with a combination of city_name, country_name and if the google reviews box exists, returns the feature_id and gps_coordinates of the reviews page.
 
-        Args
-        ------
-        city_name is optional, when not present, it will pick up the city name from the address in the google reviews box.
-        country_name: also optional, but encouraged to pass here.
 
-        Returns
-        ------
-        fid, gps_coordinate, city_name, search_url : feature_id of the reviews page, gps_coordinate: a str of format "lat,lon", city_name: returns the name of the city to cross check, search_url: the search url that was successful in locating the google reviews box
-        """
-
+    def get_review_page_fid_gps_from_name(self, restaurant_name, city_name="", country_name=""):
         if city_name:
             search_texts = [f"{restaurant_name} {city_name} {country_name}",f"{restaurant_name} restaurant {city_name} {country_name}",f"{restaurant_name} {country_name}",f"{restaurant_name} restaurant {country_name}",f"{restaurant_name} {city_name}",f"{restaurant_name} {city_name} restaurant"]
         else:
             search_texts = [f"{restaurant_name} {city_name} {country_name}",f"{restaurant_name} restaurant {city_name} {country_name}",f"{restaurant_name} {country_name}",f"{restaurant_name} restaurant {country_name}"]
 
         for search_text in search_texts:
+            
             search_text = quote_plus(search_text)
-            search_url = f"https://www.google.com/search?q={search_text}+reviews"
+            search_url = f"https://www.google.com/search?q={search_text}+reviews&hl=en"
             print("SEARCHING URL: ",search_url)
 
-            driver.get(search_url)
-            time.sleep(2)  # WAIT FOR 2 SECONDS TO LOAD THE PAGE PROPERLY
-            response = requests.get(search_url, headers=self.HEADERS)
+            data = {
+                "zone": "isp_proxy1",
+                "url": search_url,
+                "format": "raw"
+            }
 
-            # SOMETIMES THE RATE OF REQUESTS EXCEED THE LIMIT. WAITING IS BETTER IN THAT SCENARIO
-            if response.status_code == 429:
-                retry_after = int(response.headers.get('Retry-After', 200))
-                print(f"Rate limit exceeded. Waiting for {retry_after} seconds")
-                time.sleep(retry_after)
-            
-            
+            response = requests.post(
+                "https://api.brightdata.com/request",
+                json=data,
+                headers=self.HEADERS,
+            )
+            # print(response.text)
+
             soup = BeautifulSoup(response.text, "html.parser")
-
-            # Find the review link
-            #review_link = soup.find("a", {"data-async-trigger": "reviewDialog"}) ## OLD METHOD of finding the element
-            review_link = soup.find("body > div:nth-child(10) > div:nth-child(1) > div:nth-child(15) > div:nth-child(2) > div:nth-child(5) > div:nth-child(5) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > c-wiz:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > a:nth-child(1) > div:nth-child(1)")
-            print("REVIEW LINK: ",review_link)
-            if review_link:
-                break
-        if not review_link:
-            print("ISSUE FOUND")
-            return None, None, None, None
-
-        fid = review_link.get("data-fid")
-
-        num_reviews_string = soup.find("a",{"data-fid":fid}).get_text()
-
-        match = re.search(r'([\d,]+)', num_reviews_string)
-        num_reviews = int(match.group(1).replace(',', ''))
-        if num_reviews<NUM_REVIEWS_THRESHHOLD:
-            return None, None, None, None
-
-        # Find the map link
-        map_link = soup.find("a", {"data-url": re.compile(r"@[-\d\.]+,[-\d\.]+")})
-        if not map_link:
-            return None, None, None, None
-
-        url = map_link.get("data-url")
-        match = re.search(r"@([-\d\.]+),([-\d\.]+)", url)
-        if match:
-            gps_coordinate = f"{match.group(1)},{match.group(2)}"
-        else:
-            gps_coordinate = None
-
-        # CITY CHECK
-        if city_name:
-            return fid, gps_coordinate, city_name, search_url
-        else:
-            # WE GET THE CITY NAME
-            address = soup.find("span",class_="LrzXr").get_text()    
-
-            parts = address.split(',')
-    
-            # Remove the last part (country) and any leading/trailing whitespace
-            parts = [part.strip() for part in parts[:-1]]
             
-            # Get the second to last part, which should contain the city
-            city_part = parts[-1]
+            fid = None
+            REV_TXT = re.compile(r"\breviews?\b", re.I)
+            for a in soup.select("a[data-fid]"):
+                txt = (a.get_text() or "").strip()
+                if REV_TXT.search(txt) or re.search(r"\d", txt):
+                    fid = a.get("data-fid")
+                    print("FOUND fid:", fid)
+                    break
+            if not fid:
+                print("ISSUE FOUND: no fid")
+                return None, None, None
             
-            # Split this part by spaces
-            city_words = city_part.split()
+            time.sleep(120)
             
-            # Filter out any parts that are purely numeric
-            city_words = [word for word in city_words if not word.isdigit()]
-            
-            # Join the remaining words to form the city name
-            city_name = ' '.join(city_words)
 
-            return fid, gps_coordinate, city_name, search_url
+            # review_link = soup.find("a", {"data-fid": fid})
+            # if not review_link:
+            #     print("ISSUE FOUND: review_link missing for fid", fid)
+            #     return None, None, None, None
+
+            num_reviews_string = soup.find("a",{"data-fid":fid}).get_text()
+
+            match = re.search(r'([\d,]+)', num_reviews_string)
+            num_reviews = int(match.group(1).replace(',', ''))
+            print("num reviews:", num_reviews)
+            if num_reviews<NUM_REVIEWS_THRESHHOLD:
+                return None, None, None
+
+            # Find the map link
+            # map_link = soup.find("a", {"data-url": re.compile(r"@[-\d\.]+,[-\d\.]+")})
+            # if not map_link:
+            #     return None, None, None
+
+            # url = map_link.get("data-url")
+            # print("MAP URL:", url)
+            # match = re.search(r"@([-\d\.]+),([-\d\.]+)", url)
+            # if match:
+            #     gps_coordinate = f"{match.group(1)},{match.group(2)}"
+            # else:
+            #     gps_coordinate = None
+
+            # # CITY CHECK
+            if city_name:
+                return fid, city_name, search_url
+            else:
+                # WE GET THE CITY NAME
+                address = soup.find("span",class_="LrzXr").get_text()   
+                # soup.find("data-attrid",class_="kc:/location/location:address").get_text()   
+
+                parts = address.split(',')
+        
+                # Remove the last part (country) and any leading/trailing whitespace
+                parts = [part.strip() for part in parts[:-1]]
+                
+                # Get the second to last part, which should contain the city
+                city_part = parts[-1]
+                
+                # Split this part by spaces
+                city_words = city_part.split()
+                
+                # Filter out any parts that are purely numeric
+                city_words = [word for word in city_words if not word.isdigit()]
+                
+                # Join the remaining words to form the city name
+                city_name = ' '.join(city_words)
+
+                return fid, city_name, search_url
+
+            
+
+
         
     def load_progress(self, save_file):
         """Helper method to read a dict from a json file. Currently used for ./data/restaurant_details.json and ./logs/scraping_logs.json."""
@@ -434,50 +489,6 @@ class GoogleSpider(scrapy.Spider):
             os.makedirs("./images")
         with open(f"./images/{name}.png", "wb") as out_file:
             shutil.copyfileobj(response.raw, out_file)
-
-    def start_requests(self):
-        """Default method called by scrapy. Use 'scrapy crawl google' command to start scraping. Loads the restaurant details form restaurant_details.json file and starts scraping for 
-        reviews with images. Scraping is currently subject to constraints. At most NUM_IMAGES_PER_USER number of images (by default 3) are gathered and then it moves on to the next user. 
-        Gathers NUM_IMGS_TO_DOWNLOAD number of images for each restaurant (by default 30)"""
-    
-
-        for fid in self.restaurant_details['restaurants']:
-            restaurant_detail = self.restaurant_details['restaurants'][fid]
-
-            restaurant_name = restaurant_detail["restaurant_name"]
-            if fid not in self.scraping_progress:
-                self.scraping_progress[fid] = {
-                    "restaurant_name": restaurant_name,
-                    "status": "not_started",
-                    "next_page_token": "",
-                    "images_left_to_download": NUM_IMGS_TO_DOWNLOAD
-                }
-
-            if self.scraping_progress[fid]["images_left_to_download"]==0:
-                continue
-            
-            if self.scraping_progress[fid]["status"] != "completed":
-
-                next_page_token = self.scraping_progress[fid]["next_page_token"]
-                url = (
-                    "https://www.google.com/async/reviewDialog?async=feature_id:"
-                    + str(fid)
-                    + f",next_page_token:{next_page_token}"
-                    + ",_fmt:pc"
-                )
-
-                images_left_to_download = self.scraping_progress[fid]["images_left_to_download"]
-
-                yield Request(
-                    url=url,  # THE URL CONTAINS THE NEXT PAGE TOKEN, NO NEED TO SEND IT VIA META
-                    headers=self.HEADERS,
-                    callback=self.parse_reviews,
-                    meta={
-                        "feature_id":fid,
-                        "restaurant_detail": restaurant_detail,
-                        "images_left_to_download":images_left_to_download
-                    },
-                )
 
     def parse_reviews(self, response):
         """Parses the response object from a previous request, loads first 10 reviews, saves the data for the ones that have images with them in a csv. Finally it detects the 
@@ -682,6 +693,56 @@ class GoogleSpider(scrapy.Spider):
                         "images_left_to_download":images_left_to_download
                     },
             )
+
+    def start_requests(self):
+        """Default method called by scrapy. Use 'scrapy crawl google' command to start scraping. Loads the restaurant details form restaurant_details.json file and starts scraping for 
+        reviews with images. Scraping is currently subject to constraints. At most NUM_IMAGES_PER_USER number of images (by default 3) are gathered and then it moves on to the next user. 
+        Gathers NUM_IMGS_TO_DOWNLOAD number of images for each restaurant (by default 30)"""
+    
+
+        for fid in self.restaurant_details['restaurants']:
+            restaurant_detail = self.restaurant_details['restaurants'][fid]
+
+            restaurant_name = restaurant_detail["restaurant_name"]
+            if fid not in self.scraping_progress:
+                self.scraping_progress[fid] = {
+                    "restaurant_name": restaurant_name,
+                    "status": "not_started",
+                    "next_page_token": "",
+                    "images_left_to_download": NUM_IMGS_TO_DOWNLOAD
+                }
+
+            if self.scraping_progress[fid]["images_left_to_download"]==0:
+                continue
+            
+            if self.scraping_progress[fid]["status"] != "completed":
+
+                next_page_token = self.scraping_progress[fid]["next_page_token"]
+                url = (
+                    "https://www.google.com/async/reviewDialog?async=feature_id:"
+                    + str(fid)
+                    + f",next_page_token:{next_page_token}"
+                    + ",_fmt:pc"
+                )
+
+                images_left_to_download = self.scraping_progress[fid]["images_left_to_download"]
+
+                yield Request(
+                    url=url,  # THE URL CONTAINS THE NEXT PAGE TOKEN, NO NEED TO SEND IT VIA META
+                    headers=self.HEADERS,
+                    callback=self.parse_reviews,
+                    meta={
+                        "feature_id":fid,
+                        "restaurant_detail": restaurant_detail,
+                        "images_left_to_download":images_left_to_download
+                    },
+                )
+    
+
+
+
+
+    
 
 
 
