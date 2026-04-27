@@ -1,36 +1,173 @@
-# GeoLocation for Indoor Images 
+# GeoLocation for Indoor Images
 
-In this project, we aimed to improve the image-to-location capabilities of machine learning models with regard to geolocating indoor images. Current existing models perform well in case outdoor images but have subpar performance when it comes to indoor images. We focused on the results of the GeoCLIP model in particular, due to this model having SOTA results all the while being open-source. The original GeoCLIP results can be found [here](https://arxiv.org/abs/2103.00020).
+This project focuses on improving image geolocation for indoor scenes. Most geolocation models perform well on outdoor landmarks but are weaker on indoor or semi-indoor images (hotel rooms, restaurants, malls, etc.). We use GeoCLIP as the baseline model and build a scraping pipeline to collect place-linked image data for evaluation and future fine-tuning.
 
-# Idea
+Original GeoCLIP paper: [https://arxiv.org/abs/2103.00020](https://arxiv.org/abs/2103.00020)
 
-Due to the training data of the GeoCLIP model comprising only outdoor images, our first approach will be to retrain the model on mostly indoor images using a dataset of a number of images taken from Middle Eastern and European countries. We are yet to do so, and we will update our results once we have them. But before training a new model, we would like to test it on the pre-trained GeoCLIP model to see how well it performs in different image classes.
+## Current Data Collection Approach (Bright Data)
 
-# Directories
+The older Selenium/Scrapy scraping flow has been replaced with a Bright Data dataset pipeline.
 
-<h2>review_scraper</h2> 
+The Bright Data workflow is designed to:
+1. Cover UAE regions using a geographic grid.
+2. Query place categories (restaurant, cafe, hotel, etc.) around each grid point.
+3. Save rich place metadata and image URLs.
+4. Download image assets for later GeoCLIP evaluation.
 
-Employs a Python script using selenium and scrapy to at first scrape city names and details from the site [Restaurant Guru](https://restaurantguru.com/) and then uses this list of cities to get the restaurant_details (feature_id, gps_coordinate, restaurant_name, city_name, country_name) of a certain number of restaurants from each city. Then using scrapy, the reviews can be scraped with their images, review_description, reviewer_id, rating, etc. 
-<br><br>
-The total number of restaurants per country is set before running the script. The number of restaurants per city is adjusted based on the number of restaurant entries present on the restaurant guru website. This is done to ensure an even distribution of restaurants all over the country. The restaurant_details are collected in the following way: The script gets the restaurant_name, city_name, and country_name and searches on Google via a combination of search texts (for example, XYZ Restaurant Paris France Reviews). Once it locates the reviews box in the search results it gets the feature_id, gps_coordinates from there.
-<br><br>
-<b>To run the script</b>, navigate to <code>./spiders/google.py</code> file where all key methods are located. 
-<br><br>><b>To get the restaurant_details</b>, uncomment the lines 
-<code>spider.scrape_city_names_from_countries(COUNTRIES)</code> and <code>spider.scrape_restaurant_names_from_countries(COUNTRIES)</code> and run it using <code>python google.py</code> command.
-<br><b>NOTE:</b> Might run into captchas from the restaurant guru site, till now manually resolving one of them solves the issue temporarily.
-<br><br>><b>To scrape images and review entries</b>, run <code>scrapy crawl google</code> after commenting out the previously uncommented lines.
-<br><br><b>NOTE:</b> You might need to change some constants on top of the <code>./spiders/google.py</code> file. For example <code>NUM_RESTAURANTS_PER_COUNTRY = 400</code> limits the number of restaurants per country to 400, while <code>NUM_IMGS_TO_DOWNLOAD = 25</code> means it downloads 25 images per restaurant.
-<br><br><b>Saved data is stored in the following: </b>(filenames might change based on use-case) 
-- <code>./spiders/data/restaurant_details.json</code> contains the country list, city names, and list of restaurant details 
-- <code>./spiders/logs/scraping_log.json</code> contains the log file that is used to start the script from where it left off.
-- <code>./spiders/reviews.csv</code> contains the csv file with the reviews data.
-- <code>./spiders/images</code> directory with all the downloaded images.
+### What the scraping looks like
 
+Each API input is a location-centered query in this shape:
+- country
+- lat / long
+- zoom_level
+- keyword (example: hotel, restaurant, clinic)
 
-<h2>eval_geoclip</h2> 
-Contains script to evaluate images based on pre-trained geoclip model. <code>./eval_geoclip/eval_geoclip.py</code> takes an input csv file, locates the image using image_path value, and then processes it using the pretrained geoclip model. The predicted latitude and longitude are then appended to an output file, along with the spherical distance from the original latitude and longitude of the image. Our aim is to later label the image categories and measure the performance of GeoCLIP on different image classes.  
-<br><br>
-<b>NOTE:</b> The script can be interrupted and once run again it will pick up from where it left off. The User might need to fix the image_path for different cases.
+For each input, Bright Data returns place records including fields such as:
+- place_id, fid_location
+- name, address, country
+- lat, lon
+- main_image
+- photos_and_videos (used for image download)
 
-<h2>image_clustering</h2>
-Contains a notebook that runs a basic clustering algorithm to try to distinguish between food vs non-food images. Might be helpful in the future for image labeling. 
+The scraper runs as snapshot jobs:
+1. Trigger snapshot for one grid-point/keyword input.
+2. Poll until status is ready (or failed).
+3. Download JSON result.
+4. Deduplicate by place_id and append to results file.
+
+## Directory Overview
+
+### brightdata/
+
+Main folder for the new scraping pipeline.
+
+- `generate_grid.py`
+	- Builds `input_grid.json` from UAE bounding boxes and a keyword list.
+	- Applies spacing and deduplication to reduce overlapping requests.
+	- Prints and saves a cost summary (`grid_summary.txt`).
+
+- `visualize_grid.py`
+	- Loads `input_grid.json`.
+	- Generates an interactive map (`grid_map.html`) to inspect coverage by emirate.
+
+- `BDscraper.py`
+	- Reads `input_grid.json`.
+	- Triggers Bright Data dataset snapshots and polls progress.
+	- Downloads records and appends deduplicated output to `data/resultsAE.json`.
+	- Logs run details to `data/scraper.log`.
+	- Enforces budget safety using `RATE_PER_1K`, `BUDGET_LIMIT`, and `initial_cost`.
+
+- `download_images.py`
+	- Reads scraped records and extracts URLs from `photos_and_videos`.
+	- Downloads images concurrently to `data/images/`.
+	- Skips files that already exist (resumable behavior).
+
+- `.env`
+	- Stores `BRIGHTDATA_API_KEY`.
+
+### geoclip_eval/
+
+Contains evaluation scripts for pre-trained GeoCLIP. The evaluator reads image paths and outputs predicted coordinates plus distance error metrics.
+
+### image_clustering/
+
+Contains exploratory clustering work to separate image groups (for example food vs non-food), helping with downstream labeling and analysis.
+
+### review_scraper(outdated)/
+
+Legacy Selenium/Scrapy implementation kept for reference only. Active scraping now uses Bright Data.
+
+## Updated Run Instructions (Bright Data)
+
+Run commands from `brightdata/`.
+
+### 1) Setup environment
+
+```bash
+cd brightdata
+python -m venv .venv
+```
+
+Activate venv:
+
+- Windows PowerShell:
+
+```bash
+.\.venv\Scripts\Activate.ps1
+```
+
+- Linux/macOS:
+
+```bash
+source .venv/bin/activate
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Create `.env` in `brightdata/` with:
+
+```env
+BRIGHTDATA_API_KEY=your_api_key_here
+```
+
+### 2) Generate location grid
+
+```bash
+python generate_grid.py
+```
+
+This creates:
+- `input_grid.json`
+- `grid_summary.txt`
+
+### 3) (Optional) Visualize grid coverage
+
+```bash
+python visualize_grid.py
+```
+
+This creates:
+- `grid_map.html`
+
+### 4) Scrape places via Bright Data
+
+```bash
+python BDscraper.py
+```
+
+Outputs:
+- `data/resultsAE.json` (deduplicated place records)
+- `data/scraper.log` (run log)
+
+Important settings in `BDscraper.py`:
+- `RATE_PER_1K`
+- `BUDGET_LIMIT`
+- `initial_cost` (set to prior spend so budget checks reflect all-time usage)
+
+### 5) Download images from scraped records
+
+```bash
+python download_images.py
+```
+
+By default, this script expects an input JSON path defined by `INPUT_FILE`. If your scrape output is `data/resultsAE.json`, set `INPUT_FILE` accordingly before running.
+
+Images are saved to:
+- `data/images/`
+
+## Notes
+
+- The scraper is robust to partial runs: results are appended and deduplicated.
+- Image downloading is resumable because existing files are skipped.
+- Cost control is built in, but you should still monitor Bright Data usage from your account dashboard.
+
+## Next Phase
+
+After data collection, the dataset is used to:
+1. Evaluate baseline GeoCLIP performance on indoor-heavy imagery.
+2. Compare performance across image categories.
+3. Prepare training/evaluation data for future indoor-focused fine-tuning.
