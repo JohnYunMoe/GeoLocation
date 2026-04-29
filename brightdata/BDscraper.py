@@ -23,7 +23,7 @@ CUSTOM_FIELDS = "place_id|url|country|name|address|main_image|lat|lon|photos_and
 
 RATE_PER_1K = 1.50  # USD per 1000 records
 BUDGET_LIMIT = 500.00  # USD — stop run if all-time cost exceeds this
-initial_cost = 44.04  # USD — if you have prior costs from previous runs, set that here to account for it in the budget limit
+initial_cost = 181.00  # USD — if you have prior costs from previous runs, set that here to account for it in the budget limit
 
 def cost(record_count):
     return (record_count / 1000) * RATE_PER_1K
@@ -137,8 +137,8 @@ def append_results(new_records):
 
 total_inputs = len(SEARCH_INPUTS)
 for idx, entry in enumerate(SEARCH_INPUTS, start=1):
-    if initial_cost + cost(received_this_run) >= BUDGET_LIMIT:
-        print(f"\nBudget limit of ${BUDGET_LIMIT:.2f} reached (${initial_cost + cost(received_this_run):.4f} all-time). Stopping.")
+    if initial_cost >= BUDGET_LIMIT:
+        print(f"\nBudget limit of ${BUDGET_LIMIT:.2f} reached (${initial_cost:.4f} all-time). Stopping.")
         log.warning("Budget limit of $%.2f reached. Stopping at input %d/%d.", BUDGET_LIMIT, idx, total_inputs)
         break
 
@@ -150,11 +150,12 @@ for idx, entry in enumerate(SEARCH_INPUTS, start=1):
         if success:
             data = download_snapshot(snapshot_id)
             count = append_results(data)
+            initial_cost += cost(len(data) if isinstance(data, list) else 1)
             print(f"  Retrieved {count} record(s) — {total_saved} total in file")
-            print(f"  This run: {new_records_this_run} records / ${cost(received_this_run):.4f} | All-time: {total_saved} records / ${initial_cost + cost(received_this_run):.4f}")
+            print(f"  This run: {new_records_this_run} records / ${cost(received_this_run):.4f} | All-time: {total_saved} records / ${initial_cost:.4f}")
             log.info("Retrieved %d record(s) — %d total | This run: %d / $%.4f | All-time: $%.4f",
-                     count, total_saved, new_records_this_run, cost(received_this_run), initial_cost + cost(received_this_run))
-            if initial_cost + cost(received_this_run) >= BUDGET_LIMIT:
+                     count, total_saved, new_records_this_run, cost(received_this_run), initial_cost)
+            if initial_cost >= BUDGET_LIMIT:
                 print(f"\nBudget limit of ${BUDGET_LIMIT:.2f} reached after this snapshot. Stopping.")
                 log.warning("Budget limit of $%.2f reached after snapshot %s. Stopping.", BUDGET_LIMIT, snapshot_id)
                 break
@@ -167,6 +168,6 @@ for idx, entry in enumerate(SEARCH_INPUTS, start=1):
 
 print(f"\n--- Run Summary ---")
 print(f"New records this run : {new_records_this_run} (${cost(received_this_run):.4f})")
-print(f"Total records in file: {total_saved} (${initial_cost + cost(received_this_run):.4f} all-time)")
+print(f"Total records in file: {total_saved} (${initial_cost:.4f} all-time)")
 log.info("=== Run Summary — new: %d ($%.4f) | total: %d ($%.4f) ===",
-         new_records_this_run, cost(received_this_run), total_saved, initial_cost + cost(received_this_run))
+         new_records_this_run, cost(received_this_run), total_saved, initial_cost)
