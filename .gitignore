@@ -8,4 +8,4 @@ image_clustering/clusterenv
 .env
 brightdata/.env
 brightdata/venv
-brightdata/data
+brightdata/data/images 
