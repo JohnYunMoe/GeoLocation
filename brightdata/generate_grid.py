@@ -82,9 +82,7 @@ EMIRATES = {
 }
 
 KEYWORDS = [
-    "restaurant", "cafe", "hotel", "mall", "gym",
-    "hospital", "mosque", "spa", "cinema", "bakery",
-    "pharmacy", "clinic", "school", "bank", "supermarket",
+    "apparel", "library", "bar", "dry cleaning", "museum", "convenience store"
 ]
 
 # Cost model: $1.50 per 1000 records, 50 records returned per API request
