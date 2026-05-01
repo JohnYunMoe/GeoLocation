@@ -1,6 +1,14 @@
 UAE Google Maps Grid Summary
 ========================================
+  Fujairah                  3 grid points
+  Abu Dhabi 1               6 grid points
+  Abu Dhabi 2               1 grid points
+  Abu Dhabi 3               1 grid points
+  Abu Dhabi 4               1 grid points
+  Abu Dhabi 5               1 grid points
   Abu Dhabi 6               4 grid points
+  Dubai 1 Jebel Ali         4 grid points
+  Dubai 2 Downtown          6 grid points
   Dubai 3                   4 grid points
   Sharjah Ajman 1           3 grid points
   Sharjah Ajman 2           6 grid points
@@ -8,10 +16,8 @@ UAE Google Maps Grid Summary
   RAK 2                     1 grid points
   RAK 3                     1 grid points
   Al Ain                    4 grid points
-  Abu Dhabi 1               6 grid points
-  Abu Dhabi 2               1 grid points
 ----------------------------------------
-  Total grid points        32
-  Total requests          480  (grid points × 15 keywords)
-  Est. API records      24000
-  Estimated cost       $  36.00  ($1.5/1000 records)
+  Total grid points        48
+  Total requests          288  (grid points × 6 keywords)
+  Est. API records      14400
+  Estimated cost       $  21.60  ($1.5/1000 records)

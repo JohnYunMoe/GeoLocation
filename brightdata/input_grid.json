@@ -1,3187 +1,2018 @@
 [
   {
     "country": "AE",
-    "lat": 24.59657,
-    "long": 54.814655,
+    "lat": 25.035823,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 24.59657,
-    "long": 54.814655,
+    "lat": 25.035823,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 24.59657,
-    "long": 54.814655,
+    "lat": 25.035823,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 24.59657,
-    "long": 54.814655,
+    "lat": 25.035823,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 24.59657,
-    "long": 54.814655,
+    "lat": 25.035823,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.658507,
+    "lat": 25.035823,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.658507,
+    "lat": 25.19348,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.658507,
+    "lat": 25.19348,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.658507,
+    "lat": 25.19348,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.658507,
+    "lat": 25.19348,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.658507,
+    "lat": 25.19348,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.658507,
+    "lat": 25.19348,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.658507,
+    "lat": 25.351138,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.658507,
+    "lat": 25.351138,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.658507,
+    "lat": 25.351138,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.658507,
+    "lat": 25.351138,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.658507,
+    "lat": 25.351138,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.658507,
+    "lat": 25.351138,
+    "long": 56.252196,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.658507,
+    "lat": 24.229723,
+    "long": 54.457115,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.658507,
+    "lat": 24.229723,
+    "long": 54.457115,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.814655,
+    "lat": 24.229723,
+    "long": 54.457115,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.814655,
+    "lat": 24.229723,
+    "long": 54.457115,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.814655,
+    "lat": 24.229723,
+    "long": 54.457115,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.814655,
+    "lat": 24.229723,
+    "long": 54.457115,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.814655,
+    "lat": 24.229723,
+    "long": 54.630123,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.814655,
+    "lat": 24.229723,
+    "long": 54.630123,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.814655,
+    "lat": 24.229723,
+    "long": 54.630123,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.814655,
+    "lat": 24.229723,
+    "long": 54.630123,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.814655,
+    "lat": 24.229723,
+    "long": 54.630123,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.814655,
+    "lat": 24.229723,
+    "long": 54.630123,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.814655,
+    "lat": 24.229723,
+    "long": 54.803131,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.814655,
+    "lat": 24.229723,
+    "long": 54.803131,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.814655,
+    "lat": 24.229723,
+    "long": 54.803131,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.814655,
+    "lat": 24.229723,
+    "long": 54.803131,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 24.738462,
-    "long": 54.814655,
+    "lat": 24.229723,
+    "long": 54.803131,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.315656,
+    "lat": 24.229723,
+    "long": 54.803131,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.315656,
+    "lat": 24.38738,
+    "long": 54.457115,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.315656,
+    "lat": 24.38738,
+    "long": 54.457115,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.315656,
+    "lat": 24.38738,
+    "long": 54.457115,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.315656,
+    "lat": 24.38738,
+    "long": 54.457115,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.315656,
+    "lat": 24.38738,
+    "long": 54.457115,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.315656,
+    "lat": 24.38738,
+    "long": 54.457115,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.315656,
+    "lat": 24.38738,
+    "long": 54.630123,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.315656,
+    "lat": 24.38738,
+    "long": 54.630123,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.315656,
+    "lat": 24.38738,
+    "long": 54.630123,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.315656,
+    "lat": 24.38738,
+    "long": 54.630123,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.315656,
+    "lat": 24.38738,
+    "long": 54.630123,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.315656,
+    "lat": 24.38738,
+    "long": 54.630123,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.315656,
+    "lat": 24.38738,
+    "long": 54.803131,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.315656,
+    "lat": 24.38738,
+    "long": 54.803131,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.472148,
+    "lat": 24.38738,
+    "long": 54.803131,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.472148,
+    "lat": 24.38738,
+    "long": 54.803131,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.472148,
+    "lat": 24.38738,
+    "long": 54.803131,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.472148,
+    "lat": 24.38738,
+    "long": 54.803131,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.472148,
+    "lat": 24.432423,
+    "long": 54.349143,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.472148,
+    "lat": 24.432423,
+    "long": 54.349143,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.472148,
+    "lat": 24.432423,
+    "long": 54.349143,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.472148,
+    "lat": 24.432423,
+    "long": 54.349143,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.472148,
+    "lat": 24.432423,
+    "long": 54.349143,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.472148,
+    "lat": 24.432423,
+    "long": 54.349143,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.472148,
+    "lat": 24.539323,
+    "long": 54.421557,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.472148,
+    "lat": 24.539323,
+    "long": 54.421557,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.472148,
+    "lat": 24.539323,
+    "long": 54.421557,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.472148,
+    "lat": 24.539323,
+    "long": 54.421557,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 24.86487,
-    "long": 55.472148,
+    "lat": 24.539323,
+    "long": 54.421557,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.315656,
+    "lat": 24.539323,
+    "long": 54.421557,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.315656,
+    "lat": 24.452023,
+    "long": 54.454246,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.315656,
+    "lat": 24.452023,
+    "long": 54.454246,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.315656,
+    "lat": 24.452023,
+    "long": 54.454246,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.315656,
+    "lat": 24.452023,
+    "long": 54.454246,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.315656,
+    "lat": 24.452023,
+    "long": 54.454246,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.315656,
+    "lat": 24.452023,
+    "long": 54.454246,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.315656,
+    "lat": 24.452323,
+    "long": 54.622452,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.315656,
+    "lat": 24.452323,
+    "long": 54.622452,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.315656,
+    "lat": 24.452323,
+    "long": 54.622452,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.315656,
+    "lat": 24.452323,
+    "long": 54.622452,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.315656,
+    "lat": 24.452323,
+    "long": 54.622452,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.315656,
+    "lat": 24.452323,
+    "long": 54.622452,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.315656,
+    "lat": 24.598823,
+    "long": 54.660985,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.315656,
+    "lat": 24.598823,
+    "long": 54.660985,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.472148,
+    "lat": 24.598823,
+    "long": 54.660985,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.472148,
+    "lat": 24.598823,
+    "long": 54.660985,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.472148,
+    "lat": 24.598823,
+    "long": 54.660985,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.472148,
+    "lat": 24.598823,
+    "long": 54.660985,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.472148,
+    "lat": 24.598823,
+    "long": 54.834483,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.472148,
+    "lat": 24.598823,
+    "long": 54.834483,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.472148,
+    "lat": 24.598823,
+    "long": 54.834483,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.472148,
+    "lat": 24.598823,
+    "long": 54.834483,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.472148,
+    "lat": 24.598823,
+    "long": 54.834483,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.472148,
+    "lat": 24.598823,
+    "long": 54.834483,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.472148,
+    "lat": 24.75648,
+    "long": 54.660985,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.472148,
+    "lat": 24.75648,
+    "long": 54.660985,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.472148,
+    "lat": 24.75648,
+    "long": 54.660985,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.472148,
+    "lat": 24.75648,
+    "long": 54.660985,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.006762,
-    "long": 55.472148,
+    "lat": 24.75648,
+    "long": 54.660985,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.291129,
+    "lat": 24.75648,
+    "long": 54.660985,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.291129,
+    "lat": 24.75648,
+    "long": 54.834483,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.291129,
+    "lat": 24.75648,
+    "long": 54.834483,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.291129,
+    "lat": 24.75648,
+    "long": 54.834483,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.291129,
+    "lat": 24.75648,
+    "long": 54.834483,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.291129,
+    "lat": 24.75648,
+    "long": 54.834483,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.291129,
+    "lat": 24.75648,
+    "long": 54.834483,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.291129,
+    "lat": 24.828223,
+    "long": 54.949136,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.291129,
+    "lat": 24.828223,
+    "long": 54.949136,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.291129,
+    "lat": 24.828223,
+    "long": 54.949136,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.291129,
+    "lat": 24.828223,
+    "long": 54.949136,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.291129,
+    "lat": 24.828223,
+    "long": 54.949136,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.291129,
+    "lat": 24.828223,
+    "long": 54.949136,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.291129,
+    "lat": 24.828223,
+    "long": 55.122988,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.291129,
+    "lat": 24.828223,
+    "long": 55.122988,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.448131,
+    "lat": 24.828223,
+    "long": 55.122988,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.448131,
+    "lat": 24.828223,
+    "long": 55.122988,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.448131,
+    "lat": 24.828223,
+    "long": 55.122988,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.448131,
+    "lat": 24.828223,
+    "long": 55.122988,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.448131,
+    "lat": 24.98588,
+    "long": 54.949136,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.448131,
+    "lat": 24.98588,
+    "long": 54.949136,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.448131,
+    "lat": 24.98588,
+    "long": 54.949136,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.448131,
+    "lat": 24.98588,
+    "long": 54.949136,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.448131,
+    "lat": 24.98588,
+    "long": 54.949136,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.448131,
+    "lat": 24.98588,
+    "long": 54.949136,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.448131,
+    "lat": 24.98588,
+    "long": 55.122988,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.448131,
+    "lat": 24.98588,
+    "long": 55.122988,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.448131,
+    "lat": 24.98588,
+    "long": 55.122988,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.448131,
+    "lat": 24.98588,
+    "long": 55.122988,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.448131,
+    "lat": 24.98588,
+    "long": 55.122988,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.605133,
+    "lat": 24.98588,
+    "long": 55.122988,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.605133,
+    "lat": 25.071523,
+    "long": 55.124182,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.605133,
+    "lat": 25.071523,
+    "long": 55.124182,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.605133,
+    "lat": 25.071523,
+    "long": 55.124182,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.605133,
+    "lat": 25.071523,
+    "long": 55.124182,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.605133,
+    "lat": 25.071523,
+    "long": 55.124182,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.605133,
+    "lat": 25.071523,
+    "long": 55.124182,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.605133,
+    "lat": 25.071523,
+    "long": 55.29836,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.605133,
+    "lat": 25.071523,
+    "long": 55.29836,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.605133,
+    "lat": 25.071523,
+    "long": 55.29836,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.605133,
+    "lat": 25.071523,
+    "long": 55.29836,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.605133,
+    "lat": 25.071523,
+    "long": 55.29836,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.605133,
+    "lat": 25.071523,
+    "long": 55.29836,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.605133,
+    "lat": 25.071523,
+    "long": 55.472537,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.28267,
-    "long": 55.605133,
+    "lat": 25.071523,
+    "long": 55.472537,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.471063,
+    "lat": 25.071523,
+    "long": 55.472537,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.471063,
+    "lat": 25.071523,
+    "long": 55.472537,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.471063,
+    "lat": 25.071523,
+    "long": 55.472537,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.471063,
+    "lat": 25.071523,
+    "long": 55.472537,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.471063,
+    "lat": 25.22918,
+    "long": 55.124182,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.471063,
+    "lat": 25.22918,
+    "long": 55.124182,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.471063,
+    "lat": 25.22918,
+    "long": 55.124182,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.471063,
+    "lat": 25.22918,
+    "long": 55.124182,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.471063,
+    "lat": 25.22918,
+    "long": 55.124182,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.471063,
+    "lat": 25.22918,
+    "long": 55.124182,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.471063,
+    "lat": 25.22918,
+    "long": 55.29836,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.471063,
+    "lat": 25.22918,
+    "long": 55.29836,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.471063,
+    "lat": 25.22918,
+    "long": 55.29836,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.471063,
+    "lat": 25.22918,
+    "long": 55.29836,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.471063,
+    "lat": 25.22918,
+    "long": 55.29836,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.628308,
+    "lat": 25.22918,
+    "long": 55.29836,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.628308,
+    "lat": 25.22918,
+    "long": 55.472537,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.628308,
+    "lat": 25.22918,
+    "long": 55.472537,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.628308,
+    "lat": 25.22918,
+    "long": 55.472537,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.628308,
+    "lat": 25.22918,
+    "long": 55.472537,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.628308,
+    "lat": 25.22918,
+    "long": 55.472537,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.628308,
+    "lat": 25.22918,
+    "long": 55.472537,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.628308,
+    "lat": 24.867123,
+    "long": 55.31814,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.628308,
+    "lat": 24.867123,
+    "long": 55.31814,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.628308,
+    "lat": 24.867123,
+    "long": 55.31814,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.628308,
+    "lat": 24.867123,
+    "long": 55.31814,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.628308,
+    "lat": 24.867123,
+    "long": 55.31814,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.628308,
+    "lat": 24.867123,
+    "long": 55.31814,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.628308,
+    "lat": 24.867123,
+    "long": 55.49202,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.628308,
+    "lat": 24.867123,
+    "long": 55.49202,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.785552,
+    "lat": 24.867123,
+    "long": 55.49202,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.785552,
+    "lat": 24.867123,
+    "long": 55.49202,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.785552,
+    "lat": 24.867123,
+    "long": 55.49202,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.785552,
+    "lat": 24.867123,
+    "long": 55.49202,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.785552,
+    "lat": 25.02478,
+    "long": 55.31814,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.785552,
+    "lat": 25.02478,
+    "long": 55.31814,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.785552,
+    "lat": 25.02478,
+    "long": 55.31814,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.785552,
+    "lat": 25.02478,
+    "long": 55.31814,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.785552,
+    "lat": 25.02478,
+    "long": 55.31814,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.785552,
+    "lat": 25.02478,
+    "long": 55.31814,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.785552,
+    "lat": 25.02478,
+    "long": 55.49202,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.785552,
+    "lat": 25.02478,
+    "long": 55.49202,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.785552,
+    "lat": 25.02478,
+    "long": 55.49202,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.785552,
+    "lat": 25.02478,
+    "long": 55.49202,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.44487,
-    "long": 55.785552,
+    "lat": 25.02478,
+    "long": 55.49202,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.471063,
+    "lat": 25.02478,
+    "long": 55.49202,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.471063,
+    "lat": 25.284923,
+    "long": 55.293621,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.471063,
+    "lat": 25.284923,
+    "long": 55.293621,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.471063,
+    "lat": 25.284923,
+    "long": 55.293621,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.471063,
+    "lat": 25.284923,
+    "long": 55.293621,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.471063,
+    "lat": 25.284923,
+    "long": 55.293621,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.471063,
+    "lat": 25.284923,
+    "long": 55.293621,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.471063,
+    "lat": 25.284923,
+    "long": 55.468068,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.471063,
+    "lat": 25.284923,
+    "long": 55.468068,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.471063,
+    "lat": 25.284923,
+    "long": 55.468068,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.471063,
+    "lat": 25.284923,
+    "long": 55.468068,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.471063,
+    "lat": 25.284923,
+    "long": 55.468068,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.471063,
+    "lat": 25.284923,
+    "long": 55.468068,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.471063,
+    "lat": 25.284923,
+    "long": 55.642514,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.471063,
+    "lat": 25.284923,
+    "long": 55.642514,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.628308,
+    "lat": 25.284923,
+    "long": 55.642514,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.628308,
+    "lat": 25.284923,
+    "long": 55.642514,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.628308,
+    "lat": 25.284923,
+    "long": 55.642514,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.628308,
+    "lat": 25.284923,
+    "long": 55.642514,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.628308,
+    "lat": 25.447123,
+    "long": 55.473559,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.628308,
+    "lat": 25.447123,
+    "long": 55.473559,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.628308,
+    "lat": 25.447123,
+    "long": 55.473559,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.628308,
+    "lat": 25.447123,
+    "long": 55.473559,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.628308,
+    "lat": 25.447123,
+    "long": 55.473559,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.628308,
+    "lat": 25.447123,
+    "long": 55.473559,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.628308,
+    "lat": 25.447123,
+    "long": 55.648275,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.628308,
+    "lat": 25.447123,
+    "long": 55.648275,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.628308,
+    "lat": 25.447123,
+    "long": 55.648275,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.628308,
+    "lat": 25.447123,
+    "long": 55.648275,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.628308,
+    "lat": 25.447123,
+    "long": 55.648275,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.785552,
+    "lat": 25.447123,
+    "long": 55.648275,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.785552,
+    "lat": 25.447123,
+    "long": 55.822991,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.785552,
+    "lat": 25.447123,
+    "long": 55.822991,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.785552,
+    "lat": 25.447123,
+    "long": 55.822991,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.785552,
+    "lat": 25.447123,
+    "long": 55.822991,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.785552,
+    "lat": 25.447123,
+    "long": 55.822991,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.785552,
+    "lat": 25.447123,
+    "long": 55.822991,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.785552,
+    "lat": 25.60478,
+    "long": 55.473559,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.785552,
+    "lat": 25.60478,
+    "long": 55.473559,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.785552,
+    "lat": 25.60478,
+    "long": 55.473559,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.785552,
+    "lat": 25.60478,
+    "long": 55.473559,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.785552,
+    "lat": 25.60478,
+    "long": 55.473559,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.785552,
+    "lat": 25.60478,
+    "long": 55.473559,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.785552,
+    "lat": 25.60478,
+    "long": 55.648275,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.586762,
-    "long": 55.785552,
+    "lat": 25.60478,
+    "long": 55.648275,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.815096,
+    "lat": 25.60478,
+    "long": 55.648275,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.815096,
+    "lat": 25.60478,
+    "long": 55.648275,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.815096,
+    "lat": 25.60478,
+    "long": 55.648275,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.815096,
+    "lat": 25.60478,
+    "long": 55.648275,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.815096,
+    "lat": 25.60478,
+    "long": 55.822991,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.815096,
+    "lat": 25.60478,
+    "long": 55.822991,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.815096,
+    "lat": 25.60478,
+    "long": 55.822991,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.815096,
+    "lat": 25.60478,
+    "long": 55.822991,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.815096,
+    "lat": 25.60478,
+    "long": 55.822991,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.815096,
+    "lat": 25.60478,
+    "long": 55.822991,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.815096,
+    "lat": 25.670823,
+    "long": 55.817596,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.815096,
+    "lat": 25.670823,
+    "long": 55.817596,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.815096,
+    "lat": 25.670823,
+    "long": 55.817596,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.815096,
+    "lat": 25.670823,
+    "long": 55.817596,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.815096,
+    "lat": 25.670823,
+    "long": 55.817596,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.972569,
+    "lat": 25.670823,
+    "long": 55.817596,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.972569,
+    "lat": 25.670823,
+    "long": 55.992565,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.972569,
+    "lat": 25.670823,
+    "long": 55.992565,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.972569,
+    "lat": 25.670823,
+    "long": 55.992565,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.972569,
+    "lat": 25.670823,
+    "long": 55.992565,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.972569,
+    "lat": 25.670823,
+    "long": 55.992565,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.972569,
+    "lat": 25.670823,
+    "long": 55.992565,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.972569,
+    "lat": 25.779823,
+    "long": 55.949015,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.972569,
+    "lat": 25.779823,
+    "long": 55.949015,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.972569,
+    "lat": 25.779823,
+    "long": 55.949015,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.972569,
+    "lat": 25.779823,
+    "long": 55.949015,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.972569,
+    "lat": 25.779823,
+    "long": 55.949015,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.972569,
+    "lat": 25.779823,
+    "long": 55.949015,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.972569,
+    "lat": 25.853523,
+    "long": 56.00263,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.66857,
-    "long": 55.972569,
+    "lat": 25.853523,
+    "long": 56.00263,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.77757,
-    "long": 55.946513,
+    "lat": 25.853523,
+    "long": 56.00263,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.77757,
-    "long": 55.946513,
+    "lat": 25.853523,
+    "long": 56.00263,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.77757,
-    "long": 55.946513,
+    "lat": 25.853523,
+    "long": 56.00263,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.77757,
-    "long": 55.946513,
+    "lat": 25.853523,
+    "long": 56.00263,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.77757,
-    "long": 55.946513,
+    "lat": 24.142223,
+    "long": 55.653798,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.77757,
-    "long": 55.946513,
+    "lat": 24.142223,
+    "long": 55.653798,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.77757,
-    "long": 55.946513,
+    "lat": 24.142223,
+    "long": 55.653798,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.77757,
-    "long": 55.946513,
+    "lat": 24.142223,
+    "long": 55.653798,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.77757,
-    "long": 55.946513,
+    "lat": 24.142223,
+    "long": 55.653798,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.77757,
-    "long": 55.946513,
+    "lat": 24.142223,
+    "long": 55.653798,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.77757,
-    "long": 55.946513,
+    "lat": 24.142223,
+    "long": 55.82668,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.77757,
-    "long": 55.946513,
+    "lat": 24.142223,
+    "long": 55.82668,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.77757,
-    "long": 55.946513,
+    "lat": 24.142223,
+    "long": 55.82668,
     "zoom_level": 14.5,
-    "keyword": "school"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.77757,
-    "long": 55.946513,
+    "lat": 24.142223,
+    "long": 55.82668,
     "zoom_level": 14.5,
-    "keyword": "bank"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.77757,
-    "long": 55.946513,
+    "lat": 24.142223,
+    "long": 55.82668,
     "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.85127,
-    "long": 56.000127,
+    "lat": 24.142223,
+    "long": 55.82668,
     "zoom_level": 14.5,
-    "keyword": "restaurant"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.85127,
-    "long": 56.000127,
+    "lat": 24.29988,
+    "long": 55.653798,
     "zoom_level": 14.5,
-    "keyword": "cafe"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.85127,
-    "long": 56.000127,
+    "lat": 24.29988,
+    "long": 55.653798,
     "zoom_level": 14.5,
-    "keyword": "hotel"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.85127,
-    "long": 56.000127,
+    "lat": 24.29988,
+    "long": 55.653798,
     "zoom_level": 14.5,
-    "keyword": "mall"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.85127,
-    "long": 56.000127,
+    "lat": 24.29988,
+    "long": 55.653798,
     "zoom_level": 14.5,
-    "keyword": "gym"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.85127,
-    "long": 56.000127,
+    "lat": 24.29988,
+    "long": 55.653798,
     "zoom_level": 14.5,
-    "keyword": "hospital"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.85127,
-    "long": 56.000127,
+    "lat": 24.29988,
+    "long": 55.653798,
     "zoom_level": 14.5,
-    "keyword": "mosque"
+    "keyword": "convenience store"
   },
   {
     "country": "AE",
-    "lat": 25.85127,
-    "long": 56.000127,
+    "lat": 24.29988,
+    "long": 55.82668,
     "zoom_level": 14.5,
-    "keyword": "spa"
+    "keyword": "apparel"
   },
   {
     "country": "AE",
-    "lat": 25.85127,
-    "long": 56.000127,
+    "lat": 24.29988,
+    "long": 55.82668,
     "zoom_level": 14.5,
-    "keyword": "cinema"
+    "keyword": "library"
   },
   {
     "country": "AE",
-    "lat": 25.85127,
-    "long": 56.000127,
+    "lat": 24.29988,
+    "long": 55.82668,
     "zoom_level": 14.5,
-    "keyword": "bakery"
+    "keyword": "bar"
   },
   {
     "country": "AE",
-    "lat": 25.85127,
-    "long": 56.000127,
+    "lat": 24.29988,
+    "long": 55.82668,
     "zoom_level": 14.5,
-    "keyword": "pharmacy"
+    "keyword": "dry cleaning"
   },
   {
     "country": "AE",
-    "lat": 25.85127,
-    "long": 56.000127,
+    "lat": 24.29988,
+    "long": 55.82668,
     "zoom_level": 14.5,
-    "keyword": "clinic"
+    "keyword": "museum"
   },
   {
     "country": "AE",
-    "lat": 25.85127,
-    "long": 56.000127,
+    "lat": 24.29988,
+    "long": 55.82668,
     "zoom_level": 14.5,
-    "keyword": "school"
-  },
-  {
-    "country": "AE",
-    "lat": 25.85127,
-    "long": 56.000127,
-    "zoom_level": 14.5,
-    "keyword": "bank"
-  },
-  {
-    "country": "AE",
-    "lat": 25.85127,
-    "long": 56.000127,
-    "zoom_level": 14.5,
-    "keyword": "supermarket"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "restaurant"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "cafe"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "hotel"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "mall"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "gym"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "hospital"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "mosque"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "spa"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "cinema"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "bakery"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "pharmacy"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "clinic"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "school"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "bank"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "supermarket"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "restaurant"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "cafe"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "hotel"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "mall"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "gym"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "hospital"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "mosque"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "spa"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "cinema"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "bakery"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "pharmacy"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "clinic"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "school"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "bank"
-  },
-  {
-    "country": "AE",
-    "lat": 24.13997,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "supermarket"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "restaurant"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "cafe"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "hotel"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "mall"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "gym"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "hospital"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "mosque"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "spa"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "cinema"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "bakery"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "pharmacy"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "clinic"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "school"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "bank"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.651328,
-    "zoom_level": 14.5,
-    "keyword": "supermarket"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "restaurant"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "cafe"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "hotel"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "mall"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "gym"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "hospital"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "mosque"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "spa"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "cinema"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "bakery"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "pharmacy"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "clinic"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "school"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "bank"
-  },
-  {
-    "country": "AE",
-    "lat": 24.281862,
-    "long": 55.806922,
-    "zoom_level": 14.5,
-    "keyword": "supermarket"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "restaurant"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "cafe"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "hotel"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "mall"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "gym"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "hospital"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "mosque"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "spa"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "cinema"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "bakery"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "pharmacy"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "clinic"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "school"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "bank"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "supermarket"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "restaurant"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "cafe"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "hotel"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "mall"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "gym"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "hospital"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "mosque"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "spa"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "cinema"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "bakery"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "pharmacy"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "clinic"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "school"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "bank"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "supermarket"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "restaurant"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "cafe"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "hotel"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "mall"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "gym"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "hospital"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "mosque"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "spa"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "cinema"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "bakery"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "pharmacy"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "clinic"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "school"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "bank"
-  },
-  {
-    "country": "AE",
-    "lat": 24.22747,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "supermarket"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "restaurant"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "cafe"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "hotel"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "mall"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "gym"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "hospital"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "mosque"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "spa"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "cinema"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "bakery"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "pharmacy"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "clinic"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "school"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "bank"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.454644,
-    "zoom_level": 14.5,
-    "keyword": "supermarket"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "restaurant"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "cafe"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "hotel"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "mall"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "gym"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "hospital"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "mosque"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "spa"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "cinema"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "bakery"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "pharmacy"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "clinic"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "school"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "bank"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.610351,
-    "zoom_level": 14.5,
-    "keyword": "supermarket"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "restaurant"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "cafe"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "hotel"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "mall"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "gym"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "hospital"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "mosque"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "spa"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "cinema"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "bakery"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "pharmacy"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "clinic"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "school"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "bank"
-  },
-  {
-    "country": "AE",
-    "lat": 24.369362,
-    "long": 54.766058,
-    "zoom_level": 14.5,
-    "keyword": "supermarket"
-  },
-  {
-    "country": "AE",
-    "lat": 24.43017,
-    "long": 54.346669,
-    "zoom_level": 14.5,
-    "keyword": "restaurant"
-  },
-  {
-    "country": "AE",
-    "lat": 24.43017,
-    "long": 54.346669,
-    "zoom_level": 14.5,
-    "keyword": "cafe"
-  },
-  {
-    "country": "AE",
-    "lat": 24.43017,
-    "long": 54.346669,
-    "zoom_level": 14.5,
-    "keyword": "hotel"
-  },
-  {
-    "country": "AE",
-    "lat": 24.43017,
-    "long": 54.346669,
-    "zoom_level": 14.5,
-    "keyword": "mall"
-  },
-  {
-    "country": "AE",
-    "lat": 24.43017,
-    "long": 54.346669,
-    "zoom_level": 14.5,
-    "keyword": "gym"
-  },
-  {
-    "country": "AE",
-    "lat": 24.43017,
-    "long": 54.346669,
-    "zoom_level": 14.5,
-    "keyword": "hospital"
-  },
-  {
-    "country": "AE",
-    "lat": 24.43017,
-    "long": 54.346669,
-    "zoom_level": 14.5,
-    "keyword": "mosque"
-  },
-  {
-    "country": "AE",
-    "lat": 24.43017,
-    "long": 54.346669,
-    "zoom_level": 14.5,
-    "keyword": "spa"
-  },
-  {
-    "country": "AE",
-    "lat": 24.43017,
-    "long": 54.346669,
-    "zoom_level": 14.5,
-    "keyword": "cinema"
-  },
-  {
-    "country": "AE",
-    "lat": 24.43017,
-    "long": 54.346669,
-    "zoom_level": 14.5,
-    "keyword": "bakery"
-  },
-  {
-    "country": "AE",
-    "lat": 24.43017,
-    "long": 54.346669,
-    "zoom_level": 14.5,
-    "keyword": "pharmacy"
-  },
-  {
-    "country": "AE",
-    "lat": 24.43017,
-    "long": 54.346669,
-    "zoom_level": 14.5,
-    "keyword": "clinic"
-  },
-  {
-    "country": "AE",
-    "lat": 24.43017,
-    "long": 54.346669,
-    "zoom_level": 14.5,
-    "keyword": "school"
-  },
-  {
-    "country": "AE",
-    "lat": 24.43017,
-    "long": 54.346669,
-    "zoom_level": 14.5,
-    "keyword": "bank"
-  },
-  {
-    "country": "AE",
-    "lat": 24.43017,
-    "long": 54.346669,
-    "zoom_level": 14.5,
-    "keyword": "supermarket"
+    "keyword": "convenience store"
   }
 ]
