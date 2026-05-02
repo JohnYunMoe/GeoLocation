@@ -3,7 +3,7 @@ import math
 import os
 
 
-def generate_grid(min_lat, min_lon, max_lat, max_lon, cell_size_km, keywords, country="AE", zoom=14.5):
+def generate_grid(min_lat, min_lon, max_lat, max_lon, cell_size_km, keywords, zoom=14.5):
     """
     Divide a bounding box into a grid of cells and return one BrightData input
     dict per (cell center, keyword) pair.
@@ -23,7 +23,6 @@ def generate_grid(min_lat, min_lon, max_lat, max_lon, cell_size_km, keywords, co
         while lon <= max_lon:
             for keyword in keywords:
                 entries.append({
-                    "country": country,
                     "lat": round(lat, 6),
                     "long": round(lon, 6),
                     "zoom_level": zoom,
