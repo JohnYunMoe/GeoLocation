@@ -38,75 +38,120 @@ def generate_grid(min_lat, min_lon, max_lat, max_lon, cell_size_km, keywords, co
 # ---------------------------------------------------------------------------
 # UAE emirate bounding boxes
 # ---------------------------------------------------------------------------
-EMIRATES = {
-    "Fujairah": {
-        "bbox": (25.0133, 56.2273, 25.4341, 56.3748),
+LOCATIONS = {
+    # Oman - Muscat
+    "Muscat": {
+        "bbox": (23.5321, 58.4785, 23.6239, 58.6062),
         "cell_size_km": 5.0,
     },
-    "Abu Dhabi 1": {
-        "bbox": (24.2072, 54.4324, 24.4285, 54.8095),
+    "Bawshar 1": {
+        "bbox": (23.5314, 58.3645, 23.6034, 58.4652),
         "cell_size_km": 5.0,
     },
-    "Abu Dhabi 2": {
-        "bbox": (24.4099, 54.3244, 24.5121, 54.4286),
+    "Bawshar 2": {
+        "bbox": (23.5253, 58.2352, 23.6124, 58.3538),
         "cell_size_km": 5.0,
     },
-    "Abu Dhabi 3": {
-        "bbox": (24.5168, 54.3968, 24.5433, 54.5308),
+    "Bawshar 3": {
+        "bbox": (23.5158, 58.0325, 23.7079, 58.1573),
         "cell_size_km": 5.0,
     },
-    "Abu Dhabi 4": {
-        "bbox": (24.4295, 54.4295, 24.5148, 54.5973),
+    "Bawshar 4": {
+        "bbox": (23.5210, 58.1685, 23.6826, 58.2213),
         "cell_size_km": 5.0,
     },
-    "Abu Dhabi 5": {
-        "bbox": (24.4298, 54.5977, 24.5758, 54.7531),
+    "Bawshar 5": {
+        "bbox": (23.6186, 57.7906, 23.7169, 58.0172),
         "cell_size_km": 5.0,
     },
-    "Abu Dhabi 6": {
-        "bbox": (24.5763, 54.6362, 24.7708, 54.8407),
+    "Bawshar 6": {
+        "bbox": (23.6574, 57.5428, 23.7804, 57.7763),
         "cell_size_km": 5.0,
     },
-    "Dubai 1 Jebel Ali": {
-        "bbox": (24.8057, 54.9243, 25.0471, 55.2925),
+
+    # Oman - Sohar
+    "Sohar 1": {
+        "bbox": (24.3168, 56.7025, 24.3747, 56.7736),
         "cell_size_km": 5.0,
     },
-    "Dubai 2 Downtown": {
-        "bbox": (25.0490, 55.0993, 25.2625, 55.5682),
+    "Sohar 2": {
+        "bbox": (24.2766, 56.7587, 24.3072, 56.7944),
         "cell_size_km": 5.0,
     },
-    "Dubai 3": {
-        "bbox": (24.8446, 55.2933, 25.0483, 55.6135),
+    "Sohar 3": {
+        "bbox": (24.3669, 56.6077, 24.4547, 56.6626),
         "cell_size_km": 5.0,
     },
-    "Sharjah Ajman 1": {
-        "bbox": (25.2624, 55.2687, 25.4245, 55.7269),
+    "Sohar 4": {
+        "bbox": (24.3793, 56.6683, 24.4248, 56.7358),
         "cell_size_km": 5.0,
     },
-    "Sharjah Ajman 2": {
-        "bbox": (25.4246, 55.4486, 25.6337, 55.8319),
+
+    # Oman - Salalah
+    "Salalah 1": {
+        "bbox": (17.0105, 54.1378, 17.1123, 54.2284),
         "cell_size_km": 5.0,
     },
-    "RAK 1": {
-        "bbox": (25.6483, 55.7926, 25.7567, 56.0434),
+    "Salalah 2": {
+        "bbox": (16.9998, 54.0705, 17.0961, 54.1333),
         "cell_size_km": 5.0,
     },
-    "RAK 2": {
-        "bbox": (25.7573, 55.9240, 25.8312, 56.0344),
+    "Salalah 3": {
+        "bbox": (16.9923, 53.9956, 17.0575, 54.0638),
         "cell_size_km": 5.0,
     },
-    "RAK 3": {
-        "bbox": (25.8310, 55.9776, 25.9018, 56.0686),
+
+    # Qatar - Doha
+    "Doha 1": {
+        "bbox": (24.9411, 51.3530, 25.2907, 51.6217),
         "cell_size_km": 5.0,
     },
-    "Al Ain": {
-        "bbox": (24.1197, 55.6291, 24.3320, 55.8850),
+    "Doha 2": {
+        "bbox": (25.3011, 51.3416, 25.4869, 51.5699),
+        "cell_size_km": 5.0,
+    },
+
+    # Bahrain
+    "Bahrain 1": {
+        "bbox": (26.1967, 50.5286, 26.2437, 50.6203),
+        "cell_size_km": 5.0,
+    },
+    "Bahrain 2": {
+        "bbox": (26.2484, 50.5839, 26.2941, 50.6887),
+        "cell_size_km": 5.0,
+    },
+    "Bahrain 3": {
+        "bbox": (26.0772, 50.4536, 26.1768, 50.6559),
+        "cell_size_km": 5.0,
+    },
+
+    # Saudi Arabia - Riyadh
+    "Riyadh": {
+        "bbox": (24.4492, 46.5052, 24.9884, 46.9602),
+        "cell_size_km": 5.0,
+    },
+
+    # Saudi Arabia - Dammam
+    "Dammam": {
+        "bbox": (26.1549, 49.9658, 26.5825, 50.2255),
+        "cell_size_km": 5.0,
+    },
+
+    # Kuwait
+    "Kuwait 1": {
+        "bbox": (29.0746, 47.9731, 29.3790, 48.1427),
+        "cell_size_km": 5.0,
+    },
+    "Kuwait 2": {
+        "bbox": (29.2033, 47.6624, 29.3516, 47.9619),
         "cell_size_km": 5.0,
     },
 }
 
 KEYWORDS = [
-    "apparel", "library", "bar", "dry cleaning", "museum", "convenience store"
+    "restaurant", "cafe", "hotel", "mall", "gym", 
+    "hospital", "mosque", "spa", "cinema", "bakery""clothes", 
+    "library", "bar", "dry cleaning", "museum", "convenience store"
 ]
 
 # Cost model: $1.50 per 1000 records, 50 records returned per API request
@@ -150,7 +195,7 @@ def main():
     all_entries = []
     emirate_counts = {}
 
-    for emirate, cfg in EMIRATES.items():
+    for emirate, cfg in LOCATIONS.items():
         min_lat, min_lon, max_lat, max_lon = cfg["bbox"]
         cell_size_km = cfg["cell_size_km"]
         zoom = cfg.get("zoom", 14.5)
