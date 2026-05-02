@@ -3,7 +3,7 @@ import math
 import os
 
 
-def generate_grid(min_lat, min_lon, max_lat, max_lon, cell_size_km, keywords, zoom=14.5):
+def generate_grid(min_lat, min_lon, max_lat, max_lon, cell_size_km, keywords, country, zoom=14.5):
     """
     Divide a bounding box into a grid of cells and return one BrightData input
     dict per (cell center, keyword) pair.
@@ -23,6 +23,7 @@ def generate_grid(min_lat, min_lon, max_lat, max_lon, cell_size_km, keywords, zo
         while lon <= max_lon:
             for keyword in keywords:
                 entries.append({
+                    "country": country,
                     "lat": round(lat, 6),
                     "long": round(lon, 6),
                     "zoom_level": zoom,
@@ -35,121 +36,144 @@ def generate_grid(min_lat, min_lon, max_lat, max_lon, cell_size_km, keywords, zo
 
 
 # ---------------------------------------------------------------------------
-# UAE emirate bounding boxes
+# Gulf region bounding boxes with country tags
 # ---------------------------------------------------------------------------
 LOCATIONS = {
     # Oman - Muscat
     "Muscat": {
         "bbox": (23.5321, 58.4785, 23.6239, 58.6062),
         "cell_size_km": 5.0,
+        "country": "Oman",
     },
     "Bawshar 1": {
         "bbox": (23.5314, 58.3645, 23.6034, 58.4652),
         "cell_size_km": 5.0,
+        "country": "Oman",
     },
     "Bawshar 2": {
         "bbox": (23.5253, 58.2352, 23.6124, 58.3538),
         "cell_size_km": 5.0,
+        "country": "Oman",
     },
     "Bawshar 3": {
         "bbox": (23.5158, 58.0325, 23.7079, 58.1573),
         "cell_size_km": 5.0,
+        "country": "Oman",
     },
     "Bawshar 4": {
         "bbox": (23.5210, 58.1685, 23.6826, 58.2213),
         "cell_size_km": 5.0,
+        "country": "Oman",
     },
     "Bawshar 5": {
         "bbox": (23.6186, 57.7906, 23.7169, 58.0172),
         "cell_size_km": 5.0,
+        "country": "Oman",
     },
     "Bawshar 6": {
         "bbox": (23.6574, 57.5428, 23.7804, 57.7763),
         "cell_size_km": 5.0,
+        "country": "Oman",
     },
 
     # Oman - Sohar
     "Sohar 1": {
         "bbox": (24.3168, 56.7025, 24.3747, 56.7736),
         "cell_size_km": 5.0,
+        "country": "Oman",
     },
     "Sohar 2": {
         "bbox": (24.2766, 56.7587, 24.3072, 56.7944),
         "cell_size_km": 5.0,
+        "country": "Oman",
     },
     "Sohar 3": {
         "bbox": (24.3669, 56.6077, 24.4547, 56.6626),
         "cell_size_km": 5.0,
+        "country": "Oman",
     },
     "Sohar 4": {
         "bbox": (24.3793, 56.6683, 24.4248, 56.7358),
         "cell_size_km": 5.0,
+        "country": "Oman",
     },
 
     # Oman - Salalah
     "Salalah 1": {
         "bbox": (17.0105, 54.1378, 17.1123, 54.2284),
         "cell_size_km": 5.0,
+        "country": "Oman",
     },
     "Salalah 2": {
         "bbox": (16.9998, 54.0705, 17.0961, 54.1333),
         "cell_size_km": 5.0,
+        "country": "Oman",
     },
     "Salalah 3": {
         "bbox": (16.9923, 53.9956, 17.0575, 54.0638),
         "cell_size_km": 5.0,
+        "country": "Oman",
     },
 
     # Qatar - Doha
     "Doha 1": {
         "bbox": (24.9411, 51.3530, 25.2907, 51.6217),
         "cell_size_km": 5.0,
+        "country": "Qatar",
     },
     "Doha 2": {
         "bbox": (25.3011, 51.3416, 25.4869, 51.5699),
         "cell_size_km": 5.0,
+        "country": "Qatar",
     },
 
     # Bahrain
     "Bahrain 1": {
         "bbox": (26.1967, 50.5286, 26.2437, 50.6203),
         "cell_size_km": 5.0,
+        "country": "Bahrain",
     },
     "Bahrain 2": {
         "bbox": (26.2484, 50.5839, 26.2941, 50.6887),
         "cell_size_km": 5.0,
+        "country": "Bahrain",
     },
     "Bahrain 3": {
         "bbox": (26.0772, 50.4536, 26.1768, 50.6559),
         "cell_size_km": 5.0,
+        "country": "Bahrain",
     },
 
     # Saudi Arabia - Riyadh
     "Riyadh": {
         "bbox": (24.4492, 46.5052, 24.9884, 46.9602),
         "cell_size_km": 5.0,
+        "country": "Saudi Arabia",
     },
 
     # Saudi Arabia - Dammam
     "Dammam": {
         "bbox": (26.1549, 49.9658, 26.5825, 50.2255),
         "cell_size_km": 5.0,
+        "country": "Saudi Arabia",
     },
 
     # Kuwait
     "Kuwait 1": {
         "bbox": (29.0746, 47.9731, 29.3790, 48.1427),
         "cell_size_km": 5.0,
+        "country": "Kuwait",
     },
     "Kuwait 2": {
         "bbox": (29.2033, 47.6624, 29.3516, 47.9619),
         "cell_size_km": 5.0,
+        "country": "Kuwait",
     },
 }
 
 KEYWORDS = [
-    "restaurant", "cafe", "hotel", "mall", "gym", 
-    "hospital", "mosque", "spa", "cinema", "bakery""clothes", 
+    "restaurant", "cafe", "hotel", "mall", "gym",
+    "hospital", "mosque", "spa", "cinema", "bakery", "clothes",
     "library", "bar", "dry cleaning", "museum", "convenience store"
 ]
 
@@ -175,7 +199,7 @@ def deduplicate(entries):
 
 def build_summary(emirate_counts, total_points, total_requests, estimated_cost):
     lines = [
-        "UAE Google Maps Grid Summary",
+        "Gulf Region Google Maps Grid Summary",
         "=" * 40,
     ]
     for emirate, count in emirate_counts.items():
@@ -198,10 +222,11 @@ def main():
         min_lat, min_lon, max_lat, max_lon = cfg["bbox"]
         cell_size_km = cfg["cell_size_km"]
         zoom = cfg.get("zoom", 14.5)
+        country = cfg["country"]
 
         entries = generate_grid(
             min_lat, min_lon, max_lat, max_lon,
-            cell_size_km, KEYWORDS, zoom=zoom,
+            cell_size_km, KEYWORDS, country, zoom=zoom,
         )
         # Count unique grid points (before dedup, per emirate)
         unique_points = len(entries) // len(KEYWORDS)

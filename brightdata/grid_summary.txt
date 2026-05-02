@@ -1,4 +1,4 @@
-UAE Google Maps Grid Summary
+Gulf Region Google Maps Grid Summary
 ========================================
   Muscat                    1 grid points
   Bawshar 1                 1 grid points
@@ -25,6 +25,6 @@ UAE Google Maps Grid Summary
   Kuwait 2                  2 grid points
 ----------------------------------------
   Total grid points        53
-  Total requests          795  (grid points × 15 keywords)
-  Est. API records      39750
-  Estimated cost       $  59.62  ($1.5/1000 records)
+  Total requests          848  (grid points × 16 keywords)
+  Est. API records      42400
+  Estimated cost       $  63.60  ($1.5/1000 records)
