@@ -1,30 +1,39 @@
 Gulf Region Google Maps Grid Summary
 ========================================
-  Muscat                    1 grid points
-  Bawshar 1                 1 grid points
-  Bawshar 2                 1 grid points
-  Bawshar 3                 2 grid points
-  Bawshar 4                 1 grid points
-  Bawshar 5                 2 grid points
-  Bawshar 6                 2 grid points
-  Sohar 1                   1 grid points
-  Sohar 2                   1 grid points
-  Sohar 3                   1 grid points
-  Sohar 4                   1 grid points
-  Salalah 1                 1 grid points
-  Salalah 2                 1 grid points
-  Salalah 3                 1 grid points
-  Doha 1                    6 grid points
-  Doha 2                    4 grid points
-  Bahrain 1                 1 grid points
-  Bahrain 2                 1 grid points
-  Bahrain 3                 2 grid points
-  Riyadh                   12 grid points
-  Dammam                    6 grid points
-  Kuwait 1                  2 grid points
-  Kuwait 2                  2 grid points
+  Basra                     4 grid points
+  Al-Midaina                1 grid points
+  Al Qurna 1                1 grid points
+  Al Qurna 2                1 grid points
+  Al Howair                 1 grid points
+  Nasiriyah                 1 grid points
+  As Samawah 1              1 grid points
+  As Samawah 2              1 grid points
+  Al-Najaf                  1 grid points
+  Al Hillah                 1 grid points
+  Karbala                   1 grid points
+  Hindiya                   1 grid points
+  Al-Kut                    1 grid points
+  Amarah                    1 grid points
+  Baghdad                   6 grid points
+  Baqubah                   1 grid points
+  Sana'a                    4 grid points
+  Dhamar                    1 grid points
+  Hodeidah                  1 grid points
+  Ibb                       1 grid points
+  Ta'izz                    1 grid points
+  Ataq                      1 grid points
+  Sa'dah                    1 grid points
+  Jizan                     1 grid points
+  Salhabah                  1 grid points
+  Khamis Mushayt            1 grid points
+  Jeddah                    4 grid points
+  Medina                    4 grid points
+  Cairo                     8 grid points
+  Alexandria 1              1 grid points
+  Alexandria 2              1 grid points
+  Alexandria 3              0 grid points
 ----------------------------------------
-  Total grid points        53
-  Total requests          848  (grid points × 16 keywords)
-  Est. API records      42400
-  Estimated cost       $  63.60  ($1.5/1000 records)
+  Total grid points        55
+  Total requests          880  (grid points × 16 keywords)
+  Est. API records      44000
+  Estimated cost       $  66.00  ($1.5/1000 records)

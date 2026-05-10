@@ -9,4 +9,5 @@ image_clustering/clusterenv
 brightdata/.env
 brightdata/venv
 brightdata/data/images
+brightdata/data/resultsgulf2.json
 __pycache__/ 

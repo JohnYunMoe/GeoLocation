@@ -6,7 +6,7 @@ import os
 from pathlib import Path
 from urllib.parse import urlparse
 
-INPUT_FILE = "./data/results.json"
+INPUT_FILE = "./data/resultsgulf.json"
 OUTPUT_DIR = "./data/images"
 CONCURRENCY = 50  # tune this — lower if you get rate-limited
 

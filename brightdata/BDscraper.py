@@ -23,7 +23,7 @@ CUSTOM_FIELDS = "place_id|url|country|name|address|main_image|lat|lon|photos_and
 
 RATE_PER_1K = 1.50  # USD per 1000 records
 BUDGET_LIMIT = 900.00  # USD — stop run if all-time cost exceeds this
-initial_cost = 359.00  # USD — if you have prior costs from previous runs, set that here to account for it in the budget limit
+initial_cost = 550.43 # USD — if you have prior costs from previous runs, set that here to account for it in the budget limit
 
 def cost(record_count):
     return (record_count / 1000) * RATE_PER_1K
@@ -82,7 +82,7 @@ log.setLevel(logging.INFO)
 log.addHandler(_file_handler)
 log.propagate = False
 
-output_path = "./data/resultsgulf.json"
+output_path = "./data/resultsgulf2.json"
 
 # Load existing results if file already has data
 if os.path.exists(output_path):
