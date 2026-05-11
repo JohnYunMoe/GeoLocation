@@ -2,32 +2,32 @@ import json
 import random
 import os
 
-# load all image paths from both folders
-all_images = []
+# load all image paths from both folders into separate lists
+ae_images = []
+gulf_images = []
 
 for img_file in os.listdir('./data/images/imagesAE'):
-    all_images.append({
-        'image_path': f'./data/images/imagesAE/{img_file}',
-        'region': 'AE'
-    })
+    ae_images.append(f'./data/images/imagesAE/{img_file}')
 
 for img_file in os.listdir('./data/images/imagesgulf'):
-    all_images.append({
-        'image_path': f'./data/images/imagesgulf/{img_file}',
-        'region': 'gulf'
-    })
+    gulf_images.append(f'./data/images/imagesgulf/{img_file}')
 
-print(f'Total images: {len(all_images)}')
+print(f'AE images: {len(ae_images)} | Gulf images: {len(gulf_images)}')
 
-random.shuffle(all_images)
+# shuffle each list separately
+random.shuffle(ae_images)
+random.shuffle(gulf_images)
 
-test_set    = all_images[:10000]
-gallery_set = all_images[10000:]
+# take 5000 from each for test set
+test_set = ae_images[:5000] + gulf_images[:5000]
+
+# rest goes to train set
+train_set = ae_images[5000:] + gulf_images[5000:]
+
+print(f'Test: {len(test_set)} | Train: {len(train_set)}')
 
 with open('./data/test_set.json', 'w') as f:
     json.dump(test_set, f, indent=2)
 
-with open('./data/gallery_set.json', 'w') as f:
-    json.dump(gallery_set, f, indent=2)
-
-print(f'Test: {len(test_set)} | Gallery: {len(gallery_set)}')
+with open('./data/train_set.json', 'w') as f:
+    json.dump(train_set, f, indent=2)
