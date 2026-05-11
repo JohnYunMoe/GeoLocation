@@ -14441,3 +14441,2157 @@
 2026-05-10 03:27:57  INFO      Triggered sd_moyz5gt41ewmb2t1hk  ('dry cleaning' @ 30.59058,47.884132)
 2026-05-10 03:27:58  INFO      [sd_moyz5gt41ewmb2t1hk] Status: running
 2026-05-10 03:29:47  INFO      [sd_moyz5gt41ewmb2t1hk] Status: ready
+2026-05-10 19:39:55  INFO      === Run started — existing records: 3992 (prior cost: $561.3600) ===
+2026-05-10 19:39:55  INFO      [1/818] Processing: 'museum' @ 30.59058,47.884132
+2026-05-10 19:39:56  INFO      Triggered sd_mozxvffc2fx3uxiayf  ('museum' @ 30.59058,47.884132)
+2026-05-10 19:39:56  INFO      [sd_mozxvffc2fx3uxiayf] Status: running
+2026-05-10 19:48:20  INFO      === Run started — existing records: 3992 (prior cost: $561.3600) ===
+2026-05-10 19:48:20  INFO      [1/704] Processing: 'restaurant' @ 30.913918,47.247505
+2026-05-10 19:48:21  INFO      Triggered sd_mozy69m7ksy1wk4bi  ('restaurant' @ 30.913918,47.247505)
+2026-05-10 19:48:22  INFO      [sd_mozy69m7ksy1wk4bi] Status: running
+2026-05-10 19:51:48  INFO      [sd_mozy69m7ksy1wk4bi] Status: ready
+2026-05-10 19:51:49  INFO      Skipped 5 duplicate(s)
+2026-05-10 19:51:50  INFO      Retrieved 150 record(s) — 4142 total | This run: 150 / $0.2325 | All-time: $561.5925
+2026-05-10 19:51:50  INFO      [2/704] Processing: 'cafe' @ 30.913918,47.247505
+2026-05-10 19:51:50  INFO      Triggered sd_mozyar072iwrojvgsg  ('cafe' @ 30.913918,47.247505)
+2026-05-10 19:51:51  INFO      [sd_mozyar072iwrojvgsg] Status: running
+2026-05-10 19:58:39  INFO      [sd_mozyar072iwrojvgsg] Status: ready
+2026-05-10 19:58:41  INFO      Skipped 115 duplicate(s)
+2026-05-10 19:58:41  INFO      Retrieved 93 record(s) — 4235 total | This run: 243 / $0.5445 | All-time: $561.9045
+2026-05-10 19:58:41  INFO      [3/704] Processing: 'hotel' @ 30.913918,47.247505
+2026-05-10 19:58:42  INFO      Triggered sd_mozyjkfa13vvs7tnug  ('hotel' @ 30.913918,47.247505)
+2026-05-10 19:58:42  INFO      [sd_mozyjkfa13vvs7tnug] Status: running
+2026-05-10 20:00:58  INFO      [sd_mozyjkfa13vvs7tnug] Status: ready
+2026-05-10 20:00:59  INFO      Skipped 3 duplicate(s)
+2026-05-10 20:01:00  INFO      Retrieved 28 record(s) — 4263 total | This run: 271 / $0.5910 | All-time: $561.9510
+2026-05-10 20:01:00  INFO      [4/704] Processing: 'mall' @ 30.913918,47.247505
+2026-05-10 20:01:00  INFO      Triggered sd_mozymja51vmcljpn64  ('mall' @ 30.913918,47.247505)
+2026-05-10 20:01:01  INFO      [sd_mozymja51vmcljpn64] Status: running
+2026-05-10 20:06:37  INFO      [sd_mozymja51vmcljpn64] Status: ready
+2026-05-10 20:06:38  INFO      Skipped 1 duplicate(s)
+2026-05-10 20:06:38  INFO      Retrieved 146 record(s) — 4409 total | This run: 417 / $0.8115 | All-time: $562.1715
+2026-05-10 20:06:38  INFO      [5/704] Processing: 'gym' @ 30.913918,47.247505
+2026-05-10 20:06:39  INFO      Triggered sd_mozytsocvrcg7saca  ('gym' @ 30.913918,47.247505)
+2026-05-10 20:06:40  INFO      [sd_mozytsocvrcg7saca] Status: running
+2026-05-10 20:12:14  INFO      [sd_mozytsocvrcg7saca] Status: ready
+2026-05-10 20:12:16  INFO      Skipped 6 duplicate(s)
+2026-05-10 20:12:16  INFO      Retrieved 31 record(s) — 4440 total | This run: 448 / $0.8670 | All-time: $562.2270
+2026-05-10 20:12:16  INFO      [6/704] Processing: 'hospital' @ 30.913918,47.247505
+2026-05-10 20:12:17  INFO      Triggered sd_mozz113q2mtbq99te7  ('hospital' @ 30.913918,47.247505)
+2026-05-10 20:12:17  INFO      [sd_mozz113q2mtbq99te7] Status: running
+2026-05-10 20:13:37  INFO      [sd_mozz113q2mtbq99te7] Status: ready
+2026-05-10 20:13:38  INFO      Skipped 11 duplicate(s)
+2026-05-10 20:13:38  INFO      Retrieved 6 record(s) — 4446 total | This run: 454 / $0.8925 | All-time: $562.2525
+2026-05-10 20:13:38  INFO      [7/704] Processing: 'mosque' @ 30.913918,47.247505
+2026-05-10 20:13:40  INFO      Triggered sd_mozz2tmh12rwx53xq7  ('mosque' @ 30.913918,47.247505)
+2026-05-10 20:13:41  INFO      [sd_mozz2tmh12rwx53xq7] Status: running
+2026-05-10 20:16:31  INFO      [sd_mozz2tmh12rwx53xq7] Status: ready
+2026-05-10 20:16:33  INFO      Skipped 1 duplicate(s)
+2026-05-10 20:16:33  INFO      Retrieved 199 record(s) — 4645 total | This run: 653 / $1.1925 | All-time: $562.5525
+2026-05-10 20:16:33  INFO      [8/704] Processing: 'spa' @ 30.913918,47.247505
+2026-05-10 20:16:34  INFO      Triggered sd_mozz6jn61js3httg02  ('spa' @ 30.913918,47.247505)
+2026-05-10 20:16:35  INFO      [sd_mozz6jn61js3httg02] Status: running
+2026-05-10 20:18:02  INFO      [sd_mozz6jn61js3httg02] Status: ready
+2026-05-10 20:18:03  INFO      Skipped 12 duplicate(s)
+2026-05-10 20:18:03  INFO      Retrieved 6 record(s) — 4651 total | This run: 659 / $1.2195 | All-time: $562.5795
+2026-05-10 20:18:03  INFO      [9/704] Processing: 'cinema' @ 30.913918,47.247505
+2026-05-10 20:18:04  INFO      Triggered sd_mozz8h0x14ve970cbw  ('cinema' @ 30.913918,47.247505)
+2026-05-10 20:18:05  INFO      [sd_mozz8h0x14ve970cbw] Status: running
+2026-05-10 20:20:05  INFO      [sd_mozz8h0x14ve970cbw] Status: ready
+2026-05-10 20:20:05  INFO      Skipped 1 duplicate(s)
+2026-05-10 20:20:05  INFO      Retrieved 1 record(s) — 4652 total | This run: 660 / $1.2225 | All-time: $562.5825
+2026-05-10 20:20:05  INFO      [10/704] Processing: 'bakery' @ 30.913918,47.247505
+2026-05-10 20:20:06  INFO      Triggered sd_mozzb3fu1n1rsdve6h  ('bakery' @ 30.913918,47.247505)
+2026-05-10 20:20:07  INFO      [sd_mozzb3fu1n1rsdve6h] Status: running
+2026-05-10 20:24:25  INFO      [sd_mozzb3fu1n1rsdve6h] Status: ready
+2026-05-10 20:24:26  INFO      Skipped 1 duplicate(s)
+2026-05-10 20:24:26  INFO      Retrieved 60 record(s) — 4712 total | This run: 720 / $1.3140 | All-time: $562.6740
+2026-05-10 20:24:26  INFO      [11/704] Processing: 'clothes' @ 30.913918,47.247505
+2026-05-10 20:24:27  INFO      Triggered sd_mozzgorg2k4zbcwvnm  ('clothes' @ 30.913918,47.247505)
+2026-05-10 20:24:28  INFO      [sd_mozzgorg2k4zbcwvnm] Status: running
+2026-05-10 20:30:00  INFO      [sd_mozzgorg2k4zbcwvnm] Status: ready
+2026-05-10 20:30:01  INFO      Skipped 30 duplicate(s)
+2026-05-10 20:30:01  INFO      Retrieved 142 record(s) — 4854 total | This run: 862 / $1.5720 | All-time: $562.9320
+2026-05-10 20:30:01  INFO      [12/704] Processing: 'library' @ 30.913918,47.247505
+2026-05-10 20:30:02  INFO      Triggered sd_mozznvfr2haxbi57s7  ('library' @ 30.913918,47.247505)
+2026-05-10 20:30:03  INFO      [sd_mozznvfr2haxbi57s7] Status: running
+2026-05-10 20:34:22  INFO      [sd_mozznvfr2haxbi57s7] Status: ready
+2026-05-10 20:34:24  INFO      Skipped 15 duplicate(s)
+2026-05-10 20:34:24  INFO      Retrieved 194 record(s) — 5048 total | This run: 1056 / $1.8855 | All-time: $563.2455
+2026-05-10 20:34:24  INFO      [13/704] Processing: 'bar' @ 30.913918,47.247505
+2026-05-10 20:34:25  INFO      Triggered sd_mozzthz31v8qxbf439  ('bar' @ 30.913918,47.247505)
+2026-05-10 20:34:25  INFO      [sd_mozzthz31v8qxbf439] Status: running
+2026-05-10 20:36:19  INFO      [sd_mozzthz31v8qxbf439] Status: ready
+2026-05-10 20:36:20  INFO      Skipped 3 duplicate(s)
+2026-05-10 20:36:20  INFO      Retrieved 22 record(s) — 5070 total | This run: 1078 / $1.9230 | All-time: $563.2830
+2026-05-10 20:36:20  INFO      [14/704] Processing: 'dry cleaning' @ 30.913918,47.247505
+2026-05-10 20:36:21  INFO      Triggered sd_mozzvzban0ir5ct1r  ('dry cleaning' @ 30.913918,47.247505)
+2026-05-10 20:36:21  INFO      [sd_mozzvzban0ir5ct1r] Status: running
+2026-05-10 20:36:50  INFO      [sd_mozzvzban0ir5ct1r] Status: ready
+2026-05-10 20:36:50  INFO      Retrieved 0 record(s) — 5070 total | This run: 1078 / $1.9230 | All-time: $563.2830
+2026-05-10 20:36:50  INFO      [15/704] Processing: 'museum' @ 30.913918,47.247505
+2026-05-10 20:36:51  INFO      Triggered sd_mozzwmz62m5xdmwbm3  ('museum' @ 30.913918,47.247505)
+2026-05-10 20:36:52  INFO      [sd_mozzwmz62m5xdmwbm3] Status: running
+2026-05-10 20:46:49  INFO      [sd_mozzwmz62m5xdmwbm3] Status: ready
+2026-05-10 20:46:50  INFO      Retrieved 8 record(s) — 5078 total | This run: 1086 / $1.9350 | All-time: $563.2950
+2026-05-10 20:46:50  INFO      [16/704] Processing: 'convenience store' @ 30.913918,47.247505
+2026-05-10 20:46:50  INFO      Triggered sd_mp009h7p27jipp81vy  ('convenience store' @ 30.913918,47.247505)
+2026-05-10 20:46:51  INFO      [sd_mp009h7p27jipp81vy] Status: running
+2026-05-10 20:50:00  INFO      [sd_mp009h7p27jipp81vy] Status: ready
+2026-05-10 20:50:01  INFO      Skipped 3 duplicate(s)
+2026-05-10 20:50:01  INFO      Retrieved 108 record(s) — 5186 total | This run: 1194 / $2.1015 | All-time: $563.4615
+2026-05-10 20:50:01  INFO      [17/704] Processing: 'restaurant' @ 30.998918,47.435222
+2026-05-10 20:50:02  INFO      Triggered sd_mp00dl6u2fg8tau7ky  ('restaurant' @ 30.998918,47.435222)
+2026-05-10 20:50:03  INFO      [sd_mp00dl6u2fg8tau7ky] Status: running
+2026-05-10 20:54:19  INFO      [sd_mp00dl6u2fg8tau7ky] Status: ready
+2026-05-10 20:54:20  INFO      Skipped 99 duplicate(s)
+2026-05-10 20:54:20  INFO      Retrieved 59 record(s) — 5245 total | This run: 1253 / $2.3385 | All-time: $563.6985
+2026-05-10 20:54:20  INFO      [18/704] Processing: 'cafe' @ 30.998918,47.435222
+2026-05-10 20:54:21  INFO      Triggered sd_mp00j51b2evvq58ldy  ('cafe' @ 30.998918,47.435222)
+2026-05-10 20:54:22  INFO      [sd_mp00j51b2evvq58ldy] Status: running
+2026-05-10 20:59:22  INFO      [sd_mp00j51b2evvq58ldy] Status: ready
+2026-05-10 20:59:24  INFO      Skipped 84 duplicate(s)
+2026-05-10 20:59:24  INFO      Retrieved 98 record(s) — 5343 total | This run: 1351 / $2.6115 | All-time: $563.9715
+2026-05-10 20:59:24  INFO      [19/704] Processing: 'hotel' @ 30.998918,47.435222
+2026-05-10 20:59:24  INFO      Triggered sd_mp00pn2z10f12xt9ov  ('hotel' @ 30.998918,47.435222)
+2026-05-10 20:59:25  INFO      [sd_mp00pn2z10f12xt9ov] Status: running
+2026-05-10 21:01:59  INFO      [sd_mp00pn2z10f12xt9ov] Status: ready
+2026-05-10 21:02:00  INFO      Skipped 27 duplicate(s)
+2026-05-10 21:02:00  INFO      Retrieved 9 record(s) — 5352 total | This run: 1360 / $2.6655 | All-time: $564.0255
+2026-05-10 21:02:00  INFO      [20/704] Processing: 'mall' @ 30.998918,47.435222
+2026-05-10 21:02:01  INFO      Triggered sd_mp00szo512eeqwo1kj  ('mall' @ 30.998918,47.435222)
+2026-05-10 21:02:01  INFO      [sd_mp00szo512eeqwo1kj] Status: running
+2026-05-10 21:05:08  INFO      [sd_mp00szo512eeqwo1kj] Status: ready
+2026-05-10 21:05:10  INFO      Skipped 143 duplicate(s)
+2026-05-10 21:05:10  INFO      Retrieved 13 record(s) — 5365 total | This run: 1373 / $2.8995 | All-time: $564.2595
+2026-05-10 21:05:10  INFO      [21/704] Processing: 'gym' @ 30.998918,47.435222
+2026-05-10 21:05:11  INFO      Triggered sd_mp00x29o2bce351d4x  ('gym' @ 30.998918,47.435222)
+2026-05-10 21:05:11  INFO      [sd_mp00x29o2bce351d4x] Status: running
+2026-05-10 21:08:36  INFO      [sd_mp00x29o2bce351d4x] Status: ready
+2026-05-10 21:08:37  INFO      Skipped 37 duplicate(s)
+2026-05-10 21:08:37  INFO      Retrieved 6 record(s) — 5371 total | This run: 1379 / $2.9640 | All-time: $564.3240
+2026-05-10 21:08:37  INFO      [22/704] Processing: 'hospital' @ 30.998918,47.435222
+2026-05-10 21:08:38  INFO      Triggered sd_mp011ii61uz9lo9gz  ('hospital' @ 30.998918,47.435222)
+2026-05-10 21:08:39  INFO      [sd_mp011ii61uz9lo9gz] Status: running
+2026-05-10 21:10:46  INFO      [sd_mp011ii61uz9lo9gz] Status: ready
+2026-05-10 21:10:47  INFO      Skipped 19 duplicate(s)
+2026-05-10 21:10:47  INFO      Retrieved 0 record(s) — 5371 total | This run: 1379 / $2.9925 | All-time: $564.3525
+2026-05-10 21:10:47  INFO      [23/704] Processing: 'mosque' @ 30.998918,47.435222
+2026-05-10 21:10:48  INFO      Triggered sd_mp014aqg2faerabruj  ('mosque' @ 30.998918,47.435222)
+2026-05-10 21:10:49  INFO      [sd_mp014aqg2faerabruj] Status: running
+2026-05-10 21:14:07  INFO      [sd_mp014aqg2faerabruj] Status: ready
+2026-05-10 21:14:09  INFO      Skipped 119 duplicate(s)
+2026-05-10 21:14:09  INFO      Retrieved 77 record(s) — 5448 total | This run: 1456 / $3.2865 | All-time: $564.6465
+2026-05-10 21:14:09  INFO      [24/704] Processing: 'spa' @ 30.998918,47.435222
+2026-05-10 21:14:10  INFO      Triggered sd_mp018mdx2484ct8cx6  ('spa' @ 30.998918,47.435222)
+2026-05-10 21:14:11  INFO      [sd_mp018mdx2484ct8cx6] Status: running
+2026-05-10 21:15:02  INFO      [sd_mp018mdx2484ct8cx6] Status: ready
+2026-05-10 21:15:02  INFO      Retrieved 1 record(s) — 5449 total | This run: 1457 / $3.2880 | All-time: $564.6480
+2026-05-10 21:15:02  INFO      [25/704] Processing: 'cinema' @ 30.998918,47.435222
+2026-05-10 21:15:03  INFO      Triggered sd_mp019rizbrihb4mbp  ('cinema' @ 30.998918,47.435222)
+2026-05-10 21:15:04  INFO      [sd_mp019rizbrihb4mbp] Status: running
+2026-05-10 21:17:21  INFO      [sd_mp019rizbrihb4mbp] Status: ready
+2026-05-10 21:17:21  INFO      Skipped 2 duplicate(s)
+2026-05-10 21:17:22  INFO      Retrieved 0 record(s) — 5449 total | This run: 1457 / $3.2910 | All-time: $564.6510
+2026-05-10 21:17:22  INFO      [26/704] Processing: 'bakery' @ 30.998918,47.435222
+2026-05-10 21:17:22  INFO      Triggered sd_mp01cqv62oymnmw4aq  ('bakery' @ 30.998918,47.435222)
+2026-05-10 21:17:23  INFO      [sd_mp01cqv62oymnmw4aq] Status: running
+2026-05-10 21:20:48  INFO      [sd_mp01cqv62oymnmw4aq] Status: ready
+2026-05-10 21:20:49  INFO      Skipped 65 duplicate(s)
+2026-05-10 21:20:49  INFO      Retrieved 14 record(s) — 5463 total | This run: 1471 / $3.4095 | All-time: $564.7695
+2026-05-10 21:20:49  INFO      [27/704] Processing: 'clothes' @ 30.998918,47.435222
+2026-05-10 21:20:50  INFO      Triggered sd_mp01h77l21861lrf6i  ('clothes' @ 30.998918,47.435222)
+2026-05-10 21:20:51  INFO      [sd_mp01h77l21861lrf6i] Status: running
+2026-05-10 21:26:15  INFO      [sd_mp01h77l21861lrf6i] Status: ready
+2026-05-10 21:26:16  INFO      Skipped 139 duplicate(s)
+2026-05-10 21:26:16  INFO      Retrieved 11 record(s) — 5474 total | This run: 1482 / $3.6345 | All-time: $564.9945
+2026-05-10 21:26:16  INFO      [28/704] Processing: 'library' @ 30.998918,47.435222
+2026-05-10 21:26:17  INFO      Triggered sd_mp01o7nj1rzx485axn  ('library' @ 30.998918,47.435222)
+2026-05-10 21:26:18  INFO      [sd_mp01o7nj1rzx485axn] Status: running
+2026-05-10 21:29:27  INFO      [sd_mp01o7nj1rzx485axn] Status: ready
+2026-05-10 21:29:32  INFO      Skipped 60 duplicate(s)
+2026-05-10 21:29:32  INFO      Retrieved 10 record(s) — 5484 total | This run: 1492 / $3.7395 | All-time: $565.0995
+2026-05-10 21:29:32  INFO      [29/704] Processing: 'bar' @ 30.998918,47.435222
+2026-05-10 21:29:33  INFO      Triggered sd_mp01sep81xibwa7ck8  ('bar' @ 30.998918,47.435222)
+2026-05-10 21:29:34  INFO      [sd_mp01sep81xibwa7ck8] Status: running
+2026-05-10 21:33:07  INFO      [sd_mp01sep81xibwa7ck8] Status: ready
+2026-05-10 21:33:08  INFO      Skipped 29 duplicate(s)
+2026-05-10 21:33:08  INFO      Retrieved 0 record(s) — 5484 total | This run: 1492 / $3.7830 | All-time: $565.1430
+2026-05-10 21:33:08  INFO      [30/704] Processing: 'dry cleaning' @ 30.998918,47.435222
+2026-05-10 21:33:12  INFO      Triggered sd_mp01x3c021o9jqkiis  ('dry cleaning' @ 30.998918,47.435222)
+2026-05-10 21:33:12  INFO      [sd_mp01x3c021o9jqkiis] Status: running
+2026-05-10 21:34:09  INFO      [sd_mp01x3c021o9jqkiis] Status: ready
+2026-05-10 21:34:10  INFO      Retrieved 0 record(s) — 5484 total | This run: 1492 / $3.7830 | All-time: $565.1430
+2026-05-10 21:34:10  INFO      [31/704] Processing: 'museum' @ 30.998918,47.435222
+2026-05-10 21:34:11  INFO      Triggered sd_mp01ycxr1jscsee7tm  ('museum' @ 30.998918,47.435222)
+2026-05-10 21:34:12  INFO      [sd_mp01ycxr1jscsee7tm] Status: running
+2026-05-10 21:35:31  INFO      [sd_mp01ycxr1jscsee7tm] Status: ready
+2026-05-10 21:35:32  INFO      Skipped 8 duplicate(s)
+2026-05-10 21:35:32  INFO      Retrieved 2 record(s) — 5486 total | This run: 1494 / $3.7980 | All-time: $565.1580
+2026-05-10 21:35:32  INFO      [32/704] Processing: 'convenience store' @ 30.998918,47.435222
+2026-05-10 21:35:33  INFO      Triggered sd_mp0204fy19qd1we39n  ('convenience store' @ 30.998918,47.435222)
+2026-05-10 21:35:34  INFO      [sd_mp0204fy19qd1we39n] Status: running
+2026-05-10 21:38:55  INFO      [sd_mp0204fy19qd1we39n] Status: ready
+2026-05-10 21:38:57  INFO      Skipped 124 duplicate(s)
+2026-05-10 21:38:57  INFO      Retrieved 71 record(s) — 5557 total | This run: 1565 / $4.0905 | All-time: $565.4505
+2026-05-10 21:38:57  INFO      [33/704] Processing: 'restaurant' @ 30.960618,47.466312
+2026-05-10 21:38:58  INFO      Triggered sd_mp024iecpii1lsv63  ('restaurant' @ 30.960618,47.466312)
+2026-05-10 21:38:59  INFO      [sd_mp024iecpii1lsv63] Status: running
+2026-05-10 21:42:06  INFO      [sd_mp024iecpii1lsv63] Status: ready
+2026-05-10 21:42:08  INFO      Skipped 155 duplicate(s)
+2026-05-10 21:42:08  INFO      Retrieved 7 record(s) — 5564 total | This run: 1572 / $4.3335 | All-time: $565.6935
+2026-05-10 21:42:08  INFO      [34/704] Processing: 'cafe' @ 30.960618,47.466312
+2026-05-10 21:42:09  INFO      Triggered sd_mp028lm18dnui3pmg  ('cafe' @ 30.960618,47.466312)
+2026-05-10 21:42:09  INFO      [sd_mp028lm18dnui3pmg] Status: running
+2026-05-10 21:45:57  INFO      [sd_mp028lm18dnui3pmg] Status: ready
+2026-05-10 21:45:59  INFO      Skipped 172 duplicate(s)
+2026-05-10 21:45:59  INFO      Retrieved 8 record(s) — 5572 total | This run: 1580 / $4.6035 | All-time: $565.9635
+2026-05-10 21:45:59  INFO      [35/704] Processing: 'hotel' @ 30.960618,47.466312
+2026-05-10 21:46:00  INFO      Triggered sd_mp02dk262kx1pyp6sq  ('hotel' @ 30.960618,47.466312)
+2026-05-10 21:46:01  INFO      [sd_mp02dk262kx1pyp6sq] Status: running
+2026-05-10 21:47:43  INFO      [sd_mp02dk262kx1pyp6sq] Status: ready
+2026-05-10 21:47:44  INFO      Skipped 32 duplicate(s)
+2026-05-10 21:47:44  INFO      Retrieved 2 record(s) — 5574 total | This run: 1582 / $4.6545 | All-time: $566.0145
+2026-05-10 21:47:44  INFO      [36/704] Processing: 'mall' @ 30.960618,47.466312
+2026-05-10 21:47:45  INFO      Triggered sd_mp02fsyufl3dtlwvv  ('mall' @ 30.960618,47.466312)
+2026-05-10 21:47:45  INFO      [sd_mp02fsyufl3dtlwvv] Status: running
+2026-05-10 21:51:47  INFO      [sd_mp02fsyufl3dtlwvv] Status: ready
+2026-05-10 21:51:49  INFO      Skipped 176 duplicate(s)
+2026-05-10 21:51:49  INFO      Retrieved 25 record(s) — 5599 total | This run: 1607 / $4.9560 | All-time: $566.3160
+2026-05-10 21:51:49  INFO      [37/704] Processing: 'gym' @ 30.960618,47.466312
+2026-05-10 21:51:50  INFO      Triggered sd_mp02l2as1qrnqmasu2  ('gym' @ 30.960618,47.466312)
+2026-05-10 21:51:51  INFO      [sd_mp02l2as1qrnqmasu2] Status: running
+2026-05-10 21:55:09  INFO      [sd_mp02l2as1qrnqmasu2] Status: ready
+2026-05-10 21:55:11  INFO      Skipped 48 duplicate(s)
+2026-05-10 21:55:11  INFO      Retrieved 2 record(s) — 5601 total | This run: 1609 / $5.0310 | All-time: $566.3910
+2026-05-10 21:55:11  INFO      [38/704] Processing: 'hospital' @ 30.960618,47.466312
+2026-05-10 21:55:11  INFO      Triggered sd_mp02pdogi3cg33col  ('hospital' @ 30.960618,47.466312)
+2026-05-10 21:55:12  INFO      [sd_mp02pdogi3cg33col] Status: running
+2026-05-10 21:56:43  INFO      [sd_mp02pdogi3cg33col] Status: ready
+2026-05-10 21:56:43  INFO      Skipped 7 duplicate(s)
+2026-05-10 21:56:44  INFO      Retrieved 0 record(s) — 5601 total | This run: 1609 / $5.0415 | All-time: $566.4015
+2026-05-10 21:56:44  INFO      [39/704] Processing: 'mosque' @ 30.960618,47.466312
+2026-05-10 21:56:44  INFO      Triggered sd_mp02rddj2631z5um5a  ('mosque' @ 30.960618,47.466312)
+2026-05-10 21:56:45  INFO      [sd_mp02rddj2631z5um5a] Status: running
+2026-05-10 21:58:33  INFO      [sd_mp02rddj2631z5um5a] Status: ready
+2026-05-10 21:58:35  INFO      Skipped 160 duplicate(s)
+2026-05-10 21:58:35  INFO      Retrieved 21 record(s) — 5622 total | This run: 1630 / $5.3130 | All-time: $566.6730
+2026-05-10 21:58:35  INFO      [40/704] Processing: 'spa' @ 30.960618,47.466312
+2026-05-10 21:58:36  INFO      Triggered sd_mp02trjgr1v3e4kln  ('spa' @ 30.960618,47.466312)
+2026-05-10 21:58:37  INFO      [sd_mp02trjgr1v3e4kln] Status: running
+2026-05-10 21:58:59  INFO      [sd_mp02trjgr1v3e4kln] Status: ready
+2026-05-10 21:59:00  INFO      Retrieved 1 record(s) — 5623 total | This run: 1631 / $5.3145 | All-time: $566.6745
+2026-05-10 21:59:00  INFO      [41/704] Processing: 'cinema' @ 30.960618,47.466312
+2026-05-10 21:59:01  INFO      Triggered sd_mp02uaug1vkj5i5plb  ('cinema' @ 30.960618,47.466312)
+2026-05-10 21:59:02  INFO      [sd_mp02uaug1vkj5i5plb] Status: running
+2026-05-10 22:00:33  INFO      [sd_mp02uaug1vkj5i5plb] Status: ready
+2026-05-10 22:00:33  INFO      Skipped 4 duplicate(s)
+2026-05-10 22:00:34  INFO      Retrieved 0 record(s) — 5623 total | This run: 1631 / $5.3205 | All-time: $566.6805
+2026-05-10 22:00:34  INFO      [42/704] Processing: 'bakery' @ 30.960618,47.466312
+2026-05-10 22:00:34  INFO      Triggered sd_mp02wariein5sb3a3  ('bakery' @ 30.960618,47.466312)
+2026-05-10 22:00:35  INFO      [sd_mp02wariein5sb3a3] Status: running
+2026-05-10 22:03:14  INFO      [sd_mp02wariein5sb3a3] Status: ready
+2026-05-10 22:03:15  INFO      Skipped 80 duplicate(s)
+2026-05-10 22:03:16  INFO      Retrieved 3 record(s) — 5626 total | This run: 1634 / $5.4450 | All-time: $566.8050
+2026-05-10 22:03:16  INFO      [43/704] Processing: 'clothes' @ 30.960618,47.466312
+2026-05-10 22:03:16  INFO      Triggered sd_mp02zrtuq4ecaila3  ('clothes' @ 30.960618,47.466312)
+2026-05-10 22:03:17  INFO      [sd_mp02zrtuq4ecaila3] Status: running
+2026-05-10 22:07:43  INFO      [sd_mp02zrtuq4ecaila3] Status: ready
+2026-05-10 22:07:45  INFO      Skipped 175 duplicate(s)
+2026-05-10 22:07:45  INFO      Retrieved 15 record(s) — 5641 total | This run: 1649 / $5.7300 | All-time: $567.0900
+2026-05-10 22:07:45  INFO      [44/704] Processing: 'library' @ 30.960618,47.466312
+2026-05-10 22:07:46  INFO      Triggered sd_mp035jsf2o82eqm2rb  ('library' @ 30.960618,47.466312)
+2026-05-10 22:07:47  INFO      [sd_mp035jsf2o82eqm2rb] Status: running
+2026-05-10 22:10:20  INFO      [sd_mp035jsf2o82eqm2rb] Status: ready
+2026-05-10 22:10:21  INFO      Skipped 71 duplicate(s)
+2026-05-10 22:10:21  INFO      Retrieved 0 record(s) — 5641 total | This run: 1649 / $5.8365 | All-time: $567.1965
+2026-05-10 22:10:21  INFO      [45/704] Processing: 'bar' @ 30.960618,47.466312
+2026-05-10 22:10:22  INFO      Triggered sd_mp038w6y2bcdjp91kq  ('bar' @ 30.960618,47.466312)
+2026-05-10 22:10:23  INFO      [sd_mp038w6y2bcdjp91kq] Status: running
+2026-05-10 22:13:24  INFO      [sd_mp038w6y2bcdjp91kq] Status: ready
+2026-05-10 22:13:26  INFO      Skipped 77 duplicate(s)
+2026-05-10 22:13:26  INFO      Retrieved 50 record(s) — 5691 total | This run: 1699 / $6.0270 | All-time: $567.3870
+2026-05-10 22:13:26  INFO      [46/704] Processing: 'dry cleaning' @ 30.960618,47.466312
+2026-05-10 22:13:27  INFO      Triggered sd_mp03cuw7wpu68d6v3  ('dry cleaning' @ 30.960618,47.466312)
+2026-05-10 22:13:28  INFO      [sd_mp03cuw7wpu68d6v3] Status: running
+2026-05-10 22:14:13  INFO      [sd_mp03cuw7wpu68d6v3] Status: ready
+2026-05-10 22:14:14  INFO      Retrieved 0 record(s) — 5691 total | This run: 1699 / $6.0270 | All-time: $567.3870
+2026-05-10 22:14:14  INFO      [47/704] Processing: 'museum' @ 30.960618,47.466312
+2026-05-10 22:14:14  INFO      Triggered sd_mp03dvlp15gg0u6tr7  ('museum' @ 30.960618,47.466312)
+2026-05-10 22:14:15  INFO      [sd_mp03dvlp15gg0u6tr7] Status: running
+2026-05-10 22:18:02  INFO      [sd_mp03dvlp15gg0u6tr7] Status: ready
+2026-05-10 22:18:03  INFO      Skipped 13 duplicate(s)
+2026-05-10 22:18:03  INFO      Retrieved 0 record(s) — 5691 total | This run: 1699 / $6.0465 | All-time: $567.4065
+2026-05-10 22:18:03  INFO      [48/704] Processing: 'convenience store' @ 30.960618,47.466312
+2026-05-10 22:18:04  INFO      Triggered sd_mp03isssipks5a50p  ('convenience store' @ 30.960618,47.466312)
+2026-05-10 22:18:05  INFO      [sd_mp03isssipks5a50p] Status: running
+2026-05-10 22:22:11  INFO      [sd_mp03isssipks5a50p] Status: ready
+2026-05-10 22:22:13  INFO      Skipped 131 duplicate(s)
+2026-05-10 22:22:13  INFO      Retrieved 2 record(s) — 5693 total | This run: 1701 / $6.2460 | All-time: $567.6060
+2026-05-10 22:22:13  INFO      [49/704] Processing: 'restaurant' @ 30.988418,47.320116
+2026-05-10 22:22:14  INFO      Triggered sd_mp03o5tw1l6izjgjta  ('restaurant' @ 30.988418,47.320116)
+2026-05-10 22:22:15  INFO      [sd_mp03o5tw1l6izjgjta] Status: running
+2026-05-10 22:25:01  INFO      [sd_mp03o5tw1l6izjgjta] Status: ready
+2026-05-10 22:25:12  INFO      Skipped 150 duplicate(s)
+2026-05-10 22:25:12  INFO      Retrieved 1 record(s) — 5694 total | This run: 1702 / $6.4725 | All-time: $567.8325
+2026-05-10 22:25:12  INFO      [50/704] Processing: 'cafe' @ 30.988418,47.320116
+2026-05-10 22:25:13  INFO      Triggered sd_mp03rze41yse3cgtnm  ('cafe' @ 30.988418,47.320116)
+2026-05-10 22:25:13  INFO      [sd_mp03rze41yse3cgtnm] Status: running
+2026-05-10 22:29:15  INFO      [sd_mp03rze41yse3cgtnm] Status: ready
+2026-05-10 22:29:17  INFO      Skipped 173 duplicate(s)
+2026-05-10 22:29:17  INFO      Retrieved 26 record(s) — 5720 total | This run: 1728 / $6.7710 | All-time: $568.1310
+2026-05-10 22:29:17  INFO      [51/704] Processing: 'hotel' @ 30.988418,47.320116
+2026-05-10 22:29:18  INFO      Triggered sd_mp03x8hi8q0hhb9k8  ('hotel' @ 30.988418,47.320116)
+2026-05-10 22:29:18  INFO      [sd_mp03x8hi8q0hhb9k8] Status: running
+2026-05-10 22:33:39  INFO      [sd_mp03x8hi8q0hhb9k8] Status: ready
+2026-05-10 22:33:40  INFO      Skipped 35 duplicate(s)
+2026-05-10 22:33:41  INFO      Retrieved 0 record(s) — 5720 total | This run: 1728 / $6.8235 | All-time: $568.1835
+2026-05-10 22:33:41  INFO      [52/704] Processing: 'mall' @ 30.988418,47.320116
+2026-05-10 22:33:41  INFO      Triggered sd_mp042w151qrq1ra2qe  ('mall' @ 30.988418,47.320116)
+2026-05-10 22:33:42  INFO      [sd_mp042w151qrq1ra2qe] Status: running
+2026-05-10 22:36:15  INFO      [sd_mp042w151qrq1ra2qe] Status: ready
+2026-05-10 22:36:16  INFO      Skipped 152 duplicate(s)
+2026-05-10 22:36:16  INFO      Retrieved 0 record(s) — 5720 total | This run: 1728 / $7.0515 | All-time: $568.4115
+2026-05-10 22:36:16  INFO      [53/704] Processing: 'gym' @ 30.988418,47.320116
+2026-05-10 22:36:17  INFO      Triggered sd_mp0468al17s1sjpuvf  ('gym' @ 30.988418,47.320116)
+2026-05-10 22:36:18  INFO      [sd_mp0468al17s1sjpuvf] Status: running
+2026-05-10 22:40:11  INFO      [sd_mp0468al17s1sjpuvf] Status: ready
+2026-05-10 22:40:12  INFO      Skipped 38 duplicate(s)
+2026-05-10 22:40:13  INFO      Retrieved 3 record(s) — 5723 total | This run: 1731 / $7.1130 | All-time: $568.4730
+2026-05-10 22:40:13  INFO      [54/704] Processing: 'hospital' @ 30.988418,47.320116
+2026-05-10 22:40:14  INFO      Triggered sd_mp04bb9e1jugqw2ale  ('hospital' @ 30.988418,47.320116)
+2026-05-10 22:40:15  INFO      [sd_mp04bb9e1jugqw2ale] Status: running
+2026-05-10 22:44:53  INFO      [sd_mp04bb9e1jugqw2ale] Status: ready
+2026-05-10 22:44:54  INFO      Skipped 93 duplicate(s)
+2026-05-10 22:44:54  INFO      Retrieved 23 record(s) — 5746 total | This run: 1754 / $7.2870 | All-time: $568.6470
+2026-05-10 22:44:54  INFO      [55/704] Processing: 'mosque' @ 30.988418,47.320116
+2026-05-10 22:44:55  INFO      Triggered sd_mp04hbyw1ovggch0i7  ('mosque' @ 30.988418,47.320116)
+2026-05-10 22:44:56  INFO      [sd_mp04hbyw1ovggch0i7] Status: running
+2026-05-10 22:49:47  INFO      [sd_mp04hbyw1ovggch0i7] Status: ready
+2026-05-10 22:49:49  INFO      Skipped 178 duplicate(s)
+2026-05-10 22:49:49  INFO      Retrieved 1 record(s) — 5747 total | This run: 1755 / $7.5555 | All-time: $568.9155
+2026-05-10 22:49:49  INFO      [56/704] Processing: 'spa' @ 30.988418,47.320116
+2026-05-10 22:49:50  INFO      Triggered sd_mp04nnf91yt8uc1t6w  ('spa' @ 30.988418,47.320116)
+2026-05-10 22:49:51  INFO      [sd_mp04nnf91yt8uc1t6w] Status: running
+2026-05-10 22:50:49  INFO      [sd_mp04nnf91yt8uc1t6w] Status: ready
+2026-05-10 22:50:50  INFO      Retrieved 1 record(s) — 5748 total | This run: 1756 / $7.5570 | All-time: $568.9170
+2026-05-10 22:50:50  INFO      [57/704] Processing: 'cinema' @ 30.988418,47.320116
+2026-05-10 22:50:51  INFO      Triggered sd_mp04oyfrx7vwdht9v  ('cinema' @ 30.988418,47.320116)
+2026-05-10 22:50:54  INFO      [sd_mp04oyfrx7vwdht9v] Status: running
+2026-05-10 22:52:36  INFO      [sd_mp04oyfrx7vwdht9v] Status: ready
+2026-05-10 22:52:37  INFO      Skipped 1 duplicate(s)
+2026-05-10 22:52:37  INFO      Retrieved 0 record(s) — 5748 total | This run: 1756 / $7.5585 | All-time: $568.9185
+2026-05-10 22:52:37  INFO      [58/704] Processing: 'bakery' @ 30.988418,47.320116
+2026-05-10 22:52:38  INFO      Triggered sd_mp04r8qfn5xq4bzv8  ('bakery' @ 30.988418,47.320116)
+2026-05-10 22:52:38  INFO      [sd_mp04r8qfn5xq4bzv8] Status: running
+2026-05-10 22:56:08  INFO      [sd_mp04r8qfn5xq4bzv8] Status: ready
+2026-05-10 22:56:09  INFO      Skipped 69 duplicate(s)
+2026-05-10 22:56:09  INFO      Retrieved 6 record(s) — 5754 total | This run: 1762 / $7.6710 | All-time: $569.0310
+2026-05-10 22:56:09  INFO      [59/704] Processing: 'clothes' @ 30.988418,47.320116
+2026-05-10 22:56:10  INFO      Triggered sd_mp04vsqj4lu9wvo6f  ('clothes' @ 30.988418,47.320116)
+2026-05-10 22:56:11  INFO      [sd_mp04vsqj4lu9wvo6f] Status: running
+2026-05-10 23:06:31  INFO      [sd_mp04vsqj4lu9wvo6f] Status: ready
+2026-05-10 23:06:35  INFO      Skipped 144 duplicate(s)
+2026-05-10 23:06:35  INFO      Retrieved 3 record(s) — 5757 total | This run: 1765 / $7.8915 | All-time: $569.2515
+2026-05-10 23:06:35  INFO      [60/704] Processing: 'library' @ 30.988418,47.320116
+2026-05-10 23:06:36  INFO      Triggered sd_mp0597w21tf1medhd5  ('library' @ 30.988418,47.320116)
+2026-05-10 23:06:37  INFO      [sd_mp0597w21tf1medhd5] Status: running
+2026-05-10 23:11:06  INFO      [sd_mp0597w21tf1medhd5] Status: ready
+2026-05-10 23:11:07  INFO      Skipped 61 duplicate(s)
+2026-05-10 23:11:08  INFO      Retrieved 2 record(s) — 5759 total | This run: 1767 / $7.9860 | All-time: $569.3460
+2026-05-10 23:11:08  INFO      [61/704] Processing: 'bar' @ 30.988418,47.320116
+2026-05-10 23:11:10  INFO      Triggered sd_mp05f3eqlwcnxwcb8  ('bar' @ 30.988418,47.320116)
+2026-05-10 23:11:11  INFO      [sd_mp05f3eqlwcnxwcb8] Status: running
+2026-05-10 23:12:55  INFO      [sd_mp05f3eqlwcnxwcb8] Status: ready
+2026-05-10 23:12:56  INFO      Skipped 28 duplicate(s)
+2026-05-10 23:12:56  INFO      Retrieved 0 record(s) — 5759 total | This run: 1767 / $8.0280 | All-time: $569.3880
+2026-05-10 23:12:56  INFO      [62/704] Processing: 'dry cleaning' @ 30.988418,47.320116
+2026-05-10 23:12:57  INFO      Triggered sd_mp05hdjs2ckoveyejv  ('dry cleaning' @ 30.988418,47.320116)
+2026-05-10 23:12:58  INFO      [sd_mp05hdjs2ckoveyejv] Status: running
+2026-05-10 23:15:36  INFO      [sd_mp05hdjs2ckoveyejv] Status: ready
+2026-05-10 23:15:37  INFO      Retrieved 0 record(s) — 5759 total | This run: 1767 / $8.0280 | All-time: $569.3880
+2026-05-10 23:15:37  INFO      [63/704] Processing: 'museum' @ 30.988418,47.320116
+2026-05-10 23:15:37  INFO      Triggered sd_mp05ktel1immvchu2l  ('museum' @ 30.988418,47.320116)
+2026-05-10 23:15:39  INFO      [sd_mp05ktel1immvchu2l] Status: running
+2026-05-10 23:17:41  INFO      [sd_mp05ktel1immvchu2l] Status: ready
+2026-05-10 23:17:42  INFO      Skipped 10 duplicate(s)
+2026-05-10 23:17:42  INFO      Retrieved 2 record(s) — 5761 total | This run: 1769 / $8.0460 | All-time: $569.4060
+2026-05-10 23:17:42  INFO      [64/704] Processing: 'convenience store' @ 30.988418,47.320116
+2026-05-10 23:17:43  INFO      Triggered sd_mp05ni1y1atur59b4b  ('convenience store' @ 30.988418,47.320116)
+2026-05-10 23:17:43  INFO      [sd_mp05ni1y1atur59b4b] Status: running
+2026-05-10 23:21:00  INFO      [sd_mp05ni1y1atur59b4b] Status: ready
+2026-05-10 23:21:02  INFO      Skipped 128 duplicate(s)
+2026-05-10 23:21:02  INFO      Retrieved 1 record(s) — 5762 total | This run: 1770 / $8.2395 | All-time: $569.5995
+2026-05-10 23:21:02  INFO      [65/704] Processing: 'restaurant' @ 31.016918,46.217131
+2026-05-10 23:21:03  INFO      Triggered sd_mp05rsmt23ay9yazcg  ('restaurant' @ 31.016918,46.217131)
+2026-05-10 23:21:04  INFO      [sd_mp05rsmt23ay9yazcg] Status: running
+2026-05-10 23:24:25  INFO      [sd_mp05rsmt23ay9yazcg] Status: ready
+2026-05-10 23:24:27  INFO      Retrieved 165 record(s) — 5927 total | This run: 1935 / $8.4870 | All-time: $569.8470
+2026-05-10 23:24:27  INFO      [66/704] Processing: 'cafe' @ 31.016918,46.217131
+2026-05-10 23:24:28  INFO      Triggered sd_mp05w6n2bgm6rrgn6  ('cafe' @ 31.016918,46.217131)
+2026-05-10 23:24:29  INFO      [sd_mp05w6n2bgm6rrgn6] Status: running
+2026-05-10 23:27:16  INFO      [sd_mp05w6n2bgm6rrgn6] Status: ready
+2026-05-10 23:27:17  INFO      Skipped 15 duplicate(s)
+2026-05-10 23:27:17  INFO      Retrieved 170 record(s) — 6097 total | This run: 2105 / $8.7645 | All-time: $570.1245
+2026-05-10 23:27:17  INFO      [67/704] Processing: 'hotel' @ 31.016918,46.217131
+2026-05-10 23:27:18  INFO      Triggered sd_mp05zu6h2rb1t81zrl  ('hotel' @ 31.016918,46.217131)
+2026-05-10 23:27:19  INFO      [sd_mp05zu6h2rb1t81zrl] Status: running
+2026-05-10 23:28:06  INFO      [sd_mp05zu6h2rb1t81zrl] Status: ready
+2026-05-10 23:28:07  INFO      Retrieved 3 record(s) — 6100 total | This run: 2108 / $8.7690 | All-time: $570.1290
+2026-05-10 23:28:07  INFO      [68/704] Processing: 'mall' @ 31.016918,46.217131
+2026-05-10 23:28:08  INFO      Triggered sd_mp060w821qn9cez0kz  ('mall' @ 31.016918,46.217131)
+2026-05-10 23:28:09  INFO      [sd_mp060w821qn9cez0kz] Status: running
+2026-05-10 23:33:47  INFO      [sd_mp060w821qn9cez0kz] Status: ready
+2026-05-10 23:33:48  INFO      Skipped 1 duplicate(s)
+2026-05-10 23:33:49  INFO      Retrieved 152 record(s) — 6252 total | This run: 2260 / $8.9985 | All-time: $570.3585
+2026-05-10 23:33:49  INFO      [69/704] Processing: 'gym' @ 31.016918,46.217131
+2026-05-10 23:33:49  INFO      Triggered sd_mp0687zg27qpgwy7q3  ('gym' @ 31.016918,46.217131)
+2026-05-10 23:33:50  INFO      [sd_mp0687zg27qpgwy7q3] Status: running
+2026-05-10 23:37:20  INFO      [sd_mp0687zg27qpgwy7q3] Status: ready
+2026-05-10 23:37:23  INFO      Retrieved 73 record(s) — 6325 total | This run: 2333 / $9.1080 | All-time: $570.4680
+2026-05-10 23:37:23  INFO      [70/704] Processing: 'hospital' @ 31.016918,46.217131
+2026-05-10 23:37:24  INFO      Triggered sd_mp06ctic2la1ccvv14  ('hospital' @ 31.016918,46.217131)
+2026-05-10 23:37:25  INFO      [sd_mp06ctic2la1ccvv14] Status: running
+2026-05-10 23:39:15  INFO      [sd_mp06ctic2la1ccvv14] Status: ready
+2026-05-10 23:39:17  INFO      Retrieved 14 record(s) — 6339 total | This run: 2347 / $9.1290 | All-time: $570.4890
+2026-05-10 23:39:17  INFO      [71/704] Processing: 'mosque' @ 31.016918,46.217131
+2026-05-10 23:39:17  INFO      Triggered sd_mp06f92n2k92kf2h90  ('mosque' @ 31.016918,46.217131)
+2026-05-10 23:39:18  INFO      [sd_mp06f92n2k92kf2h90] Status: running
+2026-05-10 23:48:01  INFO      [sd_mp06f92n2k92kf2h90] Status: ready
+2026-05-10 23:48:03  INFO      Skipped 11 duplicate(s)
+2026-05-10 23:48:03  INFO      Retrieved 188 record(s) — 6527 total | This run: 2535 / $9.4275 | All-time: $570.7875
+2026-05-10 23:48:03  INFO      [72/704] Processing: 'spa' @ 31.016918,46.217131
+2026-05-10 23:48:04  INFO      Triggered sd_mp06qj3tff05x90sj  ('spa' @ 31.016918,46.217131)
+2026-05-10 23:48:04  INFO      [sd_mp06qj3tff05x90sj] Status: running
+2026-05-10 23:50:29  INFO      [sd_mp06qj3tff05x90sj] Status: ready
+2026-05-10 23:50:30  INFO      Retrieved 7 record(s) — 6534 total | This run: 2542 / $9.4380 | All-time: $570.7980
+2026-05-10 23:50:30  INFO      [73/704] Processing: 'cinema' @ 31.016918,46.217131
+2026-05-10 23:50:31  INFO      Triggered sd_mp06tovr1b3qw8on2k  ('cinema' @ 31.016918,46.217131)
+2026-05-10 23:50:32  INFO      [sd_mp06tovr1b3qw8on2k] Status: running
+2026-05-10 23:51:48  INFO      [sd_mp06tovr1b3qw8on2k] Status: ready
+2026-05-10 23:51:49  INFO      Retrieved 4 record(s) — 6538 total | This run: 2546 / $9.4440 | All-time: $570.8040
+2026-05-10 23:51:49  INFO      [74/704] Processing: 'bakery' @ 31.016918,46.217131
+2026-05-10 23:51:50  INFO      Triggered sd_mp06vdk92neuejysoz  ('bakery' @ 31.016918,46.217131)
+2026-05-10 23:51:50  INFO      [sd_mp06vdk92neuejysoz] Status: running
+2026-05-10 23:55:16  INFO      [sd_mp06vdk92neuejysoz] Status: ready
+2026-05-10 23:55:17  INFO      Skipped 2 duplicate(s)
+2026-05-10 23:55:17  INFO      Retrieved 153 record(s) — 6691 total | This run: 2699 / $9.6765 | All-time: $571.0365
+2026-05-10 23:55:17  INFO      [75/704] Processing: 'clothes' @ 31.016918,46.217131
+2026-05-10 23:55:18  INFO      Triggered sd_mp06zuez19dr8u8onw  ('clothes' @ 31.016918,46.217131)
+2026-05-10 23:55:19  INFO      [sd_mp06zuez19dr8u8onw] Status: running
+2026-05-10 23:58:55  INFO      [sd_mp06zuez19dr8u8onw] Status: ready
+2026-05-10 23:58:57  INFO      Skipped 4 duplicate(s)
+2026-05-10 23:58:58  INFO      Retrieved 172 record(s) — 6863 total | This run: 2871 / $9.9405 | All-time: $571.3005
+2026-05-10 23:58:58  INFO      [76/704] Processing: 'library' @ 31.016918,46.217131
+2026-05-10 23:58:58  INFO      Triggered sd_mp074ka41xmg2si0bu  ('library' @ 31.016918,46.217131)
+2026-05-10 23:58:59  INFO      [sd_mp074ka41xmg2si0bu] Status: running
+2026-05-11 00:03:09  INFO      [sd_mp074ka41xmg2si0bu] Status: ready
+2026-05-11 00:03:11  INFO      Skipped 3 duplicate(s)
+2026-05-11 00:03:11  INFO      Retrieved 152 record(s) — 7015 total | This run: 3023 / $10.1730 | All-time: $571.5330
+2026-05-11 00:03:11  INFO      [77/704] Processing: 'bar' @ 31.016918,46.217131
+2026-05-11 00:03:12  INFO      Triggered sd_mp079zvp11uucmr3yt  ('bar' @ 31.016918,46.217131)
+2026-05-11 00:03:13  INFO      [sd_mp079zvp11uucmr3yt] Status: running
+2026-05-11 00:07:57  INFO      [sd_mp079zvp11uucmr3yt] Status: ready
+2026-05-11 00:07:59  INFO      Retrieved 91 record(s) — 7106 total | This run: 3114 / $10.3095 | All-time: $571.6695
+2026-05-11 00:07:59  INFO      [78/704] Processing: 'dry cleaning' @ 31.016918,46.217131
+2026-05-11 00:07:59  INFO      Triggered sd_mp07g5sbj8a4ptmqz  ('dry cleaning' @ 31.016918,46.217131)
+2026-05-11 00:08:00  INFO      [sd_mp07g5sbj8a4ptmqz] Status: running
+2026-05-11 00:10:12  INFO      [sd_mp07g5sbj8a4ptmqz] Status: ready
+2026-05-11 00:10:13  INFO      Retrieved 3 record(s) — 7109 total | This run: 3117 / $10.3140 | All-time: $571.6740
+2026-05-11 00:10:13  INFO      [79/704] Processing: 'museum' @ 31.016918,46.217131
+2026-05-11 00:10:13  INFO      Triggered sd_mp07j1761zpbmeihgj  ('museum' @ 31.016918,46.217131)
+2026-05-11 00:10:14  INFO      [sd_mp07j1761zpbmeihgj] Status: running
+2026-05-11 00:12:57  INFO      [sd_mp07j1761zpbmeihgj] Status: ready
+2026-05-11 00:12:58  INFO      Skipped 1 duplicate(s)
+2026-05-11 00:12:58  INFO      Retrieved 33 record(s) — 7142 total | This run: 3150 / $10.3650 | All-time: $571.7250
+2026-05-11 00:12:58  INFO      [80/704] Processing: 'convenience store' @ 31.016918,46.217131
+2026-05-11 00:12:59  INFO      Triggered sd_mp07ml402q5yj6cws3  ('convenience store' @ 31.016918,46.217131)
+2026-05-11 00:13:00  INFO      [sd_mp07ml402q5yj6cws3] Status: running
+2026-05-11 00:16:54  INFO      [sd_mp07ml402q5yj6cws3] Status: ready
+2026-05-11 00:16:56  INFO      Skipped 2 duplicate(s)
+2026-05-11 00:16:56  INFO      Retrieved 189 record(s) — 7331 total | This run: 3339 / $10.6515 | All-time: $572.0115
+2026-05-11 00:16:56  INFO      [81/704] Processing: 'restaurant' @ 31.287918,45.266086
+2026-05-11 00:16:57  INFO      Triggered sd_mp07ros32kuvlb32yv  ('restaurant' @ 31.287918,45.266086)
+2026-05-11 00:16:58  INFO      [sd_mp07ros32kuvlb32yv] Status: running
+2026-05-11 00:21:16  INFO      [sd_mp07ros32kuvlb32yv] Status: ready
+2026-05-11 00:21:18  INFO      Retrieved 163 record(s) — 7494 total | This run: 3502 / $10.8960 | All-time: $572.2560
+2026-05-11 00:21:18  INFO      [82/704] Processing: 'cafe' @ 31.287918,45.266086
+2026-05-11 00:21:18  INFO      Triggered sd_mp07xa962hp7hjd5c9  ('cafe' @ 31.287918,45.266086)
+2026-05-11 00:21:19  INFO      [sd_mp07xa962hp7hjd5c9] Status: running
+2026-05-11 00:23:41  INFO      [sd_mp07xa962hp7hjd5c9] Status: ready
+2026-05-11 00:23:42  INFO      Skipped 6 duplicate(s)
+2026-05-11 00:23:43  INFO      Retrieved 114 record(s) — 7608 total | This run: 3616 / $11.0760 | All-time: $572.4360
+2026-05-11 00:23:43  INFO      [83/704] Processing: 'hotel' @ 31.287918,45.266086
+2026-05-11 00:23:43  INFO      Triggered sd_mp080e56294j3fwvhg  ('hotel' @ 31.287918,45.266086)
+2026-05-11 00:23:44  INFO      [sd_mp080e56294j3fwvhg] Status: running
+2026-05-11 00:25:55  INFO      [sd_mp080e56294j3fwvhg] Status: ready
+2026-05-11 00:25:56  INFO      Retrieved 58 record(s) — 7666 total | This run: 3674 / $11.1630 | All-time: $572.5230
+2026-05-11 00:25:56  INFO      [84/704] Processing: 'mall' @ 31.287918,45.266086
+2026-05-11 00:25:57  INFO      Triggered sd_mp08397e1nver7uz9v  ('mall' @ 31.287918,45.266086)
+2026-05-11 00:25:58  INFO      [sd_mp08397e1nver7uz9v] Status: running
+2026-05-11 00:28:44  INFO      [sd_mp08397e1nver7uz9v] Status: ready
+2026-05-11 00:28:46  INFO      Skipped 24 duplicate(s)
+2026-05-11 00:28:46  INFO      Retrieved 166 record(s) — 7832 total | This run: 3840 / $11.4480 | All-time: $572.8080
+2026-05-11 00:28:46  INFO      [85/704] Processing: 'gym' @ 31.287918,45.266086
+2026-05-11 00:28:47  INFO      Triggered sd_mp086wjix142sw639  ('gym' @ 31.287918,45.266086)
+2026-05-11 00:28:48  INFO      [sd_mp086wjix142sw639] Status: running
+2026-05-11 00:32:56  INFO      [sd_mp086wjix142sw639] Status: ready
+2026-05-11 00:32:59  INFO      Retrieved 37 record(s) — 7869 total | This run: 3877 / $11.5035 | All-time: $572.8635
+2026-05-11 00:32:59  INFO      [86/704] Processing: 'hospital' @ 31.287918,45.266086
+2026-05-11 00:32:59  INFO      Triggered sd_mp08cb68jdwqn6e31  ('hospital' @ 31.287918,45.266086)
+2026-05-11 00:33:00  INFO      [sd_mp08cb68jdwqn6e31] Status: running
+2026-05-11 00:35:34  INFO      [sd_mp08cb68jdwqn6e31] Status: ready
+2026-05-11 00:35:35  INFO      Skipped 1 duplicate(s)
+2026-05-11 00:35:35  INFO      Retrieved 1 record(s) — 7870 total | This run: 3878 / $11.5065 | All-time: $572.8665
+2026-05-11 00:35:35  INFO      [87/704] Processing: 'mosque' @ 31.287918,45.266086
+2026-05-11 00:35:36  INFO      Triggered sd_mp08fnt91i6ywx39nl  ('mosque' @ 31.287918,45.266086)
+2026-05-11 00:35:37  INFO      [sd_mp08fnt91i6ywx39nl] Status: running
+2026-05-11 00:38:11  INFO      [sd_mp08fnt91i6ywx39nl] Status: ready
+2026-05-11 00:38:16  INFO      Skipped 18 duplicate(s)
+2026-05-11 00:38:17  INFO      Retrieved 172 record(s) — 8042 total | This run: 4050 / $11.7915 | All-time: $573.1515
+2026-05-11 00:38:17  INFO      [88/704] Processing: 'spa' @ 31.287918,45.266086
+2026-05-11 00:38:17  INFO      Triggered sd_mp08j4hb1fd3q5dreh  ('spa' @ 31.287918,45.266086)
+2026-05-11 00:38:19  INFO      [sd_mp08j4hb1fd3q5dreh] Status: running
+2026-05-11 00:41:21  INFO      [sd_mp08j4hb1fd3q5dreh] Status: ready
+2026-05-11 00:41:22  INFO      Retrieved 3 record(s) — 8045 total | This run: 4053 / $11.7960 | All-time: $573.1560
+2026-05-11 00:41:22  INFO      [89/704] Processing: 'cinema' @ 31.287918,45.266086
+2026-05-11 00:41:23  INFO      Triggered sd_mp08n3i11tmw00uds9  ('cinema' @ 31.287918,45.266086)
+2026-05-11 00:41:23  INFO      [sd_mp08n3i11tmw00uds9] Status: running
+2026-05-11 00:43:09  INFO      [sd_mp08n3i11tmw00uds9] Status: ready
+2026-05-11 00:43:10  INFO      Retrieved 2 record(s) — 8047 total | This run: 4055 / $11.7990 | All-time: $573.1590
+2026-05-11 00:43:10  INFO      [90/704] Processing: 'bakery' @ 31.287918,45.266086
+2026-05-11 00:43:11  INFO      Triggered sd_mp08peu5pktasdk31  ('bakery' @ 31.287918,45.266086)
+2026-05-11 00:43:11  INFO      [sd_mp08peu5pktasdk31] Status: running
+2026-05-11 00:45:42  INFO      [sd_mp08peu5pktasdk31] Status: ready
+2026-05-11 00:45:44  INFO      Retrieved 64 record(s) — 8111 total | This run: 4119 / $11.8950 | All-time: $573.2550
+2026-05-11 00:45:44  INFO      [91/704] Processing: 'clothes' @ 31.287918,45.266086
+2026-05-11 00:45:45  INFO      Triggered sd_mp08spwd2dzkyg0xa  ('clothes' @ 31.287918,45.266086)
+2026-05-11 00:45:47  INFO      [sd_mp08spwd2dzkyg0xa] Status: running
+2026-05-11 00:49:59  INFO      [sd_mp08spwd2dzkyg0xa] Status: ready
+2026-05-11 00:50:01  INFO      Skipped 5 duplicate(s)
+2026-05-11 00:50:01  INFO      Retrieved 163 record(s) — 8274 total | This run: 4282 / $12.1470 | All-time: $573.5070
+2026-05-11 00:50:01  INFO      [92/704] Processing: 'library' @ 31.287918,45.266086
+2026-05-11 00:50:02  INFO      Triggered sd_mp08y7wt213t4um5nj  ('library' @ 31.287918,45.266086)
+2026-05-11 00:50:02  INFO      [sd_mp08y7wt213t4um5nj] Status: running
+2026-05-11 00:54:18  INFO      [sd_mp08y7wt213t4um5nj] Status: ready
+2026-05-11 00:54:21  INFO      Skipped 137 duplicate(s)
+2026-05-11 00:54:21  INFO      Retrieved 55 record(s) — 8329 total | This run: 4337 / $12.4350 | All-time: $573.7950
+2026-05-11 00:54:21  INFO      [93/704] Processing: 'bar' @ 31.287918,45.266086
+2026-05-11 00:54:22  INFO      Triggered sd_mp093t1b5dt4drpe4  ('bar' @ 31.287918,45.266086)
+2026-05-11 00:54:23  INFO      [sd_mp093t1b5dt4drpe4] Status: running
+2026-05-11 00:57:36  INFO      [sd_mp093t1b5dt4drpe4] Status: ready
+2026-05-11 00:57:37  INFO      Skipped 1 duplicate(s)
+2026-05-11 00:57:37  INFO      Retrieved 35 record(s) — 8364 total | This run: 4372 / $12.4890 | All-time: $573.8490
+2026-05-11 00:57:37  INFO      [94/704] Processing: 'dry cleaning' @ 31.287918,45.266086
+2026-05-11 00:57:38  INFO      Triggered sd_mp097zuz2jrya18h44  ('dry cleaning' @ 31.287918,45.266086)
+2026-05-11 00:57:38  INFO      [sd_mp097zuz2jrya18h44] Status: running
+2026-05-11 01:01:08  INFO      [sd_mp097zuz2jrya18h44] Status: ready
+2026-05-11 01:01:09  INFO      Retrieved 5 record(s) — 8369 total | This run: 4377 / $12.4965 | All-time: $573.8565
+2026-05-11 01:01:09  INFO      [95/704] Processing: 'museum' @ 31.287918,45.266086
+2026-05-11 01:01:10  INFO      Triggered sd_mp09cjjt128r2nkgom  ('museum' @ 31.287918,45.266086)
+2026-05-11 01:01:11  INFO      [sd_mp09cjjt128r2nkgom] Status: running
+2026-05-11 01:04:57  INFO      [sd_mp09cjjt128r2nkgom] Status: ready
+2026-05-11 01:04:58  INFO      Retrieved 14 record(s) — 8383 total | This run: 4391 / $12.5175 | All-time: $573.8775
+2026-05-11 01:04:58  INFO      [96/704] Processing: 'convenience store' @ 31.287918,45.266086
+2026-05-11 01:04:59  INFO      Triggered sd_mp09hg68zg6e5w27w  ('convenience store' @ 31.287918,45.266086)
+2026-05-11 01:04:59  INFO      [sd_mp09hg68zg6e5w27w] Status: running
+2026-05-11 01:07:27  INFO      [sd_mp09hg68zg6e5w27w] Status: ready
+2026-05-11 01:07:29  INFO      Skipped 51 duplicate(s)
+2026-05-11 01:07:29  INFO      Retrieved 139 record(s) — 8522 total | This run: 4530 / $12.8025 | All-time: $574.1625
+2026-05-11 01:07:29  INFO      [97/704] Processing: 'restaurant' @ 31.343718,45.277397
+2026-05-11 01:07:30  INFO      Triggered sd_mp09kopzq2isfbd6q  ('restaurant' @ 31.343718,45.277397)
+2026-05-11 01:07:30  INFO      [sd_mp09kopzq2isfbd6q] Status: running
+2026-05-11 01:10:54  INFO      [sd_mp09kopzq2isfbd6q] Status: ready
+2026-05-11 01:10:56  INFO      Skipped 129 duplicate(s)
+2026-05-11 01:10:56  INFO      Retrieved 36 record(s) — 8558 total | This run: 4566 / $13.0500 | All-time: $574.4100
+2026-05-11 01:10:56  INFO      [98/704] Processing: 'cafe' @ 31.343718,45.277397
+2026-05-11 01:10:57  INFO      Triggered sd_mp09p4dt1mn3764xgw  ('cafe' @ 31.343718,45.277397)
+2026-05-11 01:10:58  INFO      [sd_mp09p4dt1mn3764xgw] Status: running
+2026-05-11 01:14:48  INFO      [sd_mp09p4dt1mn3764xgw] Status: ready
+2026-05-11 01:14:50  INFO      Skipped 116 duplicate(s)
+2026-05-11 01:14:50  INFO      Retrieved 49 record(s) — 8607 total | This run: 4615 / $13.2975 | All-time: $574.6575
+2026-05-11 01:14:50  INFO      [99/704] Processing: 'hotel' @ 31.343718,45.277397
+2026-05-11 01:14:51  INFO      Triggered sd_mp09u4sp27jkz1y7ax  ('hotel' @ 31.343718,45.277397)
+2026-05-11 01:14:51  INFO      [sd_mp09u4sp27jkz1y7ax] Status: running
+2026-05-11 01:17:48  INFO      [sd_mp09u4sp27jkz1y7ax] Status: ready
+2026-05-11 01:17:49  INFO      Skipped 57 duplicate(s)
+2026-05-11 01:17:50  INFO      Retrieved 83 record(s) — 8690 total | This run: 4698 / $13.5075 | All-time: $574.8675
+2026-05-11 01:17:50  INFO      [100/704] Processing: 'mall' @ 31.343718,45.277397
+2026-05-11 01:17:50  INFO      Triggered sd_mp09xzh927jtnmk2w5  ('mall' @ 31.343718,45.277397)
+2026-05-11 01:17:51  INFO      [sd_mp09xzh927jtnmk2w5] Status: running
+2026-05-11 01:20:58  INFO      [sd_mp09xzh927jtnmk2w5] Status: ready
+2026-05-11 01:21:00  INFO      Skipped 156 duplicate(s)
+2026-05-11 01:21:00  INFO      Retrieved 33 record(s) — 8723 total | This run: 4731 / $13.7910 | All-time: $575.1510
+2026-05-11 01:21:00  INFO      [101/704] Processing: 'gym' @ 31.343718,45.277397
+2026-05-11 01:21:01  INFO      Triggered sd_mp0a22tmtvgvkxx27  ('gym' @ 31.343718,45.277397)
+2026-05-11 01:21:02  INFO      [sd_mp0a22tmtvgvkxx27] Status: running
+2026-05-11 01:25:05  INFO      [sd_mp0a22tmtvgvkxx27] Status: ready
+2026-05-11 01:25:06  INFO      Skipped 36 duplicate(s)
+2026-05-11 01:25:06  INFO      Retrieved 14 record(s) — 8737 total | This run: 4745 / $13.8660 | All-time: $575.2260
+2026-05-11 01:25:06  INFO      [102/704] Processing: 'hospital' @ 31.343718,45.277397
+2026-05-11 01:25:07  INFO      Triggered sd_mp0a7ckf162tskmhp4  ('hospital' @ 31.343718,45.277397)
+2026-05-11 01:25:08  INFO      [sd_mp0a7ckf162tskmhp4] Status: running
+2026-05-11 01:27:30  INFO      [sd_mp0a7ckf162tskmhp4] Status: ready
+2026-05-11 01:27:31  INFO      Skipped 91 duplicate(s)
+2026-05-11 01:27:31  INFO      Retrieved 5 record(s) — 8742 total | This run: 4750 / $14.0100 | All-time: $575.3700
+2026-05-11 01:27:31  INFO      [103/704] Processing: 'mosque' @ 31.343718,45.277397
+2026-05-11 01:27:32  INFO      Triggered sd_mp0aaghdu6zywtup7  ('mosque' @ 31.343718,45.277397)
+2026-05-11 01:27:33  INFO      [sd_mp0aaghdu6zywtup7] Status: running
+2026-05-11 01:29:32  INFO      [sd_mp0aaghdu6zywtup7] Status: ready
+2026-05-11 01:29:33  INFO      Skipped 161 duplicate(s)
+2026-05-11 01:29:33  INFO      Retrieved 10 record(s) — 8752 total | This run: 4760 / $14.2665 | All-time: $575.6265
+2026-05-11 01:29:33  INFO      [104/704] Processing: 'spa' @ 31.343718,45.277397
+2026-05-11 01:29:34  INFO      Triggered sd_mp0ad2s9ps04ggexd  ('spa' @ 31.343718,45.277397)
+2026-05-11 01:29:35  INFO      [sd_mp0ad2s9ps04ggexd] Status: running
+2026-05-11 01:34:26  INFO      [sd_mp0ad2s9ps04ggexd] Status: ready
+2026-05-11 01:34:28  INFO      Skipped 16 duplicate(s)
+2026-05-11 01:34:28  INFO      Retrieved 39 record(s) — 8791 total | This run: 4799 / $14.3490 | All-time: $575.7090
+2026-05-11 01:34:28  INFO      [105/704] Processing: 'cinema' @ 31.343718,45.277397
+2026-05-11 01:34:29  INFO      Triggered sd_mp0ajdrt1qvu91sctq  ('cinema' @ 31.343718,45.277397)
+2026-05-11 01:34:29  INFO      [sd_mp0ajdrt1qvu91sctq] Status: running
+2026-05-11 01:35:57  INFO      [sd_mp0ajdrt1qvu91sctq] Status: ready
+2026-05-11 01:35:58  INFO      Skipped 2 duplicate(s)
+2026-05-11 01:35:58  INFO      Retrieved 1 record(s) — 8792 total | This run: 4800 / $14.3535 | All-time: $575.7135
+2026-05-11 01:35:58  INFO      [106/704] Processing: 'bakery' @ 31.343718,45.277397
+2026-05-11 01:35:59  INFO      Triggered sd_mp0albax23ix177ix  ('bakery' @ 31.343718,45.277397)
+2026-05-11 01:35:59  INFO      [sd_mp0albax23ix177ix] Status: running
+2026-05-11 01:39:43  INFO      [sd_mp0albax23ix177ix] Status: ready
+2026-05-11 01:39:45  INFO      Skipped 64 duplicate(s)
+2026-05-11 01:39:45  INFO      Retrieved 22 record(s) — 8814 total | This run: 4822 / $14.4825 | All-time: $575.8425
+2026-05-11 01:39:45  INFO      [107/704] Processing: 'clothes' @ 31.343718,45.277397
+2026-05-11 01:39:46  INFO      Triggered sd_mp0aq6fjt1p631ulj  ('clothes' @ 31.343718,45.277397)
+2026-05-11 01:39:46  INFO      [sd_mp0aq6fjt1p631ulj] Status: running
+2026-05-11 01:42:46  INFO      [sd_mp0aq6fjt1p631ulj] Status: ready
+2026-05-11 01:42:47  INFO      Skipped 150 duplicate(s)
+2026-05-11 01:42:47  INFO      Retrieved 18 record(s) — 8832 total | This run: 4840 / $14.7345 | All-time: $576.0945
+2026-05-11 01:42:47  INFO      [108/704] Processing: 'library' @ 31.343718,45.277397
+2026-05-11 01:42:48  INFO      Triggered sd_mp0au38f1qr6xk1hdq  ('library' @ 31.343718,45.277397)
+2026-05-11 01:42:49  INFO      [sd_mp0au38f1qr6xk1hdq] Status: running
+2026-05-11 01:46:49  INFO      [sd_mp0au38f1qr6xk1hdq] Status: ready
+2026-05-11 01:46:50  INFO      Skipped 53 duplicate(s)
+2026-05-11 01:46:50  INFO      Retrieved 21 record(s) — 8853 total | This run: 4861 / $14.8455 | All-time: $576.2055
+2026-05-11 01:46:50  INFO      [109/704] Processing: 'bar' @ 31.343718,45.277397
+2026-05-11 01:46:51  INFO      Triggered sd_mp0azakh109hnqorvc  ('bar' @ 31.343718,45.277397)
+2026-05-11 01:46:52  INFO      [sd_mp0azakh109hnqorvc] Status: running
+2026-05-11 01:51:12  INFO      [sd_mp0azakh109hnqorvc] Status: ready
+2026-05-11 01:51:13  INFO      Skipped 36 duplicate(s)
+2026-05-11 01:51:13  INFO      Retrieved 2 record(s) — 8855 total | This run: 4863 / $14.9025 | All-time: $576.2625
+2026-05-11 01:51:13  INFO      [110/704] Processing: 'dry cleaning' @ 31.343718,45.277397
+2026-05-11 01:51:14  INFO      Triggered sd_mp0b4xoe1eny6dpxdl  ('dry cleaning' @ 31.343718,45.277397)
+2026-05-11 01:51:15  INFO      [sd_mp0b4xoe1eny6dpxdl] Status: running
+2026-05-11 01:52:45  INFO      [sd_mp0b4xoe1eny6dpxdl] Status: ready
+2026-05-11 01:52:47  INFO      Skipped 5 duplicate(s)
+2026-05-11 01:52:47  INFO      Retrieved 0 record(s) — 8855 total | This run: 4863 / $14.9100 | All-time: $576.2700
+2026-05-11 01:52:47  INFO      [111/704] Processing: 'museum' @ 31.343718,45.277397
+2026-05-11 01:52:48  INFO      Triggered sd_mp0b6y4m1b61iknk0m  ('museum' @ 31.343718,45.277397)
+2026-05-11 01:52:49  INFO      [sd_mp0b6y4m1b61iknk0m] Status: running
+2026-05-11 01:54:49  INFO      [sd_mp0b6y4m1b61iknk0m] Status: ready
+2026-05-11 01:54:50  INFO      Skipped 14 duplicate(s)
+2026-05-11 01:54:50  INFO      Retrieved 9 record(s) — 8864 total | This run: 4872 / $14.9445 | All-time: $576.3045
+2026-05-11 01:54:50  INFO      [112/704] Processing: 'convenience store' @ 31.343718,45.277397
+2026-05-11 01:54:51  INFO      Triggered sd_mp0b9kx01675l28ty3  ('convenience store' @ 31.343718,45.277397)
+2026-05-11 01:54:52  INFO      [sd_mp0b9kx01675l28ty3] Status: running
+2026-05-11 01:57:19  INFO      [sd_mp0b9kx01675l28ty3] Status: ready
+2026-05-11 01:57:21  INFO      Skipped 188 duplicate(s)
+2026-05-11 01:57:21  INFO      Retrieved 1 record(s) — 8865 total | This run: 4873 / $15.2280 | All-time: $576.5880
+2026-05-11 01:57:21  INFO      [113/704] Processing: 'restaurant' @ 32.006018,44.285358
+2026-05-11 01:57:22  INFO      Triggered sd_mp0bctg92ii8hu1ptl  ('restaurant' @ 32.006018,44.285358)
+2026-05-11 01:57:23  INFO      [sd_mp0bctg92ii8hu1ptl] Status: running
+2026-05-11 02:01:51  INFO      [sd_mp0bctg92ii8hu1ptl] Status: ready
+2026-05-11 02:01:53  INFO      Retrieved 166 record(s) — 9031 total | This run: 5039 / $15.4770 | All-time: $576.8370
+2026-05-11 02:01:53  INFO      [114/704] Processing: 'cafe' @ 32.006018,44.285358
+2026-05-11 02:01:54  INFO      Triggered sd_mp0bindl2ec3zvnup7  ('cafe' @ 32.006018,44.285358)
+2026-05-11 02:01:55  INFO      [sd_mp0bindl2ec3zvnup7] Status: running
+2026-05-11 02:04:50  INFO      [sd_mp0bindl2ec3zvnup7] Status: ready
+2026-05-11 02:04:51  INFO      Skipped 23 duplicate(s)
+2026-05-11 02:04:52  INFO      Retrieved 154 record(s) — 9185 total | This run: 5193 / $15.7425 | All-time: $577.1025
+2026-05-11 02:04:52  INFO      [115/704] Processing: 'hotel' @ 32.006018,44.285358
+2026-05-11 02:04:52  INFO      Triggered sd_mp0bmh021nm2mvhs2n  ('hotel' @ 32.006018,44.285358)
+2026-05-11 02:04:53  INFO      [sd_mp0bmh021nm2mvhs2n] Status: running
+2026-05-11 02:07:26  INFO      [sd_mp0bmh021nm2mvhs2n] Status: ready
+2026-05-11 02:07:27  INFO      Skipped 1 duplicate(s)
+2026-05-11 02:07:27  INFO      Retrieved 26 record(s) — 9211 total | This run: 5219 / $15.7830 | All-time: $577.1430
+2026-05-11 02:07:27  INFO      [116/704] Processing: 'mall' @ 32.006018,44.285358
+2026-05-11 02:07:28  INFO      Triggered sd_mp0bpt3lhdyo61c6j  ('mall' @ 32.006018,44.285358)
+2026-05-11 02:07:29  INFO      [sd_mp0bpt3lhdyo61c6j] Status: running
+2026-05-11 02:12:29  INFO      [sd_mp0bpt3lhdyo61c6j] Status: ready
+2026-05-11 02:12:31  INFO      Retrieved 177 record(s) — 9388 total | This run: 5396 / $16.0485 | All-time: $577.4085
+2026-05-11 02:12:31  INFO      [117/704] Processing: 'gym' @ 32.006018,44.285358
+2026-05-11 02:12:32  INFO      Triggered sd_mp0bwbe41ml6tjh3en  ('gym' @ 32.006018,44.285358)
+2026-05-11 02:12:32  INFO      [sd_mp0bwbe41ml6tjh3en] Status: running
+2026-05-11 02:17:06  INFO      [sd_mp0bwbe41ml6tjh3en] Status: ready
+2026-05-11 02:17:08  INFO      Skipped 2 duplicate(s)
+2026-05-11 02:17:08  INFO      Retrieved 135 record(s) — 9523 total | This run: 5531 / $16.2540 | All-time: $577.6140
+2026-05-11 02:17:08  INFO      [118/704] Processing: 'hospital' @ 32.006018,44.285358
+2026-05-11 02:17:09  INFO      Triggered sd_mp0c2953233ac0d39e  ('hospital' @ 32.006018,44.285358)
+2026-05-11 02:17:09  INFO      [sd_mp0c2953233ac0d39e] Status: running
+2026-05-11 02:19:36  INFO      [sd_mp0c2953233ac0d39e] Status: ready
+2026-05-11 02:19:38  INFO      Retrieved 11 record(s) — 9534 total | This run: 5542 / $16.2705 | All-time: $577.6305
+2026-05-11 02:19:38  INFO      [119/704] Processing: 'mosque' @ 32.006018,44.285358
+2026-05-11 02:19:38  INFO      Triggered sd_mp0c5gm5od7enph1p  ('mosque' @ 32.006018,44.285358)
+2026-05-11 02:19:39  INFO      [sd_mp0c5gm5od7enph1p] Status: running
+2026-05-11 02:24:40  INFO      [sd_mp0c5gm5od7enph1p] Status: ready
+2026-05-11 02:24:42  INFO      Skipped 4 duplicate(s)
+2026-05-11 02:24:42  INFO      Retrieved 188 record(s) — 9722 total | This run: 5730 / $16.5585 | All-time: $577.9185
+2026-05-11 02:24:42  INFO      [120/704] Processing: 'spa' @ 32.006018,44.285358
+2026-05-11 02:24:43  INFO      Triggered sd_mp0cbzto1jkyucbojs  ('spa' @ 32.006018,44.285358)
+2026-05-11 02:24:44  INFO      [sd_mp0cbzto1jkyucbojs] Status: running
+2026-05-11 02:30:06  INFO      [sd_mp0cbzto1jkyucbojs] Status: ready
+2026-05-11 02:30:08  INFO      Skipped 46 duplicate(s)
+2026-05-11 02:30:08  INFO      Retrieved 112 record(s) — 9834 total | This run: 5842 / $16.7955 | All-time: $578.1555
+2026-05-11 02:30:08  INFO      [121/704] Processing: 'cinema' @ 32.006018,44.285358
+2026-05-11 02:30:09  INFO      Triggered sd_mp0ciz8d2dblqm1rfp  ('cinema' @ 32.006018,44.285358)
+2026-05-11 02:30:10  INFO      [sd_mp0ciz8d2dblqm1rfp] Status: running
+2026-05-11 02:30:56  INFO      [sd_mp0ciz8d2dblqm1rfp] Status: ready
+2026-05-11 02:30:57  INFO      Retrieved 6 record(s) — 9840 total | This run: 5848 / $16.8045 | All-time: $578.1645
+2026-05-11 02:30:57  INFO      [122/704] Processing: 'bakery' @ 32.006018,44.285358
+2026-05-11 02:30:57  INFO      Triggered sd_mp0ck0mqp9dy0frf1  ('bakery' @ 32.006018,44.285358)
+2026-05-11 02:30:58  INFO      [sd_mp0ck0mqp9dy0frf1] Status: running
+2026-05-11 02:34:35  INFO      [sd_mp0ck0mqp9dy0frf1] Status: ready
+2026-05-11 02:34:37  INFO      Retrieved 171 record(s) — 10011 total | This run: 6019 / $17.0610 | All-time: $578.4210
+2026-05-11 02:34:37  INFO      [123/704] Processing: 'clothes' @ 32.006018,44.285358
+2026-05-11 02:34:38  INFO      Triggered sd_mp0cor051gahlbunum  ('clothes' @ 32.006018,44.285358)
+2026-05-11 02:34:39  INFO      [sd_mp0cor051gahlbunum] Status: running
+2026-05-11 02:38:55  INFO      [sd_mp0cor051gahlbunum] Status: ready
+2026-05-11 02:38:57  INFO      Skipped 4 duplicate(s)
+2026-05-11 02:38:58  INFO      Retrieved 194 record(s) — 10205 total | This run: 6213 / $17.3580 | All-time: $578.7180
+2026-05-11 02:38:58  INFO      [124/704] Processing: 'library' @ 32.006018,44.285358
+2026-05-11 02:38:58  INFO      Triggered sd_mp0cubohnnur822fv  ('library' @ 32.006018,44.285358)
+2026-05-11 02:38:59  INFO      [sd_mp0cubohnnur822fv] Status: running
+2026-05-11 02:42:12  INFO      [sd_mp0cubohnnur822fv] Status: ready
+2026-05-11 02:42:14  INFO      Skipped 5 duplicate(s)
+2026-05-11 02:42:14  INFO      Retrieved 175 record(s) — 10380 total | This run: 6388 / $17.6280 | All-time: $578.9880
+2026-05-11 02:42:14  INFO      [125/704] Processing: 'bar' @ 32.006018,44.285358
+2026-05-11 02:42:15  INFO      Triggered sd_mp0cyjbw1i0p49rzhb  ('bar' @ 32.006018,44.285358)
+2026-05-11 02:42:16  INFO      [sd_mp0cyjbw1i0p49rzhb] Status: running
+2026-05-11 02:44:48  INFO      [sd_mp0cyjbw1i0p49rzhb] Status: ready
+2026-05-11 02:44:50  INFO      Skipped 1 duplicate(s)
+2026-05-11 02:44:50  INFO      Retrieved 109 record(s) — 10489 total | This run: 6497 / $17.7930 | All-time: $579.1530
+2026-05-11 02:44:50  INFO      [126/704] Processing: 'dry cleaning' @ 32.006018,44.285358
+2026-05-11 02:44:51  INFO      Triggered sd_mp0d1vnu1if7k9cgsm  ('dry cleaning' @ 32.006018,44.285358)
+2026-05-11 02:44:51  INFO      [sd_mp0d1vnu1if7k9cgsm] Status: running
+2026-05-11 02:46:28  INFO      [sd_mp0d1vnu1if7k9cgsm] Status: ready
+2026-05-11 02:46:29  INFO      Skipped 1 duplicate(s)
+2026-05-11 02:46:30  INFO      Retrieved 11 record(s) — 10500 total | This run: 6508 / $17.8110 | All-time: $579.1710
+2026-05-11 02:46:30  INFO      [127/704] Processing: 'museum' @ 32.006018,44.285358
+2026-05-11 02:46:31  INFO      Triggered sd_mp0d40k72qzt1wqtrk  ('museum' @ 32.006018,44.285358)
+2026-05-11 02:46:31  INFO      [sd_mp0d40k72qzt1wqtrk] Status: running
+2026-05-11 02:51:48  INFO      [sd_mp0d40k72qzt1wqtrk] Status: ready
+2026-05-11 02:51:50  INFO      Retrieved 169 record(s) — 10669 total | This run: 6677 / $18.0645 | All-time: $579.4245
+2026-05-11 02:51:50  INFO      [128/704] Processing: 'convenience store' @ 32.006018,44.285358
+2026-05-11 02:51:51  INFO      Triggered sd_mp0davmr1bya896m8r  ('convenience store' @ 32.006018,44.285358)
+2026-05-11 02:51:52  INFO      [sd_mp0davmr1bya896m8r] Status: running
+2026-05-11 02:54:38  INFO      [sd_mp0davmr1bya896m8r] Status: ready
+2026-05-11 02:54:40  INFO      Skipped 1 duplicate(s)
+2026-05-11 02:54:40  INFO      Retrieved 181 record(s) — 10850 total | This run: 6858 / $18.3375 | All-time: $579.6975
+2026-05-11 02:54:40  INFO      [129/704] Processing: 'restaurant' @ 32.450118,44.411558
+2026-05-11 02:54:41  INFO      Triggered sd_mp0deiuxv6t0few2x  ('restaurant' @ 32.450118,44.411558)
+2026-05-11 02:54:42  INFO      [sd_mp0deiuxv6t0few2x] Status: running
+2026-05-11 02:59:04  INFO      [sd_mp0deiuxv6t0few2x] Status: ready
+2026-05-11 02:59:06  INFO      Skipped 2 duplicate(s)
+2026-05-11 02:59:06  INFO      Retrieved 208 record(s) — 11058 total | This run: 7066 / $18.6525 | All-time: $580.0125
+2026-05-11 02:59:06  INFO      [130/704] Processing: 'cafe' @ 32.450118,44.411558
+2026-05-11 02:59:07  INFO      Triggered sd_mp0dk80v1vd3k2xut7  ('cafe' @ 32.450118,44.411558)
+2026-05-11 02:59:07  INFO      [sd_mp0dk80v1vd3k2xut7] Status: running
+2026-05-11 03:03:46  INFO      [sd_mp0dk80v1vd3k2xut7] Status: ready
+2026-05-11 03:03:48  INFO      Skipped 3 duplicate(s)
+2026-05-11 03:03:48  INFO      Retrieved 264 record(s) — 11322 total | This run: 7330 / $19.0530 | All-time: $580.4130
+2026-05-11 03:03:48  INFO      [131/704] Processing: 'hotel' @ 32.450118,44.411558
+2026-05-11 03:03:49  INFO      Triggered sd_mp0dqa0ah4kvfxny2  ('hotel' @ 32.450118,44.411558)
+2026-05-11 03:03:50  INFO      [sd_mp0dqa0ah4kvfxny2] Status: running
+2026-05-11 03:06:18  INFO      [sd_mp0dqa0ah4kvfxny2] Status: ready
+2026-05-11 03:06:19  INFO      Retrieved 46 record(s) — 11368 total | This run: 7376 / $19.1220 | All-time: $580.4820
+2026-05-11 03:06:19  INFO      [132/704] Processing: 'mall' @ 32.450118,44.411558
+2026-05-11 03:06:20  INFO      Triggered sd_mp0dtia22fq4v6n75h  ('mall' @ 32.450118,44.411558)
+2026-05-11 03:06:20  INFO      [sd_mp0dtia22fq4v6n75h] Status: running
+2026-05-11 03:10:13  INFO      [sd_mp0dtia22fq4v6n75h] Status: ready
+2026-05-11 03:10:15  INFO      Retrieved 156 record(s) — 11524 total | This run: 7532 / $19.3560 | All-time: $580.7160
+2026-05-11 03:10:15  INFO      [133/704] Processing: 'gym' @ 32.450118,44.411558
+2026-05-11 03:10:16  INFO      Triggered sd_mp0dyklt2ikfq7wozt  ('gym' @ 32.450118,44.411558)
+2026-05-11 03:10:17  INFO      [sd_mp0dyklt2ikfq7wozt] Status: running
+2026-05-11 03:16:15  INFO      [sd_mp0dyklt2ikfq7wozt] Status: ready
+2026-05-11 03:16:17  INFO      Retrieved 156 record(s) — 11680 total | This run: 7688 / $19.5900 | All-time: $580.9500
+2026-05-11 03:16:17  INFO      [134/704] Processing: 'hospital' @ 32.450118,44.411558
+2026-05-11 03:16:18  INFO      Triggered sd_mp0e6bwz1n9m63eb4t  ('hospital' @ 32.450118,44.411558)
+2026-05-11 03:16:19  INFO      [sd_mp0e6bwz1n9m63eb4t] Status: running
+2026-05-11 03:18:36  INFO      [sd_mp0e6bwz1n9m63eb4t] Status: ready
+2026-05-11 03:18:37  INFO      Skipped 2 duplicate(s)
+2026-05-11 03:18:37  INFO      Retrieved 18 record(s) — 11698 total | This run: 7706 / $19.6200 | All-time: $580.9800
+2026-05-11 03:18:37  INFO      [135/704] Processing: 'mosque' @ 32.450118,44.411558
+2026-05-11 03:18:38  INFO      Triggered sd_mp0e9blz2i79fjh6bc  ('mosque' @ 32.450118,44.411558)
+2026-05-11 03:18:38  INFO      [sd_mp0e9blz2i79fjh6bc] Status: running
+2026-05-11 03:21:29  INFO      [sd_mp0e9blz2i79fjh6bc] Status: ready
+2026-05-11 03:21:31  INFO      Skipped 4 duplicate(s)
+2026-05-11 03:21:31  INFO      Retrieved 179 record(s) — 11877 total | This run: 7885 / $19.8945 | All-time: $581.2545
+2026-05-11 03:21:31  INFO      [136/704] Processing: 'spa' @ 32.450118,44.411558
+2026-05-11 03:21:32  INFO      Triggered sd_mp0ed27018x6rqz5mk  ('spa' @ 32.450118,44.411558)
+2026-05-11 03:21:33  INFO      [sd_mp0ed27018x6rqz5mk] Status: running
+2026-05-11 03:23:31  INFO      [sd_mp0ed27018x6rqz5mk] Status: ready
+2026-05-11 03:23:32  INFO      Retrieved 24 record(s) — 11901 total | This run: 7909 / $19.9305 | All-time: $581.2905
+2026-05-11 03:23:32  INFO      [137/704] Processing: 'cinema' @ 32.450118,44.411558
+2026-05-11 03:23:33  INFO      Triggered sd_mp0efnnow4dhoy8ce  ('cinema' @ 32.450118,44.411558)
+2026-05-11 03:23:34  INFO      [sd_mp0efnnow4dhoy8ce] Status: running
+2026-05-11 03:25:20  INFO      [sd_mp0efnnow4dhoy8ce] Status: ready
+2026-05-11 03:25:21  INFO      Skipped 2 duplicate(s)
+2026-05-11 03:25:21  INFO      Retrieved 2 record(s) — 11903 total | This run: 7911 / $19.9365 | All-time: $581.2965
+2026-05-11 03:25:21  INFO      [138/704] Processing: 'bakery' @ 32.450118,44.411558
+2026-05-11 03:25:23  INFO      Triggered sd_mp0ei0hedx1ns5aro  ('bakery' @ 32.450118,44.411558)
+2026-05-11 03:25:25  INFO      [sd_mp0ei0hedx1ns5aro] Status: running
+2026-05-11 03:28:20  INFO      [sd_mp0ei0hedx1ns5aro] Status: ready
+2026-05-11 03:28:22  INFO      Skipped 20 duplicate(s)
+2026-05-11 03:28:22  INFO      Retrieved 164 record(s) — 12067 total | This run: 8075 / $20.2125 | All-time: $581.5725
+2026-05-11 03:28:22  INFO      [139/704] Processing: 'clothes' @ 32.450118,44.411558
+2026-05-11 03:28:23  INFO      Triggered sd_mp0elv8l1zbcf3814d  ('clothes' @ 32.450118,44.411558)
+2026-05-11 03:28:24  INFO      [sd_mp0elv8l1zbcf3814d] Status: running
+2026-05-11 03:31:10  INFO      [sd_mp0elv8l1zbcf3814d] Status: ready
+2026-05-11 03:31:12  INFO      Skipped 1 duplicate(s)
+2026-05-11 03:31:12  INFO      Retrieved 200 record(s) — 12267 total | This run: 8275 / $20.5140 | All-time: $581.8740
+2026-05-11 03:31:12  INFO      [140/704] Processing: 'library' @ 32.450118,44.411558
+2026-05-11 03:31:13  INFO      Triggered sd_mp0epi6b2gkamat9jb  ('library' @ 32.450118,44.411558)
+2026-05-11 03:31:13  INFO      [sd_mp0epi6b2gkamat9jb] Status: running
+2026-05-11 03:34:44  INFO      [sd_mp0epi6b2gkamat9jb] Status: ready
+2026-05-11 03:34:46  INFO      Skipped 8 duplicate(s)
+2026-05-11 03:34:46  INFO      Retrieved 176 record(s) — 12443 total | This run: 8451 / $20.7900 | All-time: $582.1500
+2026-05-11 03:34:46  INFO      [141/704] Processing: 'bar' @ 32.450118,44.411558
+2026-05-11 03:34:47  INFO      Triggered sd_mp0eu3gbrov79zc6m  ('bar' @ 32.450118,44.411558)
+2026-05-11 03:34:48  INFO      [sd_mp0eu3gbrov79zc6m] Status: running
+2026-05-11 03:38:26  INFO      [sd_mp0eu3gbrov79zc6m] Status: ready
+2026-05-11 03:38:28  INFO      Skipped 24 duplicate(s)
+2026-05-11 03:38:28  INFO      Retrieved 146 record(s) — 12589 total | This run: 8597 / $21.0450 | All-time: $582.4050
+2026-05-11 03:38:28  INFO      [142/704] Processing: 'dry cleaning' @ 32.450118,44.411558
+2026-05-11 03:38:29  INFO      Triggered sd_mp0eyumh26d2g14jf6  ('dry cleaning' @ 32.450118,44.411558)
+2026-05-11 03:38:29  INFO      [sd_mp0eyumh26d2g14jf6] Status: running
+2026-05-11 03:40:18  INFO      [sd_mp0eyumh26d2g14jf6] Status: ready
+2026-05-11 03:40:20  INFO      Retrieved 12 record(s) — 12601 total | This run: 8609 / $21.0630 | All-time: $582.4230
+2026-05-11 03:40:20  INFO      [143/704] Processing: 'museum' @ 32.450118,44.411558
+2026-05-11 03:40:21  INFO      Triggered sd_mp0f18ut2jxqdfqjis  ('museum' @ 32.450118,44.411558)
+2026-05-11 03:40:21  INFO      [sd_mp0f18ut2jxqdfqjis] Status: running
+2026-05-11 03:44:24  INFO      [sd_mp0f18ut2jxqdfqjis] Status: ready
+2026-05-11 03:44:26  INFO      Skipped 102 duplicate(s)
+2026-05-11 03:44:26  INFO      Retrieved 58 record(s) — 12659 total | This run: 8667 / $21.3030 | All-time: $582.6630
+2026-05-11 03:44:26  INFO      [144/704] Processing: 'convenience store' @ 32.450118,44.411558
+2026-05-11 03:44:27  INFO      Triggered sd_mp0f6j632p3skiq6ci  ('convenience store' @ 32.450118,44.411558)
+2026-05-11 03:44:28  INFO      [sd_mp0f6j632p3skiq6ci] Status: running
+2026-05-11 03:49:11  INFO      [sd_mp0f6j632p3skiq6ci] Status: ready
+2026-05-11 03:49:13  INFO      Skipped 2 duplicate(s)
+2026-05-11 03:49:13  INFO      Retrieved 214 record(s) — 12873 total | This run: 8881 / $21.6270 | All-time: $582.9870
+2026-05-11 03:49:13  INFO      [145/704] Processing: 'restaurant' @ 32.568118,43.968388
+2026-05-11 03:49:14  INFO      Triggered sd_mp0fcooa1tnryclacm  ('restaurant' @ 32.568118,43.968388)
+2026-05-11 03:49:15  INFO      [sd_mp0fcooa1tnryclacm] Status: running
+2026-05-11 03:52:00  INFO      [sd_mp0fcooa1tnryclacm] Status: ready
+2026-05-11 03:52:02  INFO      Retrieved 159 record(s) — 13032 total | This run: 9040 / $21.8655 | All-time: $583.2255
+2026-05-11 03:52:02  INFO      [146/704] Processing: 'cafe' @ 32.568118,43.968388
+2026-05-11 03:52:03  INFO      Triggered sd_mp0fgb4f1xgazhau2m  ('cafe' @ 32.568118,43.968388)
+2026-05-11 03:52:04  INFO      [sd_mp0fgb4f1xgazhau2m] Status: running
+2026-05-11 03:55:41  INFO      [sd_mp0fgb4f1xgazhau2m] Status: ready
+2026-05-11 03:55:42  INFO      Skipped 14 duplicate(s)
+2026-05-11 03:55:43  INFO      Retrieved 166 record(s) — 13198 total | This run: 9206 / $22.1355 | All-time: $583.4955
+2026-05-11 03:55:43  INFO      [147/704] Processing: 'hotel' @ 32.568118,43.968388
+2026-05-11 03:55:43  INFO      Triggered sd_mp0fl0zp1ch6a4nzma  ('hotel' @ 32.568118,43.968388)
+2026-05-11 03:55:44  INFO      [sd_mp0fl0zp1ch6a4nzma] Status: running
+2026-05-11 03:57:15  INFO      [sd_mp0fl0zp1ch6a4nzma] Status: ready
+2026-05-11 03:57:30  INFO      Skipped 8 duplicate(s)
+2026-05-11 03:57:30  INFO      Retrieved 36 record(s) — 13234 total | This run: 9242 / $22.2015 | All-time: $583.5615
+2026-05-11 03:57:30  INFO      [148/704] Processing: 'mall' @ 32.568118,43.968388
+2026-05-11 03:57:32  INFO      Triggered sd_mp0fnckhqm4qrsttr  ('mall' @ 32.568118,43.968388)
+2026-05-11 03:57:33  INFO      [sd_mp0fnckhqm4qrsttr] Status: running
+2026-05-11 04:00:26  INFO      [sd_mp0fnckhqm4qrsttr] Status: ready
+2026-05-11 04:00:47  INFO      Retrieved 142 record(s) — 13376 total | This run: 9384 / $22.4145 | All-time: $583.7745
+2026-05-11 04:00:47  INFO      [149/704] Processing: 'gym' @ 32.568118,43.968388
+2026-05-11 04:00:49  INFO      Triggered sd_mp0frkkj1mivf6eua3  ('gym' @ 32.568118,43.968388)
+2026-05-11 04:00:49  INFO      [sd_mp0frkkj1mivf6eua3] Status: running
+2026-05-11 04:05:01  INFO      [sd_mp0frkkj1mivf6eua3] Status: ready
+2026-05-11 04:05:02  INFO      Skipped 5 duplicate(s)
+2026-05-11 04:05:03  INFO      Retrieved 104 record(s) — 13480 total | This run: 9488 / $22.5780 | All-time: $583.9380
+2026-05-11 04:05:03  INFO      [150/704] Processing: 'hospital' @ 32.568118,43.968388
+2026-05-11 04:05:04  INFO      Triggered sd_mp0fx15a6qathzwya  ('hospital' @ 32.568118,43.968388)
+2026-05-11 04:05:04  INFO      [sd_mp0fx15a6qathzwya] Status: running
+2026-05-11 04:06:27  INFO      [sd_mp0fx15a6qathzwya] Status: ready
+2026-05-11 04:06:28  INFO      Skipped 7 duplicate(s)
+2026-05-11 04:06:28  INFO      Retrieved 6 record(s) — 13486 total | This run: 9494 / $22.5975 | All-time: $583.9575
+2026-05-11 04:06:28  INFO      [151/704] Processing: 'mosque' @ 32.568118,43.968388
+2026-05-11 04:06:30  INFO      Triggered sd_mp0fyvx1vrm5ncttk  ('mosque' @ 32.568118,43.968388)
+2026-05-11 04:06:31  INFO      [sd_mp0fyvx1vrm5ncttk] Status: running
+2026-05-11 04:09:34  INFO      [sd_mp0fyvx1vrm5ncttk] Status: ready
+2026-05-11 04:09:35  INFO      Skipped 3 duplicate(s)
+2026-05-11 04:09:36  INFO      Retrieved 180 record(s) — 13666 total | This run: 9674 / $22.8720 | All-time: $584.2320
+2026-05-11 04:09:36  INFO      [152/704] Processing: 'spa' @ 32.568118,43.968388
+2026-05-11 04:09:37  INFO      Triggered sd_mp0g2vzs2ebctam009  ('spa' @ 32.568118,43.968388)
+2026-05-11 04:09:38  INFO      [sd_mp0g2vzs2ebctam009] Status: running
+2026-05-11 04:13:34  INFO      [sd_mp0g2vzs2ebctam009] Status: ready
+2026-05-11 04:13:35  INFO      Skipped 4 duplicate(s)
+2026-05-11 04:13:35  INFO      Retrieved 25 record(s) — 13691 total | This run: 9699 / $22.9155 | All-time: $584.2755
+2026-05-11 04:13:35  INFO      [153/704] Processing: 'cinema' @ 32.568118,43.968388
+2026-05-11 04:13:36  INFO      Triggered sd_mp0g80n62nqfkc6gva  ('cinema' @ 32.568118,43.968388)
+2026-05-11 04:13:37  INFO      [sd_mp0g80n62nqfkc6gva] Status: running
+2026-05-11 04:17:08  INFO      [sd_mp0g80n62nqfkc6gva] Status: ready
+2026-05-11 04:17:08  INFO      Skipped 2 duplicate(s)
+2026-05-11 04:17:09  INFO      Retrieved 4 record(s) — 13695 total | This run: 9703 / $22.9245 | All-time: $584.2845
+2026-05-11 04:17:09  INFO      [154/704] Processing: 'bakery' @ 32.568118,43.968388
+2026-05-11 04:17:10  INFO      Triggered sd_mp0gclijlqcfdpcf4  ('bakery' @ 32.568118,43.968388)
+2026-05-11 04:17:10  INFO      [sd_mp0gclijlqcfdpcf4] Status: running
+2026-05-11 04:28:41  INFO      [sd_mp0gclijlqcfdpcf4] Status: ready
+2026-05-11 04:28:42  INFO      Skipped 2 duplicate(s)
+2026-05-11 04:28:43  INFO      Retrieved 157 record(s) — 13852 total | This run: 9860 / $23.1630 | All-time: $584.5230
+2026-05-11 04:28:43  INFO      [155/704] Processing: 'clothes' @ 32.568118,43.968388
+2026-05-11 04:28:44  INFO      Triggered sd_mp0grh322o8lcp0z6f  ('clothes' @ 32.568118,43.968388)
+2026-05-11 04:28:44  INFO      [sd_mp0grh322o8lcp0z6f] Status: running
+2026-05-11 04:38:09  INFO      [sd_mp0grh322o8lcp0z6f] Status: ready
+2026-05-11 04:38:10  INFO      Skipped 2 duplicate(s)
+2026-05-11 04:38:11  INFO      Retrieved 190 record(s) — 14042 total | This run: 10050 / $23.4510 | All-time: $584.8110
+2026-05-11 04:38:11  INFO      [156/704] Processing: 'library' @ 32.568118,43.968388
+2026-05-11 04:38:12  INFO      Triggered sd_mp0h3n5k2ps3fpd1qw  ('library' @ 32.568118,43.968388)
+2026-05-11 04:38:12  INFO      [sd_mp0h3n5k2ps3fpd1qw] Status: running
+2026-05-11 04:51:24  INFO      [sd_mp0h3n5k2ps3fpd1qw] Status: ready
+2026-05-11 04:51:32  INFO      Skipped 11 duplicate(s)
+2026-05-11 04:51:33  INFO      Retrieved 165 record(s) — 14207 total | This run: 10215 / $23.7150 | All-time: $585.0750
+2026-05-11 04:51:33  INFO      [157/704] Processing: 'bar' @ 32.568118,43.968388
+2026-05-11 04:51:34  INFO      Triggered sd_mp0hktz9m8ro3qdmu  ('bar' @ 32.568118,43.968388)
+2026-05-11 04:51:35  INFO      [sd_mp0hktz9m8ro3qdmu] Status: running
+2026-05-11 04:53:41  INFO      [sd_mp0hktz9m8ro3qdmu] Status: ready
+2026-05-11 04:53:42  INFO      Skipped 94 duplicate(s)
+2026-05-11 04:53:43  INFO      Retrieved 9 record(s) — 14216 total | This run: 10224 / $23.8695 | All-time: $585.2295
+2026-05-11 04:53:43  INFO      [158/704] Processing: 'dry cleaning' @ 32.568118,43.968388
+2026-05-11 04:53:44  INFO      Triggered sd_mp0hnmb510cl3qcp1x  ('dry cleaning' @ 32.568118,43.968388)
+2026-05-11 04:53:44  INFO      [sd_mp0hnmb510cl3qcp1x] Status: running
+2026-05-11 04:54:52  INFO      [sd_mp0hnmb510cl3qcp1x] Status: ready
+2026-05-11 04:54:53  INFO      Skipped 3 duplicate(s)
+2026-05-11 04:54:54  INFO      Retrieved 9 record(s) — 14225 total | This run: 10233 / $23.8875 | All-time: $585.2475
+2026-05-11 04:54:54  INFO      [159/704] Processing: 'museum' @ 32.568118,43.968388
+2026-05-11 04:54:55  INFO      Triggered sd_mp0hp54cwqvqomj3y  ('museum' @ 32.568118,43.968388)
+2026-05-11 04:54:55  INFO      [sd_mp0hp54cwqvqomj3y] Status: running
+2026-05-11 04:58:38  INFO      [sd_mp0hp54cwqvqomj3y] Status: ready
+2026-05-11 04:58:40  INFO      Skipped 3 duplicate(s)
+2026-05-11 04:58:40  INFO      Retrieved 48 record(s) — 14273 total | This run: 10281 / $23.9640 | All-time: $585.3240
+2026-05-11 04:58:40  INFO      [160/704] Processing: 'convenience store' @ 32.568118,43.968388
+2026-05-11 04:58:41  INFO      Triggered sd_mp0htzkd27sxfydoho  ('convenience store' @ 32.568118,43.968388)
+2026-05-11 04:58:41  INFO      [sd_mp0htzkd27sxfydoho] Status: running
+2026-05-11 05:01:34  INFO      [sd_mp0htzkd27sxfydoho] Status: ready
+2026-05-11 05:01:36  INFO      Skipped 1 duplicate(s)
+2026-05-11 05:01:37  INFO      Retrieved 191 record(s) — 14464 total | This run: 10472 / $24.2520 | All-time: $585.6120
+2026-05-11 05:01:37  INFO      [161/704] Processing: 'restaurant' @ 32.550218,44.225675
+2026-05-11 05:01:38  INFO      Triggered sd_mp0hxsdtirc9p90vo  ('restaurant' @ 32.550218,44.225675)
+2026-05-11 05:01:39  INFO      [sd_mp0hxsdtirc9p90vo] Status: running
+2026-05-11 05:04:26  INFO      [sd_mp0hxsdtirc9p90vo] Status: ready
+2026-05-11 05:04:28  INFO      Skipped 49 duplicate(s)
+2026-05-11 05:04:28  INFO      Retrieved 163 record(s) — 14627 total | This run: 10635 / $24.5700 | All-time: $585.9300
+2026-05-11 05:04:28  INFO      [162/704] Processing: 'cafe' @ 32.550218,44.225675
+2026-05-11 05:04:30  INFO      Triggered sd_mp0i1h7qq1fkohx8u  ('cafe' @ 32.550218,44.225675)
+2026-05-11 05:04:31  INFO      [sd_mp0i1h7qq1fkohx8u] Status: running
+2026-05-11 05:08:51  INFO      [sd_mp0i1h7qq1fkohx8u] Status: ready
+2026-05-11 05:08:53  INFO      Skipped 148 duplicate(s)
+2026-05-11 05:08:53  INFO      Retrieved 90 record(s) — 14717 total | This run: 10725 / $24.9270 | All-time: $586.2870
+2026-05-11 05:08:53  INFO      [163/704] Processing: 'hotel' @ 32.550218,44.225675
+2026-05-11 05:08:54  INFO      Triggered sd_mp0i74wnuj66nihkn  ('hotel' @ 32.550218,44.225675)
+2026-05-11 05:08:55  INFO      [sd_mp0i74wnuj66nihkn] Status: running
+2026-05-11 05:11:06  INFO      [sd_mp0i74wnuj66nihkn] Status: ready
+2026-05-11 05:11:08  INFO      Skipped 36 duplicate(s)
+2026-05-11 05:11:08  INFO      Retrieved 104 record(s) — 14821 total | This run: 10829 / $25.1370 | All-time: $586.4970
+2026-05-11 05:11:08  INFO      [164/704] Processing: 'mall' @ 32.550218,44.225675
+2026-05-11 05:11:09  INFO      Triggered sd_mp0ia15rx5um0ool  ('mall' @ 32.550218,44.225675)
+2026-05-11 05:11:10  INFO      [sd_mp0ia15rx5um0ool] Status: running
+2026-05-11 05:14:53  INFO      [sd_mp0ia15rx5um0ool] Status: ready
+2026-05-11 05:14:55  INFO      Skipped 67 duplicate(s)
+2026-05-11 05:14:55  INFO      Retrieved 111 record(s) — 14932 total | This run: 10940 / $25.4040 | All-time: $586.7640
+2026-05-11 05:14:55  INFO      [165/704] Processing: 'gym' @ 32.550218,44.225675
+2026-05-11 05:14:56  INFO      Triggered sd_mp0iew9r2e6c3e2m33  ('gym' @ 32.550218,44.225675)
+2026-05-11 05:14:57  INFO      [sd_mp0iew9r2e6c3e2m33] Status: running
+2026-05-11 05:18:42  INFO      [sd_mp0iew9r2e6c3e2m33] Status: ready
+2026-05-11 05:18:44  INFO      Skipped 155 duplicate(s)
+2026-05-11 05:18:44  INFO      Retrieved 1 record(s) — 14933 total | This run: 10941 / $25.6380 | All-time: $586.9980
+2026-05-11 05:18:44  INFO      [166/704] Processing: 'hospital' @ 32.550218,44.225675
+2026-05-11 05:18:49  INFO      Triggered sd_mp0ijvn0t0apf86oy  ('hospital' @ 32.550218,44.225675)
+2026-05-11 05:18:49  INFO      [sd_mp0ijvn0t0apf86oy] Status: running
+2026-05-11 05:20:32  INFO      [sd_mp0ijvn0t0apf86oy] Status: ready
+2026-05-11 05:20:33  INFO      Skipped 12 duplicate(s)
+2026-05-11 05:20:33  INFO      Retrieved 1 record(s) — 14934 total | This run: 10942 / $25.6575 | All-time: $587.0175
+2026-05-11 05:20:33  INFO      [167/704] Processing: 'mosque' @ 32.550218,44.225675
+2026-05-11 05:20:34  INFO      Triggered sd_mp0im4wb12chcd8a08  ('mosque' @ 32.550218,44.225675)
+2026-05-11 05:20:35  INFO      [sd_mp0im4wb12chcd8a08] Status: running
+2026-05-11 05:26:58  INFO      [sd_mp0im4wb12chcd8a08] Status: ready
+2026-05-11 05:26:59  INFO      Skipped 54 duplicate(s)
+2026-05-11 05:27:00  INFO      Retrieved 127 record(s) — 15061 total | This run: 11069 / $25.9290 | All-time: $587.2890
+2026-05-11 05:27:00  INFO      [168/704] Processing: 'spa' @ 32.550218,44.225675
+2026-05-11 05:27:01  INFO      Triggered sd_mp0iufjj2o5ps3pmwj  ('spa' @ 32.550218,44.225675)
+2026-05-11 05:27:02  INFO      [sd_mp0iufjj2o5ps3pmwj] Status: running
+2026-05-11 05:30:37  INFO      [sd_mp0iufjj2o5ps3pmwj] Status: ready
+2026-05-11 05:30:38  INFO      Skipped 35 duplicate(s)
+2026-05-11 05:30:38  INFO      Retrieved 0 record(s) — 15061 total | This run: 11069 / $25.9815 | All-time: $587.3415
+2026-05-11 05:30:38  INFO      [169/704] Processing: 'cinema' @ 32.550218,44.225675
+2026-05-11 05:30:39  INFO      Triggered sd_mp0iz3ny1kzst2pkkx  ('cinema' @ 32.550218,44.225675)
+2026-05-11 05:30:40  INFO      [sd_mp0iz3ny1kzst2pkkx] Status: running
+2026-05-11 05:34:15  INFO      [sd_mp0iz3ny1kzst2pkkx] Status: ready
+2026-05-11 05:34:17  INFO      Skipped 14 duplicate(s)
+2026-05-11 05:34:17  INFO      Retrieved 15 record(s) — 15076 total | This run: 11084 / $26.0250 | All-time: $587.3850
+2026-05-11 05:34:17  INFO      [170/704] Processing: 'bakery' @ 32.550218,44.225675
+2026-05-11 05:34:23  INFO      Triggered sd_mp0j3wm8gj0tp2nav  ('bakery' @ 32.550218,44.225675)
+2026-05-11 05:34:24  INFO      [sd_mp0j3wm8gj0tp2nav] Status: running
+2026-05-11 05:37:48  INFO      [sd_mp0j3wm8gj0tp2nav] Status: ready
+2026-05-11 05:37:50  INFO      Skipped 66 duplicate(s)
+2026-05-11 05:37:50  INFO      Retrieved 95 record(s) — 15171 total | This run: 11179 / $26.2665 | All-time: $587.6265
+2026-05-11 05:37:50  INFO      [171/704] Processing: 'clothes' @ 32.550218,44.225675
+2026-05-11 05:37:51  INFO      Triggered sd_mp0j8d202pe5gvqaut  ('clothes' @ 32.550218,44.225675)
+2026-05-11 05:37:52  INFO      [sd_mp0j8d202pe5gvqaut] Status: running
+2026-05-11 05:41:48  INFO      [sd_mp0j8d202pe5gvqaut] Status: ready
+2026-05-11 05:41:53  INFO      Skipped 39 duplicate(s)
+2026-05-11 05:41:53  INFO      Retrieved 126 record(s) — 15297 total | This run: 11305 / $26.5140 | All-time: $587.8740
+2026-05-11 05:41:53  INFO      [172/704] Processing: 'library' @ 32.550218,44.225675
+2026-05-11 05:41:55  INFO      Triggered sd_mp0jdl711vbrfms1qz  ('library' @ 32.550218,44.225675)
+2026-05-11 05:41:56  INFO      [sd_mp0jdl711vbrfms1qz] Status: running
+2026-05-11 05:44:46  INFO      [sd_mp0jdl711vbrfms1qz] Status: ready
+2026-05-11 05:44:48  INFO      Skipped 188 duplicate(s)
+2026-05-11 05:44:48  INFO      Retrieved 3 record(s) — 15300 total | This run: 11308 / $26.8005 | All-time: $588.1605
+2026-05-11 05:44:48  INFO      [173/704] Processing: 'bar' @ 32.550218,44.225675
+2026-05-11 05:44:49  INFO      Triggered sd_mp0jhbrzvlsg5tti  ('bar' @ 32.550218,44.225675)
+2026-05-11 05:44:50  INFO      [sd_mp0jhbrzvlsg5tti] Status: running
+2026-05-11 05:47:43  INFO      [sd_mp0jhbrzvlsg5tti] Status: ready
+2026-05-11 05:47:45  INFO      Skipped 128 duplicate(s)
+2026-05-11 05:47:45  INFO      Retrieved 0 record(s) — 15300 total | This run: 11308 / $26.9925 | All-time: $588.3525
+2026-05-11 05:47:45  INFO      [174/704] Processing: 'dry cleaning' @ 32.550218,44.225675
+2026-05-11 05:47:46  INFO      Triggered sd_mp0jl48em60j3kbwu  ('dry cleaning' @ 32.550218,44.225675)
+2026-05-11 05:47:47  INFO      [sd_mp0jl48em60j3kbwu] Status: running
+2026-05-11 05:49:26  INFO      [sd_mp0jl48em60j3kbwu] Status: ready
+2026-05-11 05:49:27  INFO      Skipped 10 duplicate(s)
+2026-05-11 05:49:28  INFO      Retrieved 0 record(s) — 15300 total | This run: 11308 / $27.0075 | All-time: $588.3675
+2026-05-11 05:49:28  INFO      [175/704] Processing: 'museum' @ 32.550218,44.225675
+2026-05-11 05:49:29  INFO      Triggered sd_mp0jnbgw1uwprbhbdf  ('museum' @ 32.550218,44.225675)
+2026-05-11 05:49:29  INFO      [sd_mp0jnbgw1uwprbhbdf] Status: running
+2026-05-11 05:52:45  INFO      [sd_mp0jnbgw1uwprbhbdf] Status: ready
+2026-05-11 05:52:46  INFO      Skipped 64 duplicate(s)
+2026-05-11 05:52:46  INFO      Retrieved 0 record(s) — 15300 total | This run: 11308 / $27.1035 | All-time: $588.4635
+2026-05-11 05:52:46  INFO      [176/704] Processing: 'convenience store' @ 32.550218,44.225675
+2026-05-11 05:52:48  INFO      Triggered sd_mp0jrlg32friy9qr1e  ('convenience store' @ 32.550218,44.225675)
+2026-05-11 05:52:49  INFO      [sd_mp0jrlg32friy9qr1e] Status: running
+2026-05-11 05:59:00  INFO      [sd_mp0jrlg32friy9qr1e] Status: ready
+2026-05-11 05:59:01  INFO      Skipped 91 duplicate(s)
+2026-05-11 05:59:02  INFO      Retrieved 97 record(s) — 15397 total | This run: 11405 / $27.3855 | All-time: $588.7455
+2026-05-11 05:59:02  INFO      [177/704] Processing: 'restaurant' @ 32.486118,45.798166
+2026-05-11 05:59:03  INFO      Triggered sd_mp0jzmf41xvlgvxmvh  ('restaurant' @ 32.486118,45.798166)
+2026-05-11 05:59:04  INFO      [sd_mp0jzmf41xvlgvxmvh] Status: running
+2026-05-11 06:01:32  INFO      [sd_mp0jzmf41xvlgvxmvh] Status: ready
+2026-05-11 06:01:40  INFO      Retrieved 141 record(s) — 15538 total | This run: 11546 / $27.5970 | All-time: $588.9570
+2026-05-11 06:01:40  INFO      [178/704] Processing: 'cafe' @ 32.486118,45.798166
+2026-05-11 06:01:46  INFO      Triggered sd_mp0k34j31xlg3vq2nl  ('cafe' @ 32.486118,45.798166)
+2026-05-11 06:01:47  INFO      [sd_mp0k34j31xlg3vq2nl] Status: running
+2026-05-11 06:06:18  INFO      [sd_mp0k34j31xlg3vq2nl] Status: ready
+2026-05-11 06:06:21  INFO      Skipped 53 duplicate(s)
+2026-05-11 06:06:22  INFO      Retrieved 143 record(s) — 15681 total | This run: 11689 / $27.8910 | All-time: $589.2510
+2026-05-11 06:06:22  INFO      [179/704] Processing: 'hotel' @ 32.486118,45.798166
+2026-05-11 06:06:22  INFO      Triggered sd_mp0k91lf105ytdo19w  ('hotel' @ 32.486118,45.798166)
+2026-05-11 06:06:24  INFO      [sd_mp0k91lf105ytdo19w] Status: running
+2026-05-11 06:08:13  INFO      [sd_mp0k91lf105ytdo19w] Status: ready
+2026-05-11 06:08:17  INFO      Retrieved 17 record(s) — 15698 total | This run: 11706 / $27.9165 | All-time: $589.2765
+2026-05-11 06:08:17  INFO      [180/704] Processing: 'mall' @ 32.486118,45.798166
+2026-05-11 06:08:23  INFO      Triggered sd_mp0kbma926kuoule6q  ('mall' @ 32.486118,45.798166)
+2026-05-11 06:08:23  INFO      [sd_mp0kbma926kuoule6q] Status: running
+2026-05-11 06:12:13  INFO      [sd_mp0kbma926kuoule6q] Status: ready
+2026-05-11 06:12:17  INFO      Skipped 30 duplicate(s)
+2026-05-11 06:12:18  INFO      Retrieved 160 record(s) — 15858 total | This run: 11866 / $28.2015 | All-time: $589.5615
+2026-05-11 06:12:18  INFO      [181/704] Processing: 'gym' @ 32.486118,45.798166
+2026-05-11 06:12:22  INFO      Triggered sd_mp0kgr9n19cn61gdhi  ('gym' @ 32.486118,45.798166)
+2026-05-11 06:12:25  INFO      [sd_mp0kgr9n19cn61gdhi] Status: running
+2026-05-11 06:14:49  INFO      [sd_mp0kgr9n19cn61gdhi] Status: ready
+2026-05-11 06:14:51  INFO      Retrieved 45 record(s) — 15903 total | This run: 11911 / $28.2690 | All-time: $589.6290
+2026-05-11 06:14:51  INFO      [182/704] Processing: 'hospital' @ 32.486118,45.798166
+2026-05-11 06:14:52  INFO      Triggered sd_mp0kjymh2nz1gjg8bn  ('hospital' @ 32.486118,45.798166)
+2026-05-11 06:14:53  INFO      [sd_mp0kjymh2nz1gjg8bn] Status: running
+2026-05-11 06:17:54  INFO      [sd_mp0kjymh2nz1gjg8bn] Status: ready
+2026-05-11 06:17:56  INFO      Retrieved 9 record(s) — 15912 total | This run: 11920 / $28.2825 | All-time: $589.6425
+2026-05-11 06:17:56  INFO      [183/704] Processing: 'mosque' @ 32.486118,45.798166
+2026-05-11 06:18:02  INFO      Triggered sd_mp0ko15k2oer8k3l8d  ('mosque' @ 32.486118,45.798166)
+2026-05-11 06:18:03  INFO      [sd_mp0ko15k2oer8k3l8d] Status: running
+2026-05-11 06:20:28  INFO      [sd_mp0ko15k2oer8k3l8d] Status: ready
+2026-05-11 06:20:32  INFO      Skipped 14 duplicate(s)
+2026-05-11 06:20:32  INFO      Retrieved 185 record(s) — 16097 total | This run: 12105 / $28.5810 | All-time: $589.9410
+2026-05-11 06:20:32  INFO      [184/704] Processing: 'spa' @ 32.486118,45.798166
+2026-05-11 06:20:38  INFO      Triggered sd_mp0krdbzfoevjkmq8  ('spa' @ 32.486118,45.798166)
+2026-05-11 06:20:39  INFO      [sd_mp0krdbzfoevjkmq8] Status: running
+2026-05-11 06:22:44  INFO      [sd_mp0krdbzfoevjkmq8] Status: ready
+2026-05-11 06:22:46  INFO      Retrieved 4 record(s) — 16101 total | This run: 12109 / $28.5870 | All-time: $589.9470
+2026-05-11 06:22:46  INFO      [185/704] Processing: 'cinema' @ 32.486118,45.798166
+2026-05-11 06:22:49  INFO      Triggered sd_mp0ku6p0237vgdtsw2  ('cinema' @ 32.486118,45.798166)
+2026-05-11 06:22:50  INFO      [sd_mp0ku6p0237vgdtsw2] Status: running
+2026-05-11 06:24:45  INFO      [sd_mp0ku6p0237vgdtsw2] Status: ready
+2026-05-11 06:24:48  INFO      Skipped 22 duplicate(s)
+2026-05-11 06:24:48  INFO      Retrieved 144 record(s) — 16245 total | This run: 12253 / $28.8360 | All-time: $590.1960
+2026-05-11 06:24:48  INFO      [186/704] Processing: 'bakery' @ 32.486118,45.798166
+2026-05-11 06:24:53  INFO      Triggered sd_mp0kwu7y86q6m7iqq  ('bakery' @ 32.486118,45.798166)
+2026-05-11 06:24:55  INFO      [sd_mp0kwu7y86q6m7iqq] Status: running
+2026-05-11 06:28:36  INFO      [sd_mp0kwu7y86q6m7iqq] Status: ready
+2026-05-11 06:28:43  INFO      Skipped 21 duplicate(s)
+2026-05-11 06:28:44  INFO      Retrieved 161 record(s) — 16406 total | This run: 12414 / $29.1090 | All-time: $590.4690
+2026-05-11 06:28:44  INFO      [187/704] Processing: 'clothes' @ 32.486118,45.798166
+2026-05-11 06:28:51  INFO      Triggered sd_mp0l1xvj2kfy13f2ws  ('clothes' @ 32.486118,45.798166)
+2026-05-11 06:28:53  INFO      [sd_mp0l1xvj2kfy13f2ws] Status: running
+2026-05-11 06:32:06  INFO      [sd_mp0l1xvj2kfy13f2ws] Status: ready
+2026-05-11 06:32:09  INFO      Skipped 2 duplicate(s)
+2026-05-11 06:32:09  INFO      Retrieved 168 record(s) — 16574 total | This run: 12582 / $29.3640 | All-time: $590.7240
+2026-05-11 06:32:09  INFO      [188/704] Processing: 'library' @ 32.486118,45.798166
+2026-05-11 06:32:13  INFO      Triggered sd_mp0l69jte9aa1zpuc  ('library' @ 32.486118,45.798166)
+2026-05-11 06:32:14  INFO      [sd_mp0l69jte9aa1zpuc] Status: running
+2026-05-11 06:34:46  INFO      [sd_mp0l69jte9aa1zpuc] Status: ready
+2026-05-11 06:34:48  INFO      Skipped 89 duplicate(s)
+2026-05-11 06:34:48  INFO      Retrieved 109 record(s) — 16683 total | This run: 12691 / $29.6610 | All-time: $591.0210
+2026-05-11 06:34:48  INFO      [189/704] Processing: 'bar' @ 32.486118,45.798166
+2026-05-11 06:34:51  INFO      Triggered sd_mp0l9nqg2mphye552v  ('bar' @ 32.486118,45.798166)
+2026-05-11 06:34:52  INFO      [sd_mp0l9nqg2mphye552v] Status: running
+2026-05-11 06:37:47  INFO      [sd_mp0l9nqg2mphye552v] Status: ready
+2026-05-11 06:37:49  INFO      Retrieved 28 record(s) — 16711 total | This run: 12719 / $29.7030 | All-time: $591.0630
+2026-05-11 06:37:49  INFO      [190/704] Processing: 'dry cleaning' @ 32.486118,45.798166
+2026-05-11 06:37:51  INFO      Triggered sd_mp0ldj30lsjn38bz4  ('dry cleaning' @ 32.486118,45.798166)
+2026-05-11 06:37:56  INFO      [sd_mp0ldj30lsjn38bz4] Status: running
+2026-05-11 06:38:14  INFO      [sd_mp0ldj30lsjn38bz4] Status: ready
+2026-05-11 06:38:16  INFO      Retrieved 0 record(s) — 16711 total | This run: 12719 / $29.7030 | All-time: $591.0630
+2026-05-11 06:38:16  INFO      [191/704] Processing: 'museum' @ 32.486118,45.798166
+2026-05-11 06:38:17  INFO      Triggered sd_mp0le2i1ymxrij49h  ('museum' @ 32.486118,45.798166)
+2026-05-11 06:38:17  INFO      [sd_mp0le2i1ymxrij49h] Status: running
+2026-05-11 06:40:41  INFO      [sd_mp0le2i1ymxrij49h] Status: ready
+2026-05-11 06:40:44  INFO      Retrieved 14 record(s) — 16725 total | This run: 12733 / $29.7240 | All-time: $591.0840
+2026-05-11 06:40:44  INFO      [192/704] Processing: 'convenience store' @ 32.486118,45.798166
+2026-05-11 06:40:50  INFO      Triggered sd_mp0lhcrvsr7enbaat  ('convenience store' @ 32.486118,45.798166)
+2026-05-11 06:40:51  INFO      [sd_mp0lhcrvsr7enbaat] Status: running
+2026-05-11 06:43:09  INFO      [sd_mp0lhcrvsr7enbaat] Status: ready
+2026-05-11 06:43:12  INFO      Skipped 54 duplicate(s)
+2026-05-11 06:43:12  INFO      Retrieved 133 record(s) — 16858 total | This run: 12866 / $30.0045 | All-time: $591.3645
+2026-05-11 06:43:12  INFO      [193/704] Processing: 'restaurant' @ 31.826818,47.129711
+2026-05-11 06:43:14  INFO      Triggered sd_mp0lkg1g2fjrl32fkp  ('restaurant' @ 31.826818,47.129711)
+2026-05-11 06:43:15  INFO      [sd_mp0lkg1g2fjrl32fkp] Status: running
+2026-05-11 06:47:10  INFO      [sd_mp0lkg1g2fjrl32fkp] Status: ready
+2026-05-11 06:47:13  INFO      Retrieved 171 record(s) — 17029 total | This run: 13037 / $30.2610 | All-time: $591.6210
+2026-05-11 06:47:13  INFO      [194/704] Processing: 'cafe' @ 31.826818,47.129711
+2026-05-11 06:47:14  INFO      Triggered sd_mp0lplgs2ooauz57f0  ('cafe' @ 31.826818,47.129711)
+2026-05-11 06:47:15  INFO      [sd_mp0lplgs2ooauz57f0] Status: running
+2026-05-11 06:49:52  INFO      [sd_mp0lplgs2ooauz57f0] Status: ready
+2026-05-11 06:49:54  INFO      Skipped 3 duplicate(s)
+2026-05-11 06:49:54  INFO      Retrieved 165 record(s) — 17194 total | This run: 13202 / $30.5130 | All-time: $591.8730
+2026-05-11 06:49:54  INFO      [195/704] Processing: 'hotel' @ 31.826818,47.129711
+2026-05-11 06:49:55  INFO      Triggered sd_mp0lt1qaskynhlwsc  ('hotel' @ 31.826818,47.129711)
+2026-05-11 06:49:56  INFO      [sd_mp0lt1qaskynhlwsc] Status: running
+2026-05-11 06:51:55  INFO      [sd_mp0lt1qaskynhlwsc] Status: ready
+2026-05-11 06:51:57  INFO      Retrieved 26 record(s) — 17220 total | This run: 13228 / $30.5520 | All-time: $591.9120
+2026-05-11 06:51:57  INFO      [196/704] Processing: 'mall' @ 31.826818,47.129711
+2026-05-11 06:51:58  INFO      Triggered sd_mp0lvo9m12anhyu2py  ('mall' @ 31.826818,47.129711)
+2026-05-11 06:52:00  INFO      [sd_mp0lvo9m12anhyu2py] Status: running
+2026-05-11 06:56:29  INFO      [sd_mp0lvo9m12anhyu2py] Status: ready
+2026-05-11 06:56:31  INFO      Retrieved 161 record(s) — 17381 total | This run: 13389 / $30.7935 | All-time: $592.1535
+2026-05-11 06:56:31  INFO      [197/704] Processing: 'gym' @ 31.826818,47.129711
+2026-05-11 06:56:33  INFO      Triggered sd_mp0m1k8o7gqrgo4yq  ('gym' @ 31.826818,47.129711)
+2026-05-11 06:56:34  INFO      [sd_mp0m1k8o7gqrgo4yq] Status: running
+2026-05-11 06:58:45  INFO      [sd_mp0m1k8o7gqrgo4yq] Status: ready
+2026-05-11 06:58:46  INFO      Skipped 1 duplicate(s)
+2026-05-11 06:58:47  INFO      Retrieved 57 record(s) — 17438 total | This run: 13446 / $30.8805 | All-time: $592.2405
+2026-05-11 06:58:47  INFO      [198/704] Processing: 'hospital' @ 31.826818,47.129711
+2026-05-11 06:58:48  INFO      Triggered sd_mp0m4ggl1r0j7gsix  ('hospital' @ 31.826818,47.129711)
+2026-05-11 06:58:48  INFO      [sd_mp0m4ggl1r0j7gsix] Status: running
+2026-05-11 07:00:16  INFO      [sd_mp0m4ggl1r0j7gsix] Status: ready
+2026-05-11 07:00:18  INFO      Retrieved 12 record(s) — 17450 total | This run: 13458 / $30.8985 | All-time: $592.2585
+2026-05-11 07:00:18  INFO      [199/704] Processing: 'mosque' @ 31.826818,47.129711
+2026-05-11 07:00:20  INFO      Triggered sd_mp0m6fym1iifde92nr  ('mosque' @ 31.826818,47.129711)
+2026-05-11 07:00:21  INFO      [sd_mp0m6fym1iifde92nr] Status: running
+2026-05-11 07:02:16  INFO      [sd_mp0m6fym1iifde92nr] Status: ready
+2026-05-11 07:02:23  INFO      Retrieved 176 record(s) — 17626 total | This run: 13634 / $31.1625 | All-time: $592.5225
+2026-05-11 07:02:23  INFO      [200/704] Processing: 'spa' @ 31.826818,47.129711
+2026-05-11 07:02:36  INFO      Triggered sd_mp0m9cmwm2c1dtgxo  ('spa' @ 31.826818,47.129711)
+2026-05-11 07:02:38  INFO      [sd_mp0m9cmwm2c1dtgxo] Status: running
+2026-05-11 07:04:57  INFO      [sd_mp0m9cmwm2c1dtgxo] Status: ready
+2026-05-11 07:05:07  INFO      Skipped 121 duplicate(s)
+2026-05-11 07:05:08  INFO      Retrieved 15 record(s) — 17641 total | This run: 13649 / $31.3665 | All-time: $592.7265
+2026-05-11 07:05:08  INFO      [201/704] Processing: 'cinema' @ 31.826818,47.129711
+2026-05-11 07:05:13  INFO      Triggered sd_mp0mcpuy291wduuni9  ('cinema' @ 31.826818,47.129711)
+2026-05-11 07:05:15  INFO      [sd_mp0mcpuy291wduuni9] Status: running
+2026-05-11 07:09:16  INFO      [sd_mp0mcpuy291wduuni9] Status: ready
+2026-05-11 07:09:22  INFO      Skipped 159 duplicate(s)
+2026-05-11 07:09:23  INFO      Retrieved 6 record(s) — 17647 total | This run: 13655 / $31.6140 | All-time: $592.9740
+2026-05-11 07:09:23  INFO      [202/704] Processing: 'bakery' @ 31.826818,47.129711
+2026-05-11 07:09:29  INFO      Triggered sd_mp0mi77l20sswlsyb1  ('bakery' @ 31.826818,47.129711)
+2026-05-11 07:09:31  INFO      [sd_mp0mi77l20sswlsyb1] Status: running
+2026-05-11 07:12:12  INFO      [sd_mp0mi77l20sswlsyb1] Status: ready
+2026-05-11 07:12:32  INFO      Skipped 1 duplicate(s)
+2026-05-11 07:12:33  INFO      Retrieved 139 record(s) — 17786 total | This run: 13794 / $31.8240 | All-time: $593.1840
+2026-05-11 07:12:33  INFO      [203/704] Processing: 'clothes' @ 31.826818,47.129711
+2026-05-11 07:12:43  INFO      Triggered sd_mp0mmd6n1njonliyf4  ('clothes' @ 31.826818,47.129711)
+2026-05-11 07:12:46  INFO      [sd_mp0mmd6n1njonliyf4] Status: running
+2026-05-11 07:15:06  INFO      [sd_mp0mmd6n1njonliyf4] Status: ready
+2026-05-11 07:15:16  INFO      Skipped 3 duplicate(s)
+2026-05-11 07:15:16  INFO      Retrieved 206 record(s) — 17992 total | This run: 14000 / $32.1375 | All-time: $593.4975
+2026-05-11 07:15:16  INFO      [204/704] Processing: 'library' @ 31.826818,47.129711
+2026-05-11 07:15:25  INFO      Triggered sd_mp0mptp3fgk8nx802  ('library' @ 31.826818,47.129711)
+2026-05-11 07:15:27  INFO      [sd_mp0mptp3fgk8nx802] Status: running
+2026-05-11 07:18:14  INFO      [sd_mp0mptp3fgk8nx802] Status: ready
+2026-05-11 07:18:21  INFO      Retrieved 100 record(s) — 18092 total | This run: 14100 / $32.2875 | All-time: $593.6475
+2026-05-11 07:18:21  INFO      [205/704] Processing: 'bar' @ 31.826818,47.129711
+2026-05-11 07:18:30  INFO      Triggered sd_mp0mtsje1z2fk44msm  ('bar' @ 31.826818,47.129711)
+2026-05-11 07:18:38  INFO      [sd_mp0mtsje1z2fk44msm] Status: running
+2026-05-11 07:20:35  INFO      [sd_mp0mtsje1z2fk44msm] Status: ready
+2026-05-11 07:20:40  INFO      Retrieved 34 record(s) — 18126 total | This run: 14134 / $32.3385 | All-time: $593.6985
+2026-05-11 07:20:40  INFO      [206/704] Processing: 'dry cleaning' @ 31.826818,47.129711
+2026-05-11 07:20:52  INFO      Triggered sd_mp0mwtos17z9aw5q6  ('dry cleaning' @ 31.826818,47.129711)
+2026-05-11 07:21:00  INFO      [sd_mp0mwtos17z9aw5q6] Status: running
+2026-05-11 07:22:43  INFO      [sd_mp0mwtos17z9aw5q6] Status: ready
+2026-05-11 07:22:50  INFO      Retrieved 5 record(s) — 18131 total | This run: 14139 / $32.3460 | All-time: $593.7060
+2026-05-11 07:22:50  INFO      [207/704] Processing: 'museum' @ 31.826818,47.129711
+2026-05-11 07:23:01  INFO      Triggered sd_mp0mzlgrtzholqd3w  ('museum' @ 31.826818,47.129711)
+2026-05-11 07:23:11  INFO      [sd_mp0mzlgrtzholqd3w] Status: running
+2026-05-11 07:27:09  INFO      [sd_mp0mzlgrtzholqd3w] Status: ready
+2026-05-11 07:27:20  INFO      Skipped 122 duplicate(s)
+2026-05-11 07:27:21  INFO      Retrieved 52 record(s) — 18183 total | This run: 14191 / $32.6070 | All-time: $593.9670
+2026-05-11 07:27:21  INFO      [208/704] Processing: 'convenience store' @ 31.826818,47.129711
+2026-05-11 07:27:37  INFO      Triggered sd_mp0n5ihf2jksc21811  ('convenience store' @ 31.826818,47.129711)
+2026-05-11 07:27:42  INFO      [sd_mp0n5ihf2jksc21811] Status: running
+2026-05-11 07:31:17  INFO      [sd_mp0n5ihf2jksc21811] Status: ready
+2026-05-11 07:31:24  INFO      Skipped 3 duplicate(s)
+2026-05-11 07:31:25  INFO      Retrieved 187 record(s) — 18370 total | This run: 14378 / $32.8920 | All-time: $594.2520
+2026-05-11 07:31:25  INFO      [209/704] Processing: 'restaurant' @ 33.189518,44.200862
+2026-05-11 07:31:39  INFO      Triggered sd_mp0napha2m56m7d1z0  ('restaurant' @ 33.189518,44.200862)
+2026-05-11 07:31:44  INFO      [sd_mp0napha2m56m7d1z0] Status: running
+2026-05-11 07:35:22  INFO      [sd_mp0napha2m56m7d1z0] Status: ready
+2026-05-11 07:35:31  INFO      Skipped 12 duplicate(s)
+2026-05-11 07:35:32  INFO      Retrieved 171 record(s) — 18541 total | This run: 14549 / $33.1665 | All-time: $594.5265
+2026-05-11 07:35:32  INFO      [210/704] Processing: 'cafe' @ 33.189518,44.200862
+2026-05-11 07:35:45  INFO      Triggered sd_mp0nfz6o1t27pdqsp5  ('cafe' @ 33.189518,44.200862)
+2026-05-11 07:35:48  INFO      [sd_mp0nfz6o1t27pdqsp5] Status: running
+2026-05-11 07:41:03  INFO      [sd_mp0nfz6o1t27pdqsp5] Status: ready
+2026-05-11 07:41:12  INFO      Skipped 29 duplicate(s)
+2026-05-11 07:41:13  INFO      Retrieved 173 record(s) — 18714 total | This run: 14722 / $33.4695 | All-time: $594.8295
+2026-05-11 07:41:13  INFO      [211/704] Processing: 'hotel' @ 33.189518,44.200862
+2026-05-11 07:41:22  INFO      Triggered sd_mp0nn7etd9go3c6lx  ('hotel' @ 33.189518,44.200862)
+2026-05-11 07:41:26  INFO      [sd_mp0nn7etd9go3c6lx] Status: running
+2026-05-11 07:48:38  INFO      [sd_mp0nn7etd9go3c6lx] Status: ready
+2026-05-11 07:48:49  INFO      Retrieved 19 record(s) — 18733 total | This run: 14741 / $33.4980 | All-time: $594.8580
+2026-05-11 07:48:49  INFO      [212/704] Processing: 'mall' @ 33.189518,44.200862
+2026-05-11 07:48:52  INFO      Triggered sd_mp0nwupe29wpozfma5  ('mall' @ 33.189518,44.200862)
+2026-05-11 07:48:53  INFO      [sd_mp0nwupe29wpozfma5] Status: running
+2026-05-11 07:52:37  INFO      [sd_mp0nwupe29wpozfma5] Status: ready
+2026-05-11 07:52:44  INFO      Skipped 34 duplicate(s)
+2026-05-11 07:52:45  INFO      Retrieved 165 record(s) — 18898 total | This run: 14906 / $33.7965 | All-time: $595.1565
+2026-05-11 07:52:45  INFO      [213/704] Processing: 'gym' @ 33.189518,44.200862
+2026-05-11 07:52:54  INFO      Triggered sd_mp0o21jlpksv0qyay  ('gym' @ 33.189518,44.200862)
+2026-05-11 07:53:00  INFO      [sd_mp0o21jlpksv0qyay] Status: running
+2026-05-11 07:55:38  INFO      [sd_mp0o21jlpksv0qyay] Status: ready
+2026-05-11 07:55:44  INFO      Skipped 1 duplicate(s)
+2026-05-11 07:55:45  INFO      Retrieved 183 record(s) — 19081 total | This run: 15089 / $34.0725 | All-time: $595.4325
+2026-05-11 07:55:45  INFO      [214/704] Processing: 'hospital' @ 33.189518,44.200862
+2026-05-11 07:55:52  INFO      Triggered sd_mp0o5uw217rt33jc17  ('hospital' @ 33.189518,44.200862)
+2026-05-11 07:55:56  INFO      [sd_mp0o5uw217rt33jc17] Status: running
+2026-05-11 07:59:18  INFO      [sd_mp0o5uw217rt33jc17] Status: ready
+2026-05-11 07:59:20  INFO      Skipped 10 duplicate(s)
+2026-05-11 07:59:21  INFO      Retrieved 19 record(s) — 19100 total | This run: 15108 / $34.1160 | All-time: $595.4760
+2026-05-11 07:59:21  INFO      [215/704] Processing: 'mosque' @ 33.189518,44.200862
+2026-05-11 07:59:29  INFO      Triggered sd_mp0oahzk24gty2qyku  ('mosque' @ 33.189518,44.200862)
+2026-05-11 07:59:33  INFO      [sd_mp0oahzk24gty2qyku] Status: running
+2026-05-11 08:01:07  ERROR     Error at input 215/704 ('mosque' @ 33.189518,44.200862): Expecting value: line 1 column 1 (char 0)
+2026-05-11 08:01:07  INFO      [216/704] Processing: 'spa' @ 33.189518,44.200862
+2026-05-11 08:01:10  INFO      Triggered sd_mp0ocnu92jbgftrj9z  ('spa' @ 33.189518,44.200862)
+2026-05-11 08:01:11  INFO      [sd_mp0ocnu92jbgftrj9z] Status: running
+2026-05-11 08:04:25  INFO      [sd_mp0ocnu92jbgftrj9z] Status: ready
+2026-05-11 08:04:33  INFO      Skipped 7 duplicate(s)
+2026-05-11 08:04:34  INFO      Retrieved 163 record(s) — 19263 total | This run: 15271 / $34.3710 | All-time: $595.7310
+2026-05-11 08:04:34  INFO      [217/704] Processing: 'cinema' @ 33.189518,44.200862
+2026-05-11 08:04:44  INFO      Triggered sd_mp0oh97w2gocrijgmy  ('cinema' @ 33.189518,44.200862)
+2026-05-11 08:04:46  INFO      [sd_mp0oh97w2gocrijgmy] Status: running
+2026-05-11 08:08:14  INFO      [sd_mp0oh97w2gocrijgmy] Status: ready
+2026-05-11 08:08:24  INFO      Skipped 17 duplicate(s)
+2026-05-11 08:08:24  INFO      Retrieved 33 record(s) — 19296 total | This run: 15304 / $34.4460 | All-time: $595.8060
+2026-05-11 08:08:24  INFO      [218/704] Processing: 'bakery' @ 33.189518,44.200862
+2026-05-11 08:08:41  INFO      Triggered sd_mp0ombyp1wckni5feh  ('bakery' @ 33.189518,44.200862)
+2026-05-11 08:08:44  INFO      [sd_mp0ombyp1wckni5feh] Status: running
+2026-05-11 08:12:07  INFO      [sd_mp0ombyp1wckni5feh] Status: ready
+2026-05-11 08:12:11  INFO      Skipped 25 duplicate(s)
+2026-05-11 08:12:12  INFO      Retrieved 204 record(s) — 19500 total | This run: 15508 / $34.7895 | All-time: $596.1495
+2026-05-11 08:12:12  INFO      [219/704] Processing: 'clothes' @ 33.189518,44.200862
+2026-05-11 08:12:24  INFO      Triggered sd_mp0or3yh252qf3nsen  ('clothes' @ 33.189518,44.200862)
+2026-05-11 08:12:27  INFO      [sd_mp0or3yh252qf3nsen] Status: running
+2026-05-11 08:16:33  INFO      [sd_mp0or3yh252qf3nsen] Status: ready
+2026-05-11 08:16:38  INFO      Skipped 2 duplicate(s)
+2026-05-11 08:16:38  INFO      Retrieved 191 record(s) — 19691 total | This run: 15699 / $35.0790 | All-time: $596.4390
+2026-05-11 08:16:38  INFO      [220/704] Processing: 'library' @ 33.189518,44.200862
+2026-05-11 08:16:46  INFO      Triggered sd_mp0owpsxfeetfd7ts  ('library' @ 33.189518,44.200862)
+2026-05-11 08:16:47  INFO      [sd_mp0owpsxfeetfd7ts] Status: running
+2026-05-11 08:19:56  INFO      [sd_mp0owpsxfeetfd7ts] Status: ready
+2026-05-11 08:20:00  INFO      Skipped 3 duplicate(s)
+2026-05-11 08:20:00  INFO      Retrieved 207 record(s) — 19898 total | This run: 15906 / $35.3940 | All-time: $596.7540
+2026-05-11 08:20:00  INFO      [221/704] Processing: 'bar' @ 33.189518,44.200862
+2026-05-11 08:20:10  INFO      Triggered sd_mp0p13gj1jgqsi7ftg  ('bar' @ 33.189518,44.200862)
+2026-05-11 08:20:22  INFO      [sd_mp0p13gj1jgqsi7ftg] Status: running
+2026-05-11 08:23:25  INFO      [sd_mp0p13gj1jgqsi7ftg] Status: ready
+2026-05-11 08:23:31  INFO      Skipped 4 duplicate(s)
+2026-05-11 08:23:31  INFO      Retrieved 167 record(s) — 20065 total | This run: 16073 / $35.6505 | All-time: $597.0105
+2026-05-11 08:23:31  INFO      [222/704] Processing: 'dry cleaning' @ 33.189518,44.200862
+2026-05-11 08:23:41  INFO      Triggered sd_mp0p5mr02exkgcxpnd  ('dry cleaning' @ 33.189518,44.200862)
+2026-05-11 08:23:43  INFO      [sd_mp0p5mr02exkgcxpnd] Status: running
+2026-05-11 08:25:57  INFO      [sd_mp0p5mr02exkgcxpnd] Status: ready
+2026-05-11 08:26:00  INFO      Skipped 2 duplicate(s)
+2026-05-11 08:26:00  INFO      Retrieved 37 record(s) — 20102 total | This run: 16110 / $35.7090 | All-time: $597.0690
+2026-05-11 08:26:00  INFO      [223/704] Processing: 'museum' @ 33.189518,44.200862
+2026-05-11 08:26:06  INFO      Triggered sd_mp0p8qckxzpgqjpxf  ('museum' @ 33.189518,44.200862)
+2026-05-11 08:26:07  INFO      [sd_mp0p8qckxzpgqjpxf] Status: running
+2026-05-11 08:29:32  INFO      [sd_mp0p8qckxzpgqjpxf] Status: ready
+2026-05-11 08:29:34  INFO      Skipped 6 duplicate(s)
+2026-05-11 08:29:34  INFO      Retrieved 135 record(s) — 20237 total | This run: 16245 / $35.9205 | All-time: $597.2805
+2026-05-11 08:29:34  INFO      [224/704] Processing: 'convenience store' @ 33.189518,44.200862
+2026-05-11 08:29:35  INFO      Triggered sd_mp0pd7o01pfghpholm  ('convenience store' @ 33.189518,44.200862)
+2026-05-11 08:29:36  INFO      [sd_mp0pd7o01pfghpholm] Status: running
+2026-05-11 08:33:31  INFO      [sd_mp0pd7o01pfghpholm] Status: ready
+2026-05-11 08:33:41  INFO      Skipped 4 duplicate(s)
+2026-05-11 08:33:41  INFO      Retrieved 216 record(s) — 20453 total | This run: 16461 / $36.2505 | All-time: $597.6105
+2026-05-11 08:33:41  INFO      [225/704] Processing: 'restaurant' @ 33.189518,44.416478
+2026-05-11 08:33:50  INFO      Triggered sd_mp0piog21nc2s88cmt  ('restaurant' @ 33.189518,44.416478)
+2026-05-11 08:33:52  INFO      [sd_mp0piog21nc2s88cmt] Status: running
+2026-05-11 08:37:25  INFO      [sd_mp0piog21nc2s88cmt] Status: ready
+2026-05-11 08:37:28  INFO      Skipped 71 duplicate(s)
+2026-05-11 08:37:29  INFO      Retrieved 109 record(s) — 20562 total | This run: 16570 / $36.5205 | All-time: $597.8805
+2026-05-11 08:37:29  INFO      [226/704] Processing: 'cafe' @ 33.189518,44.416478
+2026-05-11 08:37:36  INFO      Triggered sd_mp0pnih01ig70m1uy6  ('cafe' @ 33.189518,44.416478)
+2026-05-11 08:37:38  INFO      [sd_mp0pnih01ig70m1uy6] Status: running
+2026-05-11 08:41:35  INFO      [sd_mp0pnih01ig70m1uy6] Status: ready
+2026-05-11 08:41:49  INFO      Skipped 111 duplicate(s)
+2026-05-11 08:41:50  INFO      Retrieved 91 record(s) — 20653 total | This run: 16661 / $36.8235 | All-time: $598.1835
+2026-05-11 08:41:50  INFO      [227/704] Processing: 'hotel' @ 33.189518,44.416478
+2026-05-11 08:42:07  INFO      Triggered sd_mp0ptbvi2erxcyyq31  ('hotel' @ 33.189518,44.416478)
+2026-05-11 08:42:15  INFO      [sd_mp0ptbvi2erxcyyq31] Status: running
+2026-05-11 08:47:17  INFO      [sd_mp0ptbvi2erxcyyq31] Status: ready
+2026-05-11 08:47:28  INFO      Skipped 18 duplicate(s)
+2026-05-11 08:47:28  INFO      Retrieved 140 record(s) — 20793 total | This run: 16801 / $37.0605 | All-time: $598.4205
+2026-05-11 08:47:28  INFO      [228/704] Processing: 'mall' @ 33.189518,44.416478
+2026-05-11 08:47:43  INFO      Triggered sd_mp0q0j831kjw4hqgy2  ('mall' @ 33.189518,44.416478)
+2026-05-11 08:47:51  INFO      [sd_mp0q0j831kjw4hqgy2] Status: running
+2026-05-11 08:51:58  INFO      [sd_mp0q0j831kjw4hqgy2] Status: ready
+2026-05-11 08:52:09  INFO      Skipped 99 duplicate(s)
+2026-05-11 08:52:09  INFO      Retrieved 69 record(s) — 20862 total | This run: 16870 / $37.3125 | All-time: $598.6725
+2026-05-11 08:52:09  INFO      [229/704] Processing: 'gym' @ 33.189518,44.416478
+2026-05-11 08:52:21  INFO      Triggered sd_mp0q6hfy2nrn1bbk5h  ('gym' @ 33.189518,44.416478)
+2026-05-11 08:52:27  INFO      [sd_mp0q6hfy2nrn1bbk5h] Status: running
+2026-05-11 08:56:26  INFO      [sd_mp0q6hfy2nrn1bbk5h] Status: ready
+2026-05-11 08:56:33  INFO      Skipped 107 duplicate(s)
+2026-05-11 08:56:33  INFO      Retrieved 56 record(s) — 20918 total | This run: 16926 / $37.5570 | All-time: $598.9170
+2026-05-11 08:56:33  INFO      [230/704] Processing: 'hospital' @ 33.189518,44.416478
+2026-05-11 08:56:42  INFO      Triggered sd_mp0qc37ey4x9ybdet  ('hospital' @ 33.189518,44.416478)
+2026-05-11 08:56:45  INFO      [sd_mp0qc37ey4x9ybdet] Status: running
+2026-05-11 09:00:34  INFO      [sd_mp0qc37ey4x9ybdet] Status: ready
+2026-05-11 09:00:40  INFO      Skipped 22 duplicate(s)
+2026-05-11 09:00:41  INFO      Retrieved 3 record(s) — 20921 total | This run: 16929 / $37.5945 | All-time: $598.9545
+2026-05-11 09:00:41  INFO      [231/704] Processing: 'mosque' @ 33.189518,44.416478
+2026-05-11 09:00:51  INFO      Triggered sd_mp0qhf073aoeqi58w  ('mosque' @ 33.189518,44.416478)
+2026-05-11 09:00:56  INFO      [sd_mp0qhf073aoeqi58w] Status: running
+2026-05-11 09:03:39  INFO      [sd_mp0qhf073aoeqi58w] Status: ready
+2026-05-11 09:03:49  INFO      Skipped 14 duplicate(s)
+2026-05-11 09:03:50  INFO      Retrieved 174 record(s) — 21095 total | This run: 17103 / $37.8765 | All-time: $599.2365
+2026-05-11 09:03:50  INFO      [232/704] Processing: 'spa' @ 33.189518,44.416478
+2026-05-11 09:04:05  INFO      Triggered sd_mp0qlktstufr8wqky  ('spa' @ 33.189518,44.416478)
+2026-05-11 09:04:09  INFO      [sd_mp0qlktstufr8wqky] Status: running
+2026-05-11 09:07:10  INFO      [sd_mp0qlktstufr8wqky] Status: ready
+2026-05-11 09:07:18  INFO      Skipped 125 duplicate(s)
+2026-05-11 09:07:19  INFO      Retrieved 48 record(s) — 21143 total | This run: 17151 / $38.1360 | All-time: $599.4960
+2026-05-11 09:07:19  INFO      [233/704] Processing: 'cinema' @ 33.189518,44.416478
+2026-05-11 09:07:27  INFO      Triggered sd_mp0qpwsa1urzfuu2ip  ('cinema' @ 33.189518,44.416478)
+2026-05-11 09:07:29  INFO      [sd_mp0qpwsa1urzfuu2ip] Status: running
+2026-05-11 09:10:54  INFO      [sd_mp0qpwsa1urzfuu2ip] Status: ready
+2026-05-11 09:11:02  INFO      Skipped 42 duplicate(s)
+2026-05-11 09:11:03  INFO      Retrieved 23 record(s) — 21166 total | This run: 17174 / $38.2335 | All-time: $599.5935
+2026-05-11 09:11:03  INFO      [234/704] Processing: 'bakery' @ 33.189518,44.416478
+2026-05-11 09:11:15  INFO      Triggered sd_mp0qusqq1ztcqotyzj  ('bakery' @ 33.189518,44.416478)
+2026-05-11 09:11:26  INFO      [sd_mp0qusqq1ztcqotyzj] Status: running
+2026-05-11 09:16:11  INFO      [sd_mp0qusqq1ztcqotyzj] Status: ready
+2026-05-11 09:16:17  INFO      Skipped 106 duplicate(s)
+2026-05-11 09:16:18  INFO      Retrieved 59 record(s) — 21225 total | This run: 17233 / $38.4810 | All-time: $599.8410
+2026-05-11 09:16:18  INFO      [235/704] Processing: 'clothes' @ 33.189518,44.416478
+2026-05-11 09:16:25  INFO      Triggered sd_mp0r1evj1i7i9ld4eh  ('clothes' @ 33.189518,44.416478)
+2026-05-11 09:16:27  INFO      [sd_mp0r1evj1i7i9ld4eh] Status: running
+2026-05-11 09:35:44  ERROR     Error at input 235/704 ('clothes' @ 33.189518,44.416478): ('Connection aborted.', TimeoutError(110, 'Connection timed out'))
+2026-05-11 09:35:44  INFO      [236/704] Processing: 'library' @ 33.189518,44.416478
+2026-05-11 09:35:51  INFO      Triggered sd_mp0rqfra1itjm4gp5q  ('library' @ 33.189518,44.416478)
+2026-05-11 09:35:57  INFO      [sd_mp0rqfra1itjm4gp5q] Status: running
+2026-05-11 09:39:46  INFO      [sd_mp0rqfra1itjm4gp5q] Status: ready
+2026-05-11 09:39:53  INFO      Skipped 119 duplicate(s)
+2026-05-11 09:39:54  INFO      Retrieved 57 record(s) — 21282 total | This run: 17290 / $38.7450 | All-time: $600.1050
+2026-05-11 09:39:54  INFO      [237/704] Processing: 'bar' @ 33.189518,44.416478
+2026-05-11 09:40:03  INFO      Triggered sd_mp0rvtzr121lz0tfha  ('bar' @ 33.189518,44.416478)
+2026-05-11 09:40:06  INFO      [sd_mp0rvtzr121lz0tfha] Status: running
+2026-05-11 09:43:39  INFO      [sd_mp0rvtzr121lz0tfha] Status: ready
+2026-05-11 09:44:24  INFO      Skipped 135 duplicate(s)
+2026-05-11 09:44:24  INFO      Retrieved 29 record(s) — 21311 total | This run: 17319 / $38.9910 | All-time: $600.3510
+2026-05-11 09:44:24  INFO      [238/704] Processing: 'dry cleaning' @ 33.189518,44.416478
+2026-05-11 09:44:28  INFO      Triggered sd_mp0s1iej1ap76sfclj  ('dry cleaning' @ 33.189518,44.416478)
+2026-05-11 09:44:29  INFO      [sd_mp0s1iej1ap76sfclj] Status: running
+2026-05-11 09:48:55  INFO      [sd_mp0s1iej1ap76sfclj] Status: ready
+2026-05-11 09:48:57  INFO      Skipped 34 duplicate(s)
+2026-05-11 09:48:58  INFO      Retrieved 23 record(s) — 21334 total | This run: 17342 / $39.0765 | All-time: $600.4365
+2026-05-11 09:48:58  INFO      [239/704] Processing: 'museum' @ 33.189518,44.416478
+2026-05-11 09:49:00  INFO      Triggered sd_mp0s7cgc1i487dzbvf  ('museum' @ 33.189518,44.416478)
+2026-05-11 09:49:01  INFO      [sd_mp0s7cgc1i487dzbvf] Status: running
+2026-05-11 09:53:23  INFO      [sd_mp0s7cgc1i487dzbvf] Status: ready
+2026-05-11 09:53:25  INFO      Skipped 110 duplicate(s)
+2026-05-11 09:53:25  INFO      Retrieved 44 record(s) — 21378 total | This run: 17386 / $39.3075 | All-time: $600.6675
+2026-05-11 09:53:25  INFO      [240/704] Processing: 'convenience store' @ 33.189518,44.416478
+2026-05-11 09:53:27  INFO      Triggered sd_mp0sd2je15pan63zlu  ('convenience store' @ 33.189518,44.416478)
+2026-05-11 09:53:29  INFO      [sd_mp0sd2je15pan63zlu] Status: running
+2026-05-11 09:58:55  INFO      [sd_mp0sd2je15pan63zlu] Status: ready
+2026-05-11 09:58:57  INFO      Skipped 57 duplicate(s)
+2026-05-11 09:58:57  INFO      Retrieved 129 record(s) — 21507 total | This run: 17515 / $39.5865 | All-time: $600.9465
+2026-05-11 09:58:57  INFO      [241/704] Processing: 'restaurant' @ 33.189518,44.632095
+2026-05-11 09:58:58  INFO      Triggered sd_mp0sk60b1pybgrcjnt  ('restaurant' @ 33.189518,44.632095)
+2026-05-11 09:58:59  INFO      [sd_mp0sk60b1pybgrcjnt] Status: running
+2026-05-11 10:02:43  INFO      [sd_mp0sk60b1pybgrcjnt] Status: ready
+2026-05-11 10:02:45  INFO      Skipped 41 duplicate(s)
+2026-05-11 10:02:46  INFO      Retrieved 119 record(s) — 21626 total | This run: 17634 / $39.8265 | All-time: $601.1865
+2026-05-11 10:02:46  INFO      [242/704] Processing: 'cafe' @ 33.189518,44.632095
+2026-05-11 10:02:53  INFO      Triggered sd_mp0sp6ys2ptsf0lq9e  ('cafe' @ 33.189518,44.632095)
+2026-05-11 10:02:57  INFO      [sd_mp0sp6ys2ptsf0lq9e] Status: running
+2026-05-11 10:07:23  INFO      [sd_mp0sp6ys2ptsf0lq9e] Status: ready
+2026-05-11 10:07:27  INFO      Skipped 106 duplicate(s)
+2026-05-11 10:07:28  INFO      Retrieved 80 record(s) — 21706 total | This run: 17714 / $40.1055 | All-time: $601.4655
+2026-05-11 10:07:28  INFO      [243/704] Processing: 'hotel' @ 33.189518,44.632095
+2026-05-11 10:07:29  INFO      Triggered sd_mp0sv42u70jf0z31y  ('hotel' @ 33.189518,44.632095)
+2026-05-11 10:07:30  INFO      [sd_mp0sv42u70jf0z31y] Status: running
+2026-05-11 10:09:34  INFO      [sd_mp0sv42u70jf0z31y] Status: ready
+2026-05-11 10:09:37  INFO      Skipped 142 duplicate(s)
+2026-05-11 10:09:38  INFO      Retrieved 21 record(s) — 21727 total | This run: 17735 / $40.3500 | All-time: $601.7100
+2026-05-11 10:09:38  INFO      [244/704] Processing: 'mall' @ 33.189518,44.632095
+2026-05-11 10:09:39  INFO      Triggered sd_mp0sxwe81oa44mo6rb  ('mall' @ 33.189518,44.632095)
+2026-05-11 10:09:40  INFO      [sd_mp0sxwe81oa44mo6rb] Status: running
+2026-05-11 10:12:53  INFO      [sd_mp0sxwe81oa44mo6rb] Status: ready
+2026-05-11 10:12:58  INFO      Skipped 67 duplicate(s)
+2026-05-11 10:12:59  INFO      Retrieved 100 record(s) — 21827 total | This run: 17835 / $40.6005 | All-time: $601.9605
+2026-05-11 10:12:59  INFO      [245/704] Processing: 'gym' @ 33.189518,44.632095
+2026-05-11 10:13:00  INFO      Triggered sd_mp0t27m91loq4zjc9u  ('gym' @ 33.189518,44.632095)
+2026-05-11 10:13:02  INFO      [sd_mp0t27m91loq4zjc9u] Status: running
+2026-05-11 10:16:27  INFO      [sd_mp0t27m91loq4zjc9u] Status: ready
+2026-05-11 10:16:30  INFO      Skipped 72 duplicate(s)
+2026-05-11 10:16:31  INFO      Retrieved 91 record(s) — 21918 total | This run: 17926 / $40.8450 | All-time: $602.2050
+2026-05-11 10:16:31  INFO      [246/704] Processing: 'hospital' @ 33.189518,44.632095
+2026-05-11 10:16:34  INFO      Triggered sd_mp0t6s9z4m1ay2e0p  ('hospital' @ 33.189518,44.632095)
+2026-05-11 10:16:37  INFO      [sd_mp0t6s9z4m1ay2e0p] Status: running
+2026-05-11 10:18:34  INFO      [sd_mp0t6s9z4m1ay2e0p] Status: ready
+2026-05-11 10:18:36  INFO      Skipped 25 duplicate(s)
+2026-05-11 10:18:37  INFO      Retrieved 0 record(s) — 21918 total | This run: 17926 / $40.8825 | All-time: $602.2425
+2026-05-11 10:18:37  INFO      [247/704] Processing: 'mosque' @ 33.189518,44.632095
+2026-05-11 10:18:54  INFO      Triggered sd_mp0t9sjmb3266oa3a  ('mosque' @ 33.189518,44.632095)
+2026-05-11 10:18:56  INFO      [sd_mp0t9sjmb3266oa3a] Status: running
+2026-05-11 10:22:01  INFO      [sd_mp0t9sjmb3266oa3a] Status: ready
+2026-05-11 10:22:03  INFO      Skipped 58 duplicate(s)
+2026-05-11 10:22:04  INFO      Retrieved 124 record(s) — 22042 total | This run: 18050 / $41.1555 | All-time: $602.5155
+2026-05-11 10:22:04  INFO      [248/704] Processing: 'spa' @ 33.189518,44.632095
+2026-05-11 10:22:05  INFO      Triggered sd_mp0tdvtw13iqjilaps  ('spa' @ 33.189518,44.632095)
+2026-05-11 10:22:06  INFO      [sd_mp0tdvtw13iqjilaps] Status: running
+2026-05-11 10:24:36  INFO      [sd_mp0tdvtw13iqjilaps] Status: ready
+2026-05-11 10:24:38  INFO      Skipped 54 duplicate(s)
+2026-05-11 10:24:38  INFO      Retrieved 21 record(s) — 22063 total | This run: 18071 / $41.2680 | All-time: $602.6280
+2026-05-11 10:24:38  INFO      [249/704] Processing: 'cinema' @ 33.189518,44.632095
+2026-05-11 10:24:42  INFO      Triggered sd_mp0th8sn2nnywdhxzq  ('cinema' @ 33.189518,44.632095)
+2026-05-11 10:24:42  INFO      [sd_mp0th8sn2nnywdhxzq] Status: running
+2026-05-11 10:28:06  INFO      [sd_mp0th8sn2nnywdhxzq] Status: ready
+2026-05-11 10:28:08  INFO      Skipped 39 duplicate(s)
+2026-05-11 10:28:09  INFO      Retrieved 5 record(s) — 22068 total | This run: 18076 / $41.3340 | All-time: $602.6940
+2026-05-11 10:28:09  INFO      [250/704] Processing: 'bakery' @ 33.189518,44.632095
+2026-05-11 10:28:10  INFO      Triggered sd_mp0tlpp3tibub29vd  ('bakery' @ 33.189518,44.632095)
+2026-05-11 10:28:11  INFO      [sd_mp0tlpp3tibub29vd] Status: running
+2026-05-11 10:31:22  INFO      [sd_mp0tlpp3tibub29vd] Status: ready
+2026-05-11 10:31:24  INFO      Skipped 42 duplicate(s)
+2026-05-11 10:31:24  INFO      Retrieved 113 record(s) — 22181 total | This run: 18189 / $41.5665 | All-time: $602.9265
+2026-05-11 10:31:24  INFO      [251/704] Processing: 'clothes' @ 33.189518,44.632095
+2026-05-11 10:31:25  INFO      Triggered sd_mp0tpw771en28wa9dn  ('clothes' @ 33.189518,44.632095)
+2026-05-11 10:31:28  INFO      [sd_mp0tpw771en28wa9dn] Status: running
+2026-05-11 10:33:47  INFO      [sd_mp0tpw771en28wa9dn] Status: ready
+2026-05-11 10:33:49  INFO      Skipped 9 duplicate(s)
+2026-05-11 10:33:50  INFO      Retrieved 185 record(s) — 22366 total | This run: 18374 / $41.8575 | All-time: $603.2175
+2026-05-11 10:33:50  INFO      [252/704] Processing: 'library' @ 33.189518,44.632095
+2026-05-11 10:33:51  INFO      Triggered sd_mp0tt0ywn4oqurplz  ('library' @ 33.189518,44.632095)
+2026-05-11 10:33:52  INFO      [sd_mp0tt0ywn4oqurplz] Status: running
+2026-05-11 10:36:59  INFO      [sd_mp0tt0ywn4oqurplz] Status: ready
+2026-05-11 10:37:01  INFO      Skipped 59 duplicate(s)
+2026-05-11 10:37:02  INFO      Retrieved 132 record(s) — 22498 total | This run: 18506 / $42.1440 | All-time: $603.5040
+2026-05-11 10:37:02  INFO      [253/704] Processing: 'bar' @ 33.189518,44.632095
+2026-05-11 10:37:03  INFO      Triggered sd_mp0tx4mnawf3trqs6  ('bar' @ 33.189518,44.632095)
+2026-05-11 10:37:04  INFO      [sd_mp0tx4mnawf3trqs6] Status: running
+2026-05-11 10:40:17  INFO      [sd_mp0tx4mnawf3trqs6] Status: ready
+2026-05-11 10:40:19  INFO      Skipped 110 duplicate(s)
+2026-05-11 10:40:19  INFO      Retrieved 46 record(s) — 22544 total | This run: 18552 / $42.3780 | All-time: $603.7380
+2026-05-11 10:40:19  INFO      [254/704] Processing: 'dry cleaning' @ 33.189518,44.632095
+2026-05-11 10:40:20  INFO      Triggered sd_mp0u1d5pi9xr5est9  ('dry cleaning' @ 33.189518,44.632095)
+2026-05-11 10:40:21  INFO      [sd_mp0u1d5pi9xr5est9] Status: running
+2026-05-11 10:43:13  INFO      [sd_mp0u1d5pi9xr5est9] Status: ready
+2026-05-11 10:43:14  INFO      Skipped 35 duplicate(s)
+2026-05-11 10:43:15  INFO      Retrieved 2 record(s) — 22546 total | This run: 18554 / $42.4335 | All-time: $603.7935
+2026-05-11 10:43:15  INFO      [255/704] Processing: 'museum' @ 33.189518,44.632095
+2026-05-11 10:43:25  INFO      Triggered sd_mp0u5bpf1z4wi00hlo  ('museum' @ 33.189518,44.632095)
+2026-05-11 10:43:26  INFO      [sd_mp0u5bpf1z4wi00hlo] Status: running
+2026-05-11 10:48:28  INFO      [sd_mp0u5bpf1z4wi00hlo] Status: ready
+2026-05-11 10:48:29  INFO      Skipped 50 duplicate(s)
+2026-05-11 10:48:29  INFO      Retrieved 6 record(s) — 22552 total | This run: 18560 / $42.5175 | All-time: $603.8775
+2026-05-11 10:48:29  INFO      [256/704] Processing: 'convenience store' @ 33.189518,44.632095
+2026-05-11 10:48:30  INFO      Triggered sd_mp0ubv8p2kme2fqs6q  ('convenience store' @ 33.189518,44.632095)
+2026-05-11 10:48:31  INFO      [sd_mp0ubv8p2kme2fqs6q] Status: running
+2026-05-11 10:51:59  INFO      [sd_mp0ubv8p2kme2fqs6q] Status: ready
+2026-05-11 10:52:03  INFO      Skipped 45 duplicate(s)
+2026-05-11 10:52:04  INFO      Retrieved 142 record(s) — 22694 total | This run: 18702 / $42.7980 | All-time: $604.1580
+2026-05-11 10:52:04  INFO      [257/704] Processing: 'restaurant' @ 33.369698,44.200862
+2026-05-11 10:52:17  INFO      Triggered sd_mp0ugohn2jiztfevmt  ('restaurant' @ 33.369698,44.200862)
+2026-05-11 10:52:20  INFO      [sd_mp0ugohn2jiztfevmt] Status: running
+2026-05-11 10:56:25  INFO      [sd_mp0ugohn2jiztfevmt] Status: ready
+2026-05-11 10:56:28  INFO      Skipped 131 duplicate(s)
+2026-05-11 10:56:28  INFO      Retrieved 165 record(s) — 22859 total | This run: 18867 / $43.2420 | All-time: $604.6020
+2026-05-11 10:56:28  INFO      [258/704] Processing: 'cafe' @ 33.369698,44.200862
+2026-05-11 10:56:35  INFO      Triggered sd_mp0um9d02gx8628zwg  ('cafe' @ 33.369698,44.200862)
+2026-05-11 10:56:36  INFO      [sd_mp0um9d02gx8628zwg] Status: running
+2026-05-11 11:00:03  INFO      [sd_mp0um9d02gx8628zwg] Status: ready
+2026-05-11 11:00:06  INFO      Skipped 139 duplicate(s)
+2026-05-11 11:00:06  INFO      Retrieved 60 record(s) — 22919 total | This run: 18927 / $43.5405 | All-time: $604.9005
+2026-05-11 11:00:06  INFO      [259/704] Processing: 'hotel' @ 33.369698,44.200862
+2026-05-11 11:00:08  INFO      Triggered sd_mp0uqtdp1e61s5h39e  ('hotel' @ 33.369698,44.200862)
+2026-05-11 11:00:09  INFO      [sd_mp0uqtdp1e61s5h39e] Status: running
+2026-05-11 11:05:43  INFO      [sd_mp0uqtdp1e61s5h39e] Status: ready
+2026-05-11 11:05:46  INFO      Skipped 25 duplicate(s)
+2026-05-11 11:05:46  INFO      Retrieved 2 record(s) — 22921 total | This run: 18929 / $43.5810 | All-time: $604.9410
+2026-05-11 11:05:46  INFO      [260/704] Processing: 'mall' @ 33.369698,44.200862
+2026-05-11 11:05:51  INFO      Triggered sd_mp0uy60w1cmwgf3yse  ('mall' @ 33.369698,44.200862)
+2026-05-11 11:05:52  INFO      [sd_mp0uy60w1cmwgf3yse] Status: running
+2026-05-11 11:09:28  INFO      [sd_mp0uy60w1cmwgf3yse] Status: ready
+2026-05-11 11:09:30  INFO      Skipped 122 duplicate(s)
+2026-05-11 11:09:31  INFO      Retrieved 50 record(s) — 22971 total | This run: 18979 / $43.8390 | All-time: $605.1990
+2026-05-11 11:09:31  INFO      [261/704] Processing: 'gym' @ 33.369698,44.200862
+2026-05-11 11:09:33  INFO      Triggered sd_mp0v2xkg2a8gm2bwdw  ('gym' @ 33.369698,44.200862)
+2026-05-11 11:09:34  INFO      [sd_mp0v2xkg2a8gm2bwdw] Status: running
+2026-05-11 11:14:03  INFO      [sd_mp0v2xkg2a8gm2bwdw] Status: ready
+2026-05-11 11:14:07  INFO      Skipped 155 duplicate(s)
+2026-05-11 11:14:08  INFO      Retrieved 51 record(s) — 23022 total | This run: 19030 / $44.1480 | All-time: $605.5080
+2026-05-11 11:14:08  INFO      [262/704] Processing: 'hospital' @ 33.369698,44.200862
+2026-05-11 11:14:13  INFO      Triggered sd_mp0v8xkjv0jyh7ze9  ('hospital' @ 33.369698,44.200862)
+2026-05-11 11:14:14  INFO      [sd_mp0v8xkjv0jyh7ze9] Status: running
+2026-05-11 11:16:07  INFO      [sd_mp0v8xkjv0jyh7ze9] Status: ready
+2026-05-11 11:16:14  INFO      Skipped 27 duplicate(s)
+2026-05-11 11:16:14  INFO      Retrieved 2 record(s) — 23024 total | This run: 19032 / $44.1915 | All-time: $605.5515
+2026-05-11 11:16:14  INFO      [263/704] Processing: 'mosque' @ 33.369698,44.200862
+2026-05-11 11:16:30  INFO      Triggered sd_mp0vbv2oqxr41lyr9  ('mosque' @ 33.369698,44.200862)
+2026-05-11 11:16:35  INFO      [sd_mp0vbv2oqxr41lyr9] Status: running
+2026-05-11 11:19:08  INFO      [sd_mp0vbv2oqxr41lyr9] Status: ready
+2026-05-11 11:19:12  INFO      Skipped 61 duplicate(s)
+2026-05-11 11:19:12  INFO      Retrieved 129 record(s) — 23153 total | This run: 19161 / $44.4765 | All-time: $605.8365
+2026-05-11 11:19:12  INFO      [264/704] Processing: 'spa' @ 33.369698,44.200862
+2026-05-11 11:19:16  INFO      Triggered sd_mp0vff3r1i7403lis4  ('spa' @ 33.369698,44.200862)
+2026-05-11 11:19:18  INFO      [sd_mp0vff3r1i7403lis4] Status: running
+2026-05-11 11:21:42  INFO      [sd_mp0vff3r1i7403lis4] Status: ready
+2026-05-11 11:21:47  INFO      Skipped 165 duplicate(s)
+2026-05-11 11:21:47  INFO      Retrieved 6 record(s) — 23159 total | This run: 19167 / $44.7330 | All-time: $606.0930
+2026-05-11 11:21:47  INFO      [265/704] Processing: 'cinema' @ 33.369698,44.200862
+2026-05-11 11:21:53  INFO      Triggered sd_mp0vislq1hdl6islsu  ('cinema' @ 33.369698,44.200862)
+2026-05-11 11:21:55  INFO      [sd_mp0vislq1hdl6islsu] Status: running
+2026-05-11 11:27:16  INFO      [sd_mp0vislq1hdl6islsu] Status: ready
+2026-05-11 11:27:17  INFO      Skipped 58 duplicate(s)
+2026-05-11 11:27:18  INFO      Retrieved 5 record(s) — 23164 total | This run: 19172 / $44.8275 | All-time: $606.1875
+2026-05-11 11:27:18  INFO      [266/704] Processing: 'bakery' @ 33.369698,44.200862
+2026-05-11 11:27:21  INFO      Triggered sd_mp0vptdshcyenhqn6  ('bakery' @ 33.369698,44.200862)
+2026-05-11 11:27:22  INFO      [sd_mp0vptdshcyenhqn6] Status: running
+2026-05-11 11:30:20  INFO      [sd_mp0vptdshcyenhqn6] Status: ready
+2026-05-11 11:30:23  INFO      Skipped 134 duplicate(s)
+2026-05-11 11:30:23  INFO      Retrieved 47 record(s) — 23211 total | This run: 19219 / $45.0990 | All-time: $606.4590
+2026-05-11 11:30:23  INFO      [267/704] Processing: 'clothes' @ 33.369698,44.200862
+2026-05-11 11:30:31  INFO      Triggered sd_mp0vtwfp1hs38p1tln  ('clothes' @ 33.369698,44.200862)
+2026-05-11 11:30:32  INFO      [sd_mp0vtwfp1hs38p1tln] Status: running
+2026-05-11 11:34:24  INFO      [sd_mp0vtwfp1hs38p1tln] Status: ready
+2026-05-11 11:34:36  INFO      Skipped 101 duplicate(s)
+2026-05-11 11:34:37  INFO      Retrieved 126 record(s) — 23337 total | This run: 19345 / $45.4395 | All-time: $606.7995
+2026-05-11 11:34:37  INFO      [268/704] Processing: 'library' @ 33.369698,44.200862
+2026-05-11 11:34:45  INFO      Triggered sd_mp0vzcbp1vagjlnua6  ('library' @ 33.369698,44.200862)
+2026-05-11 11:34:47  INFO      [sd_mp0vzcbp1vagjlnua6] Status: running
+2026-05-11 11:40:25  INFO      [sd_mp0vzcbp1vagjlnua6] Status: ready
+2026-05-11 11:40:35  INFO      Skipped 153 duplicate(s)
+2026-05-11 11:40:35  INFO      Retrieved 67 record(s) — 23404 total | This run: 19412 / $45.7695 | All-time: $607.1295
+2026-05-11 11:40:35  INFO      [269/704] Processing: 'bar' @ 33.369698,44.200862
+2026-05-11 11:40:47  INFO      Triggered sd_mp0w73pz1def78mu7x  ('bar' @ 33.369698,44.200862)
+2026-05-11 11:40:51  INFO      [sd_mp0w73pz1def78mu7x] Status: running
+2026-05-11 11:44:42  INFO      [sd_mp0w73pz1def78mu7x] Status: ready
+2026-05-11 11:44:48  INFO      Skipped 120 duplicate(s)
+2026-05-11 11:44:49  INFO      Retrieved 84 record(s) — 23488 total | This run: 19496 / $46.0755 | All-time: $607.4355
+2026-05-11 11:44:49  INFO      [270/704] Processing: 'dry cleaning' @ 33.369698,44.200862
+2026-05-11 11:44:59  INFO      Triggered sd_mp0wchjh2jyn08ley8  ('dry cleaning' @ 33.369698,44.200862)
+2026-05-11 11:45:02  INFO      [sd_mp0wchjh2jyn08ley8] Status: running
+2026-05-11 11:49:32  INFO      [sd_mp0wchjh2jyn08ley8] Status: ready
+2026-05-11 11:49:45  INFO      Skipped 39 duplicate(s)
+2026-05-11 11:49:45  INFO      Retrieved 4 record(s) — 23492 total | This run: 19500 / $46.1400 | All-time: $607.5000
+2026-05-11 11:49:45  INFO      [271/704] Processing: 'museum' @ 33.369698,44.200862
+2026-05-11 11:49:59  INFO      Triggered sd_mp0wixrc2r8o9l7io5  ('museum' @ 33.369698,44.200862)
+2026-05-11 11:50:03  INFO      [sd_mp0wixrc2r8o9l7io5] Status: running
+2026-05-11 11:54:17  INFO      [sd_mp0wixrc2r8o9l7io5] Status: ready
+2026-05-11 11:54:25  INFO      Skipped 144 duplicate(s)
+2026-05-11 11:54:25  INFO      Retrieved 24 record(s) — 23516 total | This run: 19524 / $46.3920 | All-time: $607.7520
+2026-05-11 11:54:25  INFO      [272/704] Processing: 'convenience store' @ 33.369698,44.200862
+2026-05-11 11:54:34  INFO      Triggered sd_mp0wotbh2cli672ts1  ('convenience store' @ 33.369698,44.200862)
+2026-05-11 11:54:43  INFO      [sd_mp0wotbh2cli672ts1] Status: running
+2026-05-11 11:58:36  INFO      [sd_mp0wotbh2cli672ts1] Status: ready
+2026-05-11 11:58:44  INFO      Skipped 39 duplicate(s)
+2026-05-11 11:58:45  INFO      Retrieved 158 record(s) — 23674 total | This run: 19682 / $46.6875 | All-time: $608.0475
+2026-05-11 11:58:45  INFO      [273/704] Processing: 'restaurant' @ 33.369698,44.416478
+2026-05-11 11:59:03  INFO      Triggered sd_mp0wukvj23q3qordgy  ('restaurant' @ 33.369698,44.416478)
+2026-05-11 11:59:06  INFO      [sd_mp0wukvj23q3qordgy] Status: running
+2026-05-11 12:03:11  INFO      [sd_mp0wukvj23q3qordgy] Status: ready
+2026-05-11 12:03:18  INFO      Skipped 45 duplicate(s)
+2026-05-11 12:03:19  INFO      Retrieved 241 record(s) — 23915 total | This run: 19923 / $47.1165 | All-time: $608.4765
+2026-05-11 12:03:19  INFO      [274/704] Processing: 'cafe' @ 33.369698,44.416478
+2026-05-11 12:03:27  INFO      Triggered sd_mp0x0931seiv2iyo3  ('cafe' @ 33.369698,44.416478)
+2026-05-11 12:03:30  INFO      [sd_mp0x0931seiv2iyo3] Status: running
+2026-05-11 12:09:47  INFO      [sd_mp0x0931seiv2iyo3] Status: ready
+2026-05-11 12:09:57  INFO      Skipped 79 duplicate(s)
+2026-05-11 12:09:58  INFO      Retrieved 244 record(s) — 24159 total | This run: 20167 / $47.6010 | All-time: $608.9610
+2026-05-11 12:09:58  INFO      [275/704] Processing: 'hotel' @ 33.369698,44.416478
+2026-05-11 12:10:05  INFO      Triggered sd_mp0x8s5pshfm6exfe  ('hotel' @ 33.369698,44.416478)
+2026-05-11 12:10:07  INFO      [sd_mp0x8s5pshfm6exfe] Status: running
+2026-05-11 12:15:16  INFO      [sd_mp0x8s5pshfm6exfe] Status: ready
+2026-05-11 12:15:18  INFO      Skipped 7 duplicate(s)
+2026-05-11 12:15:19  INFO      Retrieved 2 record(s) — 24161 total | This run: 20169 / $47.6145 | All-time: $608.9745
+2026-05-11 12:15:19  INFO      [276/704] Processing: 'mall' @ 33.369698,44.416478
+2026-05-11 12:15:26  INFO      Triggered sd_mp0xfn9z24ryssd6on  ('mall' @ 33.369698,44.416478)
+2026-05-11 12:15:28  INFO      [sd_mp0xfn9z24ryssd6on] Status: running
+2026-05-11 12:21:23  INFO      [sd_mp0xfn9z24ryssd6on] Status: ready
+2026-05-11 12:21:32  INFO      Skipped 130 duplicate(s)
+2026-05-11 12:21:33  INFO      Retrieved 32 record(s) — 24193 total | This run: 20201 / $47.8575 | All-time: $609.2175
+2026-05-11 12:21:33  INFO      [277/704] Processing: 'gym' @ 33.369698,44.416478
+2026-05-11 12:21:43  INFO      Triggered sd_mp0xnq6h1r85hc33ng  ('gym' @ 33.369698,44.416478)
+2026-05-11 12:21:46  INFO      [sd_mp0xnq6h1r85hc33ng] Status: running
+2026-05-11 12:28:12  INFO      [sd_mp0xnq6h1r85hc33ng] Status: ready
+2026-05-11 12:28:21  INFO      Skipped 177 duplicate(s)
+2026-05-11 12:28:22  INFO      Retrieved 46 record(s) — 24239 total | This run: 20247 / $48.1920 | All-time: $609.5520
+2026-05-11 12:28:22  INFO      [278/704] Processing: 'hospital' @ 33.369698,44.416478
+2026-05-11 12:28:30  INFO      Triggered sd_mp0xwgtcq7u7hvykl  ('hospital' @ 33.369698,44.416478)
+2026-05-11 12:28:34  INFO      [sd_mp0xwgtcq7u7hvykl] Status: running
+2026-05-11 12:34:49  INFO      [sd_mp0xwgtcq7u7hvykl] Status: ready
+2026-05-11 12:34:54  INFO      Skipped 26 duplicate(s)
+2026-05-11 12:34:54  INFO      Retrieved 11 record(s) — 24250 total | This run: 20258 / $48.2475 | All-time: $609.6075
+2026-05-11 12:34:54  INFO      [279/704] Processing: 'mosque' @ 33.369698,44.416478
+2026-05-11 12:35:02  INFO      Triggered sd_mp0y4v3o2ck2vh0h8a  ('mosque' @ 33.369698,44.416478)
+2026-05-11 12:35:07  INFO      [sd_mp0y4v3o2ck2vh0h8a] Status: running
+2026-05-11 12:36:45  INFO      [sd_mp0y4v3o2ck2vh0h8a] Status: ready
+2026-05-11 12:36:56  INFO      Skipped 119 duplicate(s)
+2026-05-11 12:36:56  INFO      Retrieved 70 record(s) — 24320 total | This run: 20328 / $48.5310 | All-time: $609.8910
+2026-05-11 12:36:56  INFO      [280/704] Processing: 'spa' @ 33.369698,44.416478
+2026-05-11 12:37:05  INFO      Triggered sd_mp0y7i6gtjzlj2a4y  ('spa' @ 33.369698,44.416478)
+2026-05-11 12:37:11  INFO      [sd_mp0y7i6gtjzlj2a4y] Status: running
+2026-05-11 12:40:05  INFO      [sd_mp0y7i6gtjzlj2a4y] Status: ready
+2026-05-11 12:40:13  INFO      Skipped 163 duplicate(s)
+2026-05-11 12:40:13  INFO      Retrieved 6 record(s) — 24326 total | This run: 20334 / $48.7845 | All-time: $610.1445
+2026-05-11 12:40:13  INFO      [281/704] Processing: 'cinema' @ 33.369698,44.416478
+2026-05-11 12:40:36  INFO      Triggered sd_mp0yc0yy2kukefb6bq  ('cinema' @ 33.369698,44.416478)
+2026-05-11 12:40:39  INFO      [sd_mp0yc0yy2kukefb6bq] Status: running
+2026-05-11 12:43:29  INFO      [sd_mp0yc0yy2kukefb6bq] Status: ready
+2026-05-11 12:43:42  INFO      Skipped 80 duplicate(s)
+2026-05-11 12:43:43  INFO      Retrieved 5 record(s) — 24331 total | This run: 20339 / $48.9120 | All-time: $610.2720
+2026-05-11 12:43:43  INFO      [282/704] Processing: 'bakery' @ 33.369698,44.416478
+2026-05-11 12:43:50  INFO      Triggered sd_mp0yg6p7f1t5c08tf  ('bakery' @ 33.369698,44.416478)
+2026-05-11 12:43:56  INFO      [sd_mp0yg6p7f1t5c08tf] Status: running
+2026-05-11 12:48:01  INFO      [sd_mp0yg6p7f1t5c08tf] Status: ready
+2026-05-11 12:48:08  INFO      Skipped 132 duplicate(s)
+2026-05-11 12:48:09  INFO      Retrieved 65 record(s) — 24396 total | This run: 20404 / $49.2075 | All-time: $610.5675
+2026-05-11 12:48:09  INFO      [283/704] Processing: 'clothes' @ 33.369698,44.416478
+2026-05-11 12:48:16  INFO      Triggered sd_mp0ylvka169ky37coq  ('clothes' @ 33.369698,44.416478)
+2026-05-11 12:48:21  INFO      [sd_mp0ylvka169ky37coq] Status: running
+2026-05-11 12:52:22  INFO      [sd_mp0ylvka169ky37coq] Status: ready
+2026-05-11 12:52:27  INFO      Skipped 51 duplicate(s)
+2026-05-11 12:52:28  INFO      Retrieved 215 record(s) — 24611 total | This run: 20619 / $49.6065 | All-time: $610.9665
+2026-05-11 12:52:28  INFO      [284/704] Processing: 'library' @ 33.369698,44.416478
+2026-05-11 12:52:30  INFO      Triggered sd_mp0yrbrxnlpagi4aa  ('library' @ 33.369698,44.416478)
+2026-05-11 12:52:31  INFO      [sd_mp0yrbrxnlpagi4aa] Status: running
+2026-05-11 12:57:19  INFO      [sd_mp0yrbrxnlpagi4aa] Status: ready
+2026-05-11 12:57:21  INFO      Skipped 125 duplicate(s)
+2026-05-11 12:57:22  INFO      Retrieved 65 record(s) — 24676 total | This run: 20684 / $49.8915 | All-time: $611.2515
+2026-05-11 12:57:22  INFO      [285/704] Processing: 'bar' @ 33.369698,44.416478
+2026-05-11 12:57:23  INFO      Triggered sd_mp0yxlj02ewln028h8  ('bar' @ 33.369698,44.416478)
+2026-05-11 12:57:23  INFO      [sd_mp0yxlj02ewln028h8] Status: running
+2026-05-11 13:01:35  INFO      [sd_mp0yxlj02ewln028h8] Status: ready
+2026-05-11 13:01:36  INFO      Skipped 85 duplicate(s)
+2026-05-11 13:01:37  INFO      Retrieved 91 record(s) — 24767 total | This run: 20775 / $50.1555 | All-time: $611.5155
+2026-05-11 13:01:37  INFO      [286/704] Processing: 'dry cleaning' @ 33.369698,44.416478
+2026-05-11 13:01:38  INFO      Triggered sd_mp0z32i9w6vtpohvl  ('dry cleaning' @ 33.369698,44.416478)
+2026-05-11 13:01:39  INFO      [sd_mp0z32i9w6vtpohvl] Status: running
+2026-05-11 13:05:37  INFO      [sd_mp0z32i9w6vtpohvl] Status: ready
+2026-05-11 13:05:38  INFO      Skipped 54 duplicate(s)
+2026-05-11 13:05:39  INFO      Retrieved 9 record(s) — 24776 total | This run: 20784 / $50.2500 | All-time: $611.6100
+2026-05-11 13:05:39  INFO      [287/704] Processing: 'museum' @ 33.369698,44.416478
+2026-05-11 13:05:40  INFO      Triggered sd_mp0z89642kiffv8xdq  ('museum' @ 33.369698,44.416478)
+2026-05-11 13:05:40  INFO      [sd_mp0z89642kiffv8xdq] Status: running
+2026-05-11 13:09:16  INFO      [sd_mp0z89642kiffv8xdq] Status: ready
+2026-05-11 13:09:17  INFO      Skipped 146 duplicate(s)
+2026-05-11 13:09:18  INFO      Retrieved 10 record(s) — 24786 total | This run: 20794 / $50.4840 | All-time: $611.8440
+2026-05-11 13:09:18  INFO      [288/704] Processing: 'convenience store' @ 33.369698,44.416478
+2026-05-11 13:09:19  INFO      Triggered sd_mp0zcy1f1aohk181tx  ('convenience store' @ 33.369698,44.416478)
+2026-05-11 13:09:19  INFO      [sd_mp0zcy1f1aohk181tx] Status: running
+2026-05-11 13:12:53  INFO      [sd_mp0zcy1f1aohk181tx] Status: ready
+2026-05-11 13:12:55  INFO      Skipped 5 duplicate(s)
+2026-05-11 13:12:55  INFO      Retrieved 207 record(s) — 24993 total | This run: 21001 / $50.8020 | All-time: $612.1620
+2026-05-11 13:12:55  INFO      [289/704] Processing: 'restaurant' @ 33.369698,44.632095
+2026-05-11 13:12:57  INFO      Triggered sd_mp0zhmmwjmnhexppr  ('restaurant' @ 33.369698,44.632095)
+2026-05-11 13:12:58  INFO      [sd_mp0zhmmwjmnhexppr] Status: running
+2026-05-11 13:16:48  INFO      [sd_mp0zhmmwjmnhexppr] Status: ready
+2026-05-11 13:16:50  INFO      Skipped 123 duplicate(s)
+2026-05-11 13:16:51  INFO      Retrieved 93 record(s) — 25086 total | This run: 21094 / $51.1260 | All-time: $612.4860
+2026-05-11 13:16:51  INFO      [290/704] Processing: 'cafe' @ 33.369698,44.632095
+2026-05-11 13:16:52  INFO      Triggered sd_mp0zmo1w2kuo1ezg4n  ('cafe' @ 33.369698,44.632095)
+2026-05-11 13:16:53  INFO      [sd_mp0zmo1w2kuo1ezg4n] Status: running
+2026-05-11 13:22:49  INFO      [sd_mp0zmo1w2kuo1ezg4n] Status: ready
+2026-05-11 13:22:51  INFO      Skipped 129 duplicate(s)
+2026-05-11 13:22:52  INFO      Retrieved 103 record(s) — 25189 total | This run: 21197 / $51.4740 | All-time: $612.8340
+2026-05-11 13:22:52  INFO      [291/704] Processing: 'hotel' @ 33.369698,44.632095
+2026-05-11 13:22:53  INFO      Triggered sd_mp0zue8gjho4xbbk6  ('hotel' @ 33.369698,44.632095)
+2026-05-11 13:22:53  INFO      [sd_mp0zue8gjho4xbbk6] Status: running
+2026-05-11 13:24:02  INFO      [sd_mp0zue8gjho4xbbk6] Status: ready
+2026-05-11 13:24:04  INFO      Skipped 3 duplicate(s)
+2026-05-11 13:24:04  INFO      Retrieved 1 record(s) — 25190 total | This run: 21198 / $51.4800 | All-time: $612.8400
+2026-05-11 13:24:04  INFO      [292/704] Processing: 'mall' @ 33.369698,44.632095
+2026-05-11 13:24:06  INFO      Triggered sd_mp0zvyuwrb11berz1  ('mall' @ 33.369698,44.632095)
+2026-05-11 13:24:07  INFO      [sd_mp0zvyuwrb11berz1] Status: running
+2026-05-11 13:27:15  INFO      [sd_mp0zvyuwrb11berz1] Status: ready
+2026-05-11 13:27:17  INFO      Skipped 83 duplicate(s)
+2026-05-11 13:27:18  INFO      Retrieved 90 record(s) — 25280 total | This run: 21288 / $51.7395 | All-time: $613.0995
+2026-05-11 13:27:18  INFO      [293/704] Processing: 'gym' @ 33.369698,44.632095
+2026-05-11 13:27:18  INFO      Triggered sd_mp10037b1ydnrky4so  ('gym' @ 33.369698,44.632095)
+2026-05-11 13:27:20  INFO      [sd_mp10037b1ydnrky4so] Status: running
+2026-05-11 13:31:25  INFO      [sd_mp10037b1ydnrky4so] Status: ready
+2026-05-11 13:31:27  INFO      Skipped 139 duplicate(s)
+2026-05-11 13:31:28  INFO      Retrieved 34 record(s) — 25314 total | This run: 21322 / $51.9990 | All-time: $613.3590
+2026-05-11 13:31:28  INFO      [294/704] Processing: 'hospital' @ 33.369698,44.632095
+2026-05-11 13:31:34  INFO      Triggered sd_mp105kokd0ybexmr9  ('hospital' @ 33.369698,44.632095)
+2026-05-11 13:31:36  INFO      [sd_mp105kokd0ybexmr9] Status: running
+2026-05-11 13:33:15  INFO      [sd_mp105kokd0ybexmr9] Status: ready
+2026-05-11 13:33:16  INFO      Skipped 18 duplicate(s)
+2026-05-11 13:33:17  INFO      Retrieved 4 record(s) — 25318 total | This run: 21326 / $52.0320 | All-time: $613.3920
+2026-05-11 13:33:17  INFO      [295/704] Processing: 'mosque' @ 33.369698,44.632095
+2026-05-11 13:33:18  INFO      Triggered sd_mp107scbnb5nfa0ky  ('mosque' @ 33.369698,44.632095)
+2026-05-11 13:33:18  INFO      [sd_mp107scbnb5nfa0ky] Status: running
+2026-05-11 13:35:56  INFO      [sd_mp107scbnb5nfa0ky] Status: ready
+2026-05-11 13:35:58  INFO      Skipped 151 duplicate(s)
+2026-05-11 13:35:59  INFO      Retrieved 56 record(s) — 25374 total | This run: 21382 / $52.3425 | All-time: $613.7025
+2026-05-11 13:35:59  INFO      [296/704] Processing: 'spa' @ 33.369698,44.632095
+2026-05-11 13:36:00  INFO      Triggered sd_mp10b9hv2pnbbsf86c  ('spa' @ 33.369698,44.632095)
+2026-05-11 13:36:01  INFO      [sd_mp10b9hv2pnbbsf86c] Status: running
+2026-05-11 13:39:24  INFO      [sd_mp10b9hv2pnbbsf86c] Status: ready
+2026-05-11 13:39:28  INFO      Skipped 77 duplicate(s)
+2026-05-11 13:39:29  INFO      Retrieved 7 record(s) — 25381 total | This run: 21389 / $52.4685 | All-time: $613.8285
+2026-05-11 13:39:29  INFO      [297/704] Processing: 'cinema' @ 33.369698,44.632095
+2026-05-11 13:39:30  INFO      Triggered sd_mp10freb1vhjf565e3  ('cinema' @ 33.369698,44.632095)
+2026-05-11 13:39:30  INFO      [sd_mp10freb1vhjf565e3] Status: running
+2026-05-11 13:43:45  INFO      [sd_mp10freb1vhjf565e3] Status: ready
+2026-05-11 13:43:47  INFO      Skipped 45 duplicate(s)
+2026-05-11 13:43:48  INFO      Retrieved 0 record(s) — 25381 total | This run: 21389 / $52.5360 | All-time: $613.8960
+2026-05-11 13:43:48  INFO      [298/704] Processing: 'bakery' @ 33.369698,44.632095
+2026-05-11 13:43:51  INFO      Triggered sd_mp10lcz01qazx41c17  ('bakery' @ 33.369698,44.632095)
+2026-05-11 13:43:52  INFO      [sd_mp10lcz01qazx41c17] Status: running
+2026-05-11 13:48:18  INFO      [sd_mp10lcz01qazx41c17] Status: ready
+2026-05-11 13:48:20  INFO      Skipped 76 duplicate(s)
+2026-05-11 13:48:21  INFO      Retrieved 96 record(s) — 25477 total | This run: 21485 / $52.7940 | All-time: $614.1540
+2026-05-11 13:48:21  INFO      [299/704] Processing: 'clothes' @ 33.369698,44.632095
+2026-05-11 13:48:24  INFO      Triggered sd_mp10r7p62bnryeb01m  ('clothes' @ 33.369698,44.632095)
+2026-05-11 13:48:25  INFO      [sd_mp10r7p62bnryeb01m] Status: running
+2026-05-11 13:51:31  INFO      [sd_mp10r7p62bnryeb01m] Status: ready
+2026-05-11 13:51:32  INFO      Skipped 52 duplicate(s)
+2026-05-11 13:51:33  INFO      Retrieved 81 record(s) — 25558 total | This run: 21566 / $52.9935 | All-time: $614.3535
+2026-05-11 13:51:33  INFO      [300/704] Processing: 'library' @ 33.369698,44.632095
+2026-05-11 13:51:36  INFO      Triggered sd_mp10vc1dkxtubg57s  ('library' @ 33.369698,44.632095)
+2026-05-11 13:51:37  INFO      [sd_mp10vc1dkxtubg57s] Status: running
+2026-05-11 13:54:38  INFO      [sd_mp10vc1dkxtubg57s] Status: ready
+2026-05-11 13:54:40  INFO      Skipped 142 duplicate(s)
+2026-05-11 13:54:41  INFO      Retrieved 60 record(s) — 25618 total | This run: 21626 / $53.2965 | All-time: $614.6565
+2026-05-11 13:54:41  INFO      [301/704] Processing: 'bar' @ 33.369698,44.632095
+2026-05-11 13:54:42  INFO      Triggered sd_mp10zbak87wplbl2d  ('bar' @ 33.369698,44.632095)
+2026-05-11 13:54:43  INFO      [sd_mp10zbak87wplbl2d] Status: running
+2026-05-11 13:57:51  INFO      [sd_mp10zbak87wplbl2d] Status: ready
+2026-05-11 13:57:53  INFO      Skipped 128 duplicate(s)
+2026-05-11 13:57:54  INFO      Retrieved 35 record(s) — 25653 total | This run: 21661 / $53.5410 | All-time: $614.9010
+2026-05-11 13:57:54  INFO      [302/704] Processing: 'dry cleaning' @ 33.369698,44.632095
+2026-05-11 13:57:55  INFO      Triggered sd_mp113g5wq1ta9hovq  ('dry cleaning' @ 33.369698,44.632095)
+2026-05-11 13:57:56  INFO      [sd_mp113g5wq1ta9hovq] Status: running
+2026-05-11 14:01:59  INFO      [sd_mp113g5wq1ta9hovq] Status: ready
+2026-05-11 14:02:00  INFO      Skipped 34 duplicate(s)
+2026-05-11 14:02:01  INFO      Retrieved 0 record(s) — 25653 total | This run: 21661 / $53.5920 | All-time: $614.9520
+2026-05-11 14:02:01  INFO      [303/704] Processing: 'museum' @ 33.369698,44.632095
+2026-05-11 14:02:03  INFO      Triggered sd_mp118r9x17dvh0m5wy  ('museum' @ 33.369698,44.632095)
+2026-05-11 14:02:04  INFO      [sd_mp118r9x17dvh0m5wy] Status: running
+2026-05-11 14:05:46  INFO      [sd_mp118r9x17dvh0m5wy] Status: ready
+2026-05-11 14:05:47  INFO      Skipped 72 duplicate(s)
+2026-05-11 14:05:48  INFO      Retrieved 5 record(s) — 25658 total | This run: 21666 / $53.7075 | All-time: $615.0675
+2026-05-11 14:05:48  INFO      [304/704] Processing: 'convenience store' @ 33.369698,44.632095
+2026-05-11 14:05:49  INFO      Triggered sd_mp11dlz229rn8ug9vo  ('convenience store' @ 33.369698,44.632095)
+2026-05-11 14:05:50  INFO      [sd_mp11dlz229rn8ug9vo] Status: running
+2026-05-11 14:10:54  INFO      [sd_mp11dlz229rn8ug9vo] Status: ready
+2026-05-11 14:10:56  INFO      Skipped 59 duplicate(s)
+2026-05-11 14:10:57  INFO      Retrieved 134 record(s) — 25792 total | This run: 21800 / $53.9970 | All-time: $615.3570
+2026-05-11 14:10:57  INFO      [305/704] Processing: 'restaurant' @ 33.726318,44.600467
+2026-05-11 14:11:04  INFO      Triggered sd_mp11kd51284we3taid  ('restaurant' @ 33.726318,44.600467)
+2026-05-11 14:11:05  INFO      [sd_mp11kd51284we3taid] Status: running
+2026-05-11 14:14:59  INFO      [sd_mp11kd51284we3taid] Status: ready
+2026-05-11 14:15:01  INFO      Skipped 57 duplicate(s)
+2026-05-11 14:15:01  INFO      Retrieved 133 record(s) — 25925 total | This run: 21933 / $54.2820 | All-time: $615.6420
+2026-05-11 14:15:01  INFO      [306/704] Processing: 'cafe' @ 33.726318,44.600467
+2026-05-11 14:15:02  INFO      Triggered sd_mp11ph281oj6gm1329  ('cafe' @ 33.726318,44.600467)
+2026-05-11 14:15:03  INFO      [sd_mp11ph281oj6gm1329] Status: running
+2026-05-11 14:21:27  INFO      [sd_mp11ph281oj6gm1329] Status: ready
+2026-05-11 14:21:28  INFO      Skipped 95 duplicate(s)
+2026-05-11 14:21:29  INFO      Retrieved 111 record(s) — 26036 total | This run: 22044 / $54.5910 | All-time: $615.9510
+2026-05-11 14:21:29  INFO      [307/704] Processing: 'hotel' @ 33.726318,44.600467
+2026-05-11 14:21:30  INFO      Triggered sd_mp11xs532ky2rt9x7q  ('hotel' @ 33.726318,44.600467)
+2026-05-11 14:21:31  INFO      [sd_mp11xs532ky2rt9x7q] Status: running
+2026-05-11 14:25:30  INFO      [sd_mp11xs532ky2rt9x7q] Status: ready
+2026-05-11 14:25:32  INFO      Skipped 153 duplicate(s)
+2026-05-11 14:25:33  INFO      Retrieved 49 record(s) — 26085 total | This run: 22093 / $54.8940 | All-time: $616.2540
+2026-05-11 14:25:33  INFO      [308/704] Processing: 'mall' @ 33.726318,44.600467
+2026-05-11 14:25:34  INFO      Triggered sd_mp1230bofnhovpb8r  ('mall' @ 33.726318,44.600467)
+2026-05-11 14:25:35  INFO      [sd_mp1230bofnhovpb8r] Status: running
+2026-05-11 14:28:49  INFO      [sd_mp1230bofnhovpb8r] Status: ready
+2026-05-11 14:28:50  INFO      Skipped 17 duplicate(s)
+2026-05-11 14:28:51  INFO      Retrieved 148 record(s) — 26233 total | This run: 22241 / $55.1415 | All-time: $616.5015
+2026-05-11 14:28:51  INFO      [309/704] Processing: 'gym' @ 33.726318,44.600467
+2026-05-11 14:28:52  INFO      Triggered sd_mp12796afxpgvddi7  ('gym' @ 33.726318,44.600467)
+2026-05-11 14:28:53  INFO      [sd_mp12796afxpgvddi7] Status: running
+2026-05-11 14:32:54  INFO      [sd_mp12796afxpgvddi7] Status: ready
+2026-05-11 14:32:56  INFO      Skipped 15 duplicate(s)
+2026-05-11 14:32:57  INFO      Retrieved 89 record(s) — 26322 total | This run: 22330 / $55.2975 | All-time: $616.6575
+2026-05-11 14:32:57  INFO      [310/704] Processing: 'hospital' @ 33.726318,44.600467
+2026-05-11 14:32:57  INFO      Triggered sd_mp12cijy1zneginzam  ('hospital' @ 33.726318,44.600467)
+2026-05-11 14:32:58  INFO      [sd_mp12cijy1zneginzam] Status: running
+2026-05-11 14:36:33  INFO      [sd_mp12cijy1zneginzam] Status: ready
+2026-05-11 14:36:34  INFO      Skipped 28 duplicate(s)
+2026-05-11 14:36:35  INFO      Retrieved 3 record(s) — 26325 total | This run: 22333 / $55.3440 | All-time: $616.7040
+2026-05-11 14:36:35  INFO      [311/704] Processing: 'mosque' @ 33.726318,44.600467
+2026-05-11 14:36:36  INFO      Triggered sd_mp12h6te2497esmy0t  ('mosque' @ 33.726318,44.600467)
+2026-05-11 14:36:36  INFO      [sd_mp12h6te2497esmy0t] Status: running
+2026-05-11 14:39:57  INFO      [sd_mp12h6te2497esmy0t] Status: ready
+2026-05-11 14:39:59  INFO      Skipped 17 duplicate(s)
+2026-05-11 14:40:00  INFO      Retrieved 171 record(s) — 26496 total | This run: 22504 / $55.6260 | All-time: $616.9860
+2026-05-11 14:40:00  INFO      [312/704] Processing: 'spa' @ 33.726318,44.600467
+2026-05-11 14:40:01  INFO      Triggered sd_mp12llf41prtovjaiz  ('spa' @ 33.726318,44.600467)
+2026-05-11 14:40:02  INFO      [sd_mp12llf41prtovjaiz] Status: running
+2026-05-11 14:41:10  INFO      [sd_mp12llf41prtovjaiz] Status: ready
+2026-05-11 14:41:10  INFO      Skipped 1 duplicate(s)
+2026-05-11 14:41:11  INFO      Retrieved 5 record(s) — 26501 total | This run: 22509 / $55.6350 | All-time: $616.9950
+2026-05-11 14:41:11  INFO      [313/704] Processing: 'cinema' @ 33.726318,44.600467
+2026-05-11 14:41:12  INFO      Triggered sd_mp12n43gcyvh4xv8g  ('cinema' @ 33.726318,44.600467)
+2026-05-11 14:41:13  INFO      [sd_mp12n43gcyvh4xv8g] Status: running
+2026-05-11 14:43:12  INFO      [sd_mp12n43gcyvh4xv8g] Status: ready
+2026-05-11 14:43:13  INFO      Skipped 3 duplicate(s)
+2026-05-11 14:43:13  INFO      Retrieved 1 record(s) — 26502 total | This run: 22510 / $55.6410 | All-time: $617.0010
+2026-05-11 14:43:13  INFO      [314/704] Processing: 'bakery' @ 33.726318,44.600467
+2026-05-11 14:43:14  INFO      Triggered sd_mp12pqi01zqqrgq6hh  ('bakery' @ 33.726318,44.600467)
+2026-05-11 14:43:15  INFO      [sd_mp12pqi01zqqrgq6hh] Status: running
+2026-05-11 14:48:40  INFO      [sd_mp12pqi01zqqrgq6hh] Status: ready
+2026-05-11 14:48:42  INFO      Skipped 24 duplicate(s)
+2026-05-11 14:48:43  INFO      Retrieved 149 record(s) — 26651 total | This run: 22659 / $55.9005 | All-time: $617.2605
+2026-05-11 14:48:43  INFO      [315/704] Processing: 'clothes' @ 33.726318,44.600467
+2026-05-11 14:48:44  INFO      Triggered sd_mp12wsjj1hxuttnebh  ('clothes' @ 33.726318,44.600467)
+2026-05-11 14:48:44  INFO      [sd_mp12wsjj1hxuttnebh] Status: running
+2026-05-11 14:52:15  INFO      [sd_mp12wsjj1hxuttnebh] Status: ready
+2026-05-11 14:52:17  INFO      Skipped 47 duplicate(s)
+2026-05-11 14:52:17  INFO      Retrieved 129 record(s) — 26780 total | This run: 22788 / $56.1645 | All-time: $617.5245
+2026-05-11 14:52:17  INFO      [316/704] Processing: 'library' @ 33.726318,44.600467
+2026-05-11 14:52:18  INFO      Triggered sd_mp131e3x20qu2exdel  ('library' @ 33.726318,44.600467)
+2026-05-11 14:52:19  INFO      [sd_mp131e3x20qu2exdel] Status: running
+2026-05-11 14:58:39  INFO      [sd_mp131e3x20qu2exdel] Status: ready
+2026-05-11 14:58:41  INFO      Skipped 24 duplicate(s)
+2026-05-11 14:58:41  INFO      Retrieved 141 record(s) — 26921 total | This run: 22929 / $56.4120 | All-time: $617.7720
+2026-05-11 14:58:41  INFO      [317/704] Processing: 'bar' @ 33.726318,44.600467
+2026-05-11 14:58:42  INFO      Triggered sd_mp139mhzu5e2qr3b5  ('bar' @ 33.726318,44.600467)
+2026-05-11 14:58:43  INFO      [sd_mp139mhzu5e2qr3b5] Status: running
+2026-05-11 15:04:39  INFO      [sd_mp139mhzu5e2qr3b5] Status: ready
+2026-05-11 15:04:41  INFO      Skipped 105 duplicate(s)
+2026-05-11 15:04:42  INFO      Retrieved 41 record(s) — 26962 total | This run: 22970 / $56.6310 | All-time: $617.9910
+2026-05-11 15:04:42  INFO      [318/704] Processing: 'dry cleaning' @ 33.726318,44.600467
+2026-05-11 15:04:43  INFO      Triggered sd_mp13hcj12e943x7m76  ('dry cleaning' @ 33.726318,44.600467)
+2026-05-11 15:04:43  INFO      [sd_mp13hcj12e943x7m76] Status: running
+2026-05-11 15:05:51  INFO      [sd_mp13hcj12e943x7m76] Status: ready
+2026-05-11 15:05:52  INFO      Skipped 9 duplicate(s)
+2026-05-11 15:05:53  INFO      Retrieved 3 record(s) — 26965 total | This run: 22973 / $56.6490 | All-time: $618.0090
+2026-05-11 15:05:53  INFO      [319/704] Processing: 'museum' @ 33.726318,44.600467
+2026-05-11 15:05:55  INFO      Triggered sd_mp13iw182qdckyujcr  ('museum' @ 33.726318,44.600467)
+2026-05-11 15:05:55  INFO      [sd_mp13iw182qdckyujcr] Status: running
+2026-05-11 15:10:39  INFO      [sd_mp13iw182qdckyujcr] Status: ready
+2026-05-11 15:10:40  INFO      Skipped 9 duplicate(s)
+2026-05-11 15:10:41  INFO      Retrieved 16 record(s) — 26981 total | This run: 22989 / $56.6865 | All-time: $618.0465
+2026-05-11 15:10:41  INFO      [320/704] Processing: 'convenience store' @ 33.726318,44.600467
+2026-05-11 15:10:41  INFO      Triggered sd_mp13p1gw1y892swjh3  ('convenience store' @ 33.726318,44.600467)
+2026-05-11 15:10:42  INFO      [sd_mp13p1gw1y892swjh3] Status: running
+2026-05-11 15:14:32  INFO      [sd_mp13p1gw1y892swjh3] Status: ready
+2026-05-11 15:14:34  INFO      Skipped 13 duplicate(s)
+2026-05-11 15:14:35  INFO      Retrieved 179 record(s) — 27160 total | This run: 23168 / $56.9745 | All-time: $618.3345
+2026-05-11 15:14:35  INFO      [321/704] Processing: 'restaurant' @ 15.282518,44.130185
+2026-05-11 15:14:36  INFO      Triggered sd_mp13u27u1ddjw98jic  ('restaurant' @ 15.282518,44.130185)
+2026-05-11 15:14:36  INFO      [sd_mp13u27u1ddjw98jic] Status: running
+2026-05-11 15:16:49  INFO      [sd_mp13u27u1ddjw98jic] Status: ready
+2026-05-11 15:16:51  INFO      Retrieved 41 record(s) — 27201 total | This run: 23209 / $57.0360 | All-time: $618.3960
+2026-05-11 15:16:51  INFO      [322/704] Processing: 'cafe' @ 15.282518,44.130185
+2026-05-11 15:16:52  INFO      Triggered sd_mp13wzh8b4st2gmca  ('cafe' @ 15.282518,44.130185)
+2026-05-11 15:16:53  INFO      [sd_mp13wzh8b4st2gmca] Status: running
+2026-05-11 15:18:58  INFO      [sd_mp13wzh8b4st2gmca] Status: ready
+2026-05-11 15:18:59  INFO      Skipped 1 duplicate(s)
+2026-05-11 15:19:00  INFO      Retrieved 25 record(s) — 27226 total | This run: 23234 / $57.0750 | All-time: $618.4350
+2026-05-11 15:19:00  INFO      [323/704] Processing: 'hotel' @ 15.282518,44.130185
+2026-05-11 15:19:01  INFO      Triggered sd_mp13zqzdlogzktrxl  ('hotel' @ 15.282518,44.130185)
+2026-05-11 15:19:02  INFO      [sd_mp13zqzdlogzktrxl] Status: running
+2026-05-11 15:20:33  INFO      [sd_mp13zqzdlogzktrxl] Status: ready
+2026-05-11 15:20:35  INFO      Retrieved 27 record(s) — 27253 total | This run: 23261 / $57.1155 | All-time: $618.4755
+2026-05-11 15:20:35  INFO      [324/704] Processing: 'mall' @ 15.282518,44.130185
+2026-05-11 15:20:36  INFO      Triggered sd_mp141s9p18kox4xyf3  ('mall' @ 15.282518,44.130185)
+2026-05-11 15:20:37  INFO      [sd_mp141s9p18kox4xyf3] Status: running
+2026-05-11 15:21:29  INFO      [sd_mp141s9p18kox4xyf3] Status: ready
+2026-05-11 15:21:30  INFO      Retrieved 7 record(s) — 27260 total | This run: 23268 / $57.1260 | All-time: $618.4860
+2026-05-11 15:21:30  INFO      [325/704] Processing: 'gym' @ 15.282518,44.130185
+2026-05-11 15:21:31  INFO      Triggered sd_mp142yvk6fr978dga  ('gym' @ 15.282518,44.130185)
+2026-05-11 15:21:32  INFO      [sd_mp142yvk6fr978dga] Status: running
+2026-05-11 15:23:21  INFO      [sd_mp142yvk6fr978dga] Status: ready
+2026-05-11 15:23:23  INFO      Retrieved 0 record(s) — 27260 total | This run: 23268 / $57.1260 | All-time: $618.4860
+2026-05-11 15:23:23  INFO      [326/704] Processing: 'hospital' @ 15.282518,44.130185
+2026-05-11 15:23:27  INFO      Triggered sd_mp145fzr17lpv3kiue  ('hospital' @ 15.282518,44.130185)
+2026-05-11 15:23:28  INFO      [sd_mp145fzr17lpv3kiue] Status: running
+2026-05-11 15:25:23  INFO      [sd_mp145fzr17lpv3kiue] Status: ready
+2026-05-11 15:25:25  INFO      Retrieved 16 record(s) — 27276 total | This run: 23284 / $57.1500 | All-time: $618.5100
+2026-05-11 15:25:25  INFO      [327/704] Processing: 'mosque' @ 15.282518,44.130185
+2026-05-11 15:25:29  INFO      Triggered sd_mp1482cy2j3vvpimt3  ('mosque' @ 15.282518,44.130185)
+2026-05-11 15:25:30  INFO      [sd_mp1482cy2j3vvpimt3] Status: running
+2026-05-11 15:29:26  INFO      [sd_mp1482cy2j3vvpimt3] Status: ready
+2026-05-11 15:29:29  INFO      Retrieved 60 record(s) — 27336 total | This run: 23344 / $57.2400 | All-time: $618.6000
+2026-05-11 15:29:29  INFO      [328/704] Processing: 'spa' @ 15.282518,44.130185
+2026-05-11 15:29:30  INFO      Triggered sd_mp14d8dy146q2khh0y  ('spa' @ 15.282518,44.130185)
+2026-05-11 15:29:31  INFO      [sd_mp14d8dy146q2khh0y] Status: running
+2026-05-11 15:31:26  INFO      [sd_mp14d8dy146q2khh0y] Status: ready
+2026-05-11 15:31:28  INFO      Retrieved 18 record(s) — 27354 total | This run: 23362 / $57.2670 | All-time: $618.6270
+2026-05-11 15:31:28  INFO      [329/704] Processing: 'cinema' @ 15.282518,44.130185
+2026-05-11 15:31:30  INFO      Triggered sd_mp14ft6e1cfqgbsh5i  ('cinema' @ 15.282518,44.130185)
+2026-05-11 15:31:31  INFO      [sd_mp14ft6e1cfqgbsh5i] Status: running
+2026-05-11 15:33:27  INFO      [sd_mp14ft6e1cfqgbsh5i] Status: ready
+2026-05-11 15:33:29  INFO      Skipped 1 duplicate(s)
+2026-05-11 15:33:29  INFO      Retrieved 6 record(s) — 27360 total | This run: 23368 / $57.2775 | All-time: $618.6375
+2026-05-11 15:33:29  INFO      [330/704] Processing: 'bakery' @ 15.282518,44.130185
+2026-05-11 15:33:31  INFO      Triggered sd_mp14idx51pev51jjr  ('bakery' @ 15.282518,44.130185)
+2026-05-11 15:33:32  INFO      [sd_mp14idx51pev51jjr] Status: running
+2026-05-11 15:35:09  INFO      [sd_mp14idx51pev51jjr] Status: ready
+2026-05-11 15:35:09  INFO      Skipped 1 duplicate(s)
+2026-05-11 15:35:10  INFO      Retrieved 0 record(s) — 27360 total | This run: 23368 / $57.2790 | All-time: $618.6390
+2026-05-11 15:35:10  INFO      [331/704] Processing: 'clothes' @ 15.282518,44.130185
+2026-05-11 15:35:11  INFO      Triggered sd_mp14kjld12kq0bfzxw  ('clothes' @ 15.282518,44.130185)
+2026-05-11 15:35:12  INFO      [sd_mp14kjld12kq0bfzxw] Status: running
+2026-05-11 15:39:02  INFO      [sd_mp14kjld12kq0bfzxw] Status: ready
+2026-05-11 15:39:05  INFO      Retrieved 62 record(s) — 27422 total | This run: 23430 / $57.3720 | All-time: $618.7320
+2026-05-11 15:39:05  INFO      [332/704] Processing: 'library' @ 15.282518,44.130185
+2026-05-11 15:39:06  INFO      Triggered sd_mp14pkk54qch8ddo1  ('library' @ 15.282518,44.130185)
+2026-05-11 15:39:06  INFO      [sd_mp14pkk54qch8ddo1] Status: running
+2026-05-11 15:41:34  INFO      [sd_mp14pkk54qch8ddo1] Status: ready
+2026-05-11 15:41:36  INFO      Retrieved 7 record(s) — 27429 total | This run: 23437 / $57.3825 | All-time: $618.7425
+2026-05-11 15:41:36  INFO      [333/704] Processing: 'bar' @ 15.282518,44.130185
+2026-05-11 15:41:37  INFO      Triggered sd_mp14staw140aaile3v  ('bar' @ 15.282518,44.130185)
+2026-05-11 15:41:38  INFO      [sd_mp14staw140aaile3v] Status: running
+2026-05-11 15:46:15  INFO      [sd_mp14staw140aaile3v] Status: ready
+2026-05-11 15:46:18  INFO      Retrieved 164 record(s) — 27593 total | This run: 23601 / $57.6285 | All-time: $618.9885
+2026-05-11 15:46:18  INFO      [334/704] Processing: 'dry cleaning' @ 15.282518,44.130185
+2026-05-11 15:46:18  INFO      Triggered sd_mp14yuem2ddqtezn4w  ('dry cleaning' @ 15.282518,44.130185)
+2026-05-11 15:46:19  INFO      [sd_mp14yuem2ddqtezn4w] Status: running
+2026-05-11 15:52:11  INFO      [sd_mp14yuem2ddqtezn4w] Status: ready
+2026-05-11 15:52:12  INFO      Skipped 1 duplicate(s)
+2026-05-11 15:52:13  INFO      Retrieved 217 record(s) — 27810 total | This run: 23818 / $57.9555 | All-time: $619.3155
+2026-05-11 15:52:13  INFO      [335/704] Processing: 'museum' @ 15.282518,44.130185
+2026-05-11 15:52:14  INFO      Triggered sd_mp156gnu2fyyugqwe4  ('museum' @ 15.282518,44.130185)
+2026-05-11 15:52:15  INFO      [sd_mp156gnu2fyyugqwe4] Status: running
+2026-05-11 15:53:39  INFO      [sd_mp156gnu2fyyugqwe4] Status: ready
+2026-05-11 15:53:41  INFO      Retrieved 10 record(s) — 27820 total | This run: 23828 / $57.9705 | All-time: $619.3305
+2026-05-11 15:53:41  INFO      [336/704] Processing: 'convenience store' @ 15.282518,44.130185
+2026-05-11 15:53:42  INFO      Triggered sd_mp158chl1b3igryiu1  ('convenience store' @ 15.282518,44.130185)
+2026-05-11 15:53:42  INFO      [sd_mp158chl1b3igryiu1] Status: running
+2026-05-11 15:56:23  INFO      [sd_mp158chl1b3igryiu1] Status: ready
+2026-05-11 15:56:25  INFO      Retrieved 14 record(s) — 27834 total | This run: 23842 / $57.9915 | All-time: $619.3515
+2026-05-11 15:56:25  INFO      [337/704] Processing: 'restaurant' @ 14.522518,44.385214
+2026-05-11 15:56:26  INFO      Triggered sd_mp15bv3i2r5z202o  ('restaurant' @ 14.522518,44.385214)
+2026-05-11 15:56:27  INFO      [sd_mp15bv3i2r5z202o] Status: running
+2026-05-11 15:57:18  INFO      [sd_mp15bv3i2r5z202o] Status: ready
+2026-05-11 15:57:19  INFO      Retrieved 5 record(s) — 27839 total | This run: 23847 / $57.9990 | All-time: $619.3590
+2026-05-11 15:57:19  INFO      [338/704] Processing: 'cafe' @ 14.522518,44.385214
+2026-05-11 15:57:20  INFO      Triggered sd_mp15d0yl13vgu2u23t  ('cafe' @ 14.522518,44.385214)
+2026-05-11 15:57:21  INFO      [sd_mp15d0yl13vgu2u23t] Status: running
+2026-05-11 15:59:32  INFO      [sd_mp15d0yl13vgu2u23t] Status: ready
+2026-05-11 15:59:33  INFO      Retrieved 2 record(s) — 27841 total | This run: 23849 / $58.0020 | All-time: $619.3620
+2026-05-11 15:59:33  INFO      [339/704] Processing: 'hotel' @ 14.522518,44.385214
+2026-05-11 15:59:34  INFO      Triggered sd_mp15fwcj151kg98zqe  ('hotel' @ 14.522518,44.385214)
+2026-05-11 15:59:35  INFO      [sd_mp15fwcj151kg98zqe] Status: running
+2026-05-11 16:01:57  INFO      [sd_mp15fwcj151kg98zqe] Status: ready
+2026-05-11 16:01:59  INFO      Retrieved 64 record(s) — 27905 total | This run: 23913 / $58.0980 | All-time: $619.4580
+2026-05-11 16:01:59  INFO      [340/704] Processing: 'mall' @ 14.522518,44.385214
+2026-05-11 16:02:01  INFO      Triggered sd_mp15j1ng28y1trd0r  ('mall' @ 14.522518,44.385214)
+2026-05-11 16:02:02  INFO      [sd_mp15j1ng28y1trd0r] Status: running
+2026-05-11 16:04:58  INFO      [sd_mp15j1ng28y1trd0r] Status: ready
+2026-05-11 16:05:00  INFO      Retrieved 170 record(s) — 28075 total | This run: 24083 / $58.3530 | All-time: $619.7130
+2026-05-11 16:05:00  INFO      [341/704] Processing: 'gym' @ 14.522518,44.385214
+2026-05-11 16:05:01  INFO      Triggered sd_mp15mwg31tc2bvpyl4  ('gym' @ 14.522518,44.385214)
+2026-05-11 16:05:02  INFO      [sd_mp15mwg31tc2bvpyl4] Status: running
+2026-05-11 16:07:52  INFO      [sd_mp15mwg31tc2bvpyl4] Status: ready
+2026-05-11 16:07:54  INFO      Skipped 3 duplicate(s)
+2026-05-11 16:07:55  INFO      Retrieved 250 record(s) — 28325 total | This run: 24333 / $58.7325 | All-time: $620.0925
+2026-05-11 16:07:55  INFO      [342/704] Processing: 'hospital' @ 14.522518,44.385214
+2026-05-11 16:07:56  INFO      Triggered sd_mp15qn8w4kjqdprcd  ('hospital' @ 14.522518,44.385214)
+2026-05-11 16:07:56  INFO      [sd_mp15qn8w4kjqdprcd] Status: running
+2026-05-11 16:08:59  INFO      [sd_mp15qn8w4kjqdprcd] Status: ready
+2026-05-11 16:09:01  INFO      Retrieved 2 record(s) — 28327 total | This run: 24335 / $58.7355 | All-time: $620.0955
+2026-05-11 16:09:01  INFO      [343/704] Processing: 'mosque' @ 14.522518,44.385214
+2026-05-11 16:09:02  INFO      Triggered sd_mp15s2ls2cw0o0n7rv  ('mosque' @ 14.522518,44.385214)
+2026-05-11 16:09:03  INFO      [sd_mp15s2ls2cw0o0n7rv] Status: running
+2026-05-11 16:11:02  INFO      [sd_mp15s2ls2cw0o0n7rv] Status: ready
+2026-05-11 16:11:06  INFO      Retrieved 178 record(s) — 28505 total | This run: 24513 / $59.0025 | All-time: $620.3625
+2026-05-11 16:11:06  INFO      [344/704] Processing: 'spa' @ 14.522518,44.385214
+2026-05-11 16:11:07  INFO      Triggered sd_mp15ur9o1ygxl2jfcw  ('spa' @ 14.522518,44.385214)
+2026-05-11 16:11:08  INFO      [sd_mp15ur9o1ygxl2jfcw] Status: running
+2026-05-11 16:14:50  INFO      [sd_mp15ur9o1ygxl2jfcw] Status: ready
+2026-05-11 16:14:52  INFO      Skipped 48 duplicate(s)
+2026-05-11 16:14:52  INFO      Retrieved 62 record(s) — 28567 total | This run: 24575 / $59.1675 | All-time: $620.5275
+2026-05-11 16:14:52  INFO      [345/704] Processing: 'cinema' @ 14.522518,44.385214
+2026-05-11 16:14:53  INFO      Triggered sd_mp15zll2nkh14d5w4  ('cinema' @ 14.522518,44.385214)
+2026-05-11 16:14:54  INFO      [sd_mp15zll2nkh14d5w4] Status: running
+2026-05-11 16:18:33  INFO      [sd_mp15zll2nkh14d5w4] Status: ready
+2026-05-11 16:18:35  INFO      Skipped 2 duplicate(s)
+2026-05-11 16:18:36  INFO      Retrieved 183 record(s) — 28750 total | This run: 24758 / $59.4450 | All-time: $620.8050
+2026-05-11 16:18:36  INFO      [346/704] Processing: 'bakery' @ 14.522518,44.385214
+2026-05-11 16:18:38  INFO      Triggered sd_mp164elmtmcwskn5l  ('bakery' @ 14.522518,44.385214)
+2026-05-11 16:18:38  INFO      [sd_mp164elmtmcwskn5l] Status: running
+2026-05-11 16:19:07  INFO      [sd_mp164elmtmcwskn5l] Status: ready
+2026-05-11 16:19:08  INFO      Retrieved 4 record(s) — 28754 total | This run: 24762 / $59.4510 | All-time: $620.8110
+2026-05-11 16:19:08  INFO      [347/704] Processing: 'clothes' @ 14.522518,44.385214
+2026-05-11 16:19:09  INFO      Triggered sd_mp16533l1t7sy8qhgl  ('clothes' @ 14.522518,44.385214)
+2026-05-11 16:19:10  INFO      [sd_mp16533l1t7sy8qhgl] Status: running
+2026-05-11 16:23:28  INFO      [sd_mp16533l1t7sy8qhgl] Status: ready
+2026-05-11 16:23:30  INFO      Skipped 3 duplicate(s)
+2026-05-11 16:23:31  INFO      Retrieved 161 record(s) — 28915 total | This run: 24923 / $59.6970 | All-time: $621.0570
+2026-05-11 16:23:31  INFO      [348/704] Processing: 'library' @ 14.522518,44.385214
+2026-05-11 16:23:32  INFO      Triggered sd_mp16apia2omebyfs4x  ('library' @ 14.522518,44.385214)
+2026-05-11 16:23:32  INFO      [sd_mp16apia2omebyfs4x] Status: running
+2026-05-11 16:28:30  INFO      [sd_mp16apia2omebyfs4x] Status: ready
+2026-05-11 16:28:33  INFO      Retrieved 65 record(s) — 28980 total | This run: 24988 / $59.7945 | All-time: $621.1545
+2026-05-11 16:28:33  INFO      [349/704] Processing: 'bar' @ 14.522518,44.385214
+2026-05-11 16:28:34  INFO      Triggered sd_mp16h6vf1bq2y3o0ba  ('bar' @ 14.522518,44.385214)
+2026-05-11 16:28:35  INFO      [sd_mp16h6vf1bq2y3o0ba] Status: running
+2026-05-11 16:31:03  INFO      [sd_mp16h6vf1bq2y3o0ba] Status: ready
+2026-05-11 16:31:04  INFO      Skipped 2 duplicate(s)
+2026-05-11 16:31:05  INFO      Retrieved 41 record(s) — 29021 total | This run: 25029 / $59.8590 | All-time: $621.2190
+2026-05-11 16:31:05  INFO      [350/704] Processing: 'dry cleaning' @ 14.522518,44.385214
+2026-05-11 16:31:06  INFO      Triggered sd_mp16kg98vpgao9n53  ('dry cleaning' @ 14.522518,44.385214)
+2026-05-11 16:31:07  INFO      [sd_mp16kg98vpgao9n53] Status: running
+2026-05-11 16:32:03  INFO      [sd_mp16kg98vpgao9n53] Status: ready
+2026-05-11 16:32:05  INFO      Retrieved 2 record(s) — 29023 total | This run: 25031 / $59.8620 | All-time: $621.2220
+2026-05-11 16:32:05  INFO      [351/704] Processing: 'museum' @ 14.522518,44.385214
+2026-05-11 16:32:06  INFO      Triggered sd_mp16lqbl6jde5nks2  ('museum' @ 14.522518,44.385214)
+2026-05-11 16:32:07  INFO      [sd_mp16lqbl6jde5nks2] Status: running
+2026-05-11 16:33:15  INFO      [sd_mp16lqbl6jde5nks2] Status: ready
+2026-05-11 16:33:16  INFO      Retrieved 11 record(s) — 29034 total | This run: 25042 / $59.8785 | All-time: $621.2385
+2026-05-11 16:33:16  INFO      [352/704] Processing: 'convenience store' @ 14.522518,44.385214
+2026-05-11 16:33:17  INFO      Triggered sd_mp16n9c31bc8zcynks  ('convenience store' @ 14.522518,44.385214)
+2026-05-11 16:33:18  INFO      [sd_mp16n9c31bc8zcynks] Status: running
+2026-05-11 16:37:00  INFO      [sd_mp16n9c31bc8zcynks] Status: ready
+2026-05-11 16:37:02  INFO      Retrieved 74 record(s) — 29108 total | This run: 25116 / $59.9895 | All-time: $621.3495
+2026-05-11 16:37:02  INFO      [353/704] Processing: 'restaurant' @ 14.785818,42.945636
+2026-05-11 16:37:03  INFO      Triggered sd_mp16s3g427mc48h3nf  ('restaurant' @ 14.785818,42.945636)
+2026-05-11 16:37:04  INFO      [sd_mp16s3g427mc48h3nf] Status: running
+2026-05-11 16:41:42  INFO      [sd_mp16s3g427mc48h3nf] Status: ready
+2026-05-11 16:41:45  INFO      Retrieved 161 record(s) — 29269 total | This run: 25277 / $60.2310 | All-time: $621.5910
+2026-05-11 16:41:45  INFO      [354/704] Processing: 'cafe' @ 14.785818,42.945636
+2026-05-11 16:41:46  INFO      Triggered sd_mp16y5wg28vyybl47r  ('cafe' @ 14.785818,42.945636)
+2026-05-11 16:41:47  INFO      [sd_mp16y5wg28vyybl47r] Status: running
+2026-05-11 16:48:33  INFO      [sd_mp16y5wg28vyybl47r] Status: ready
+2026-05-11 16:48:35  INFO      Skipped 32 duplicate(s)
+2026-05-11 16:48:36  INFO      Retrieved 206 record(s) — 29475 total | This run: 25483 / $60.5880 | All-time: $621.9480
+2026-05-11 16:48:36  INFO      [355/704] Processing: 'hotel' @ 14.785818,42.945636
+2026-05-11 16:48:37  INFO      Triggered sd_mp176yvy2dkagcxxc3  ('hotel' @ 14.785818,42.945636)
+2026-05-11 16:48:37  INFO      [sd_mp176yvy2dkagcxxc3] Status: running
+2026-05-11 16:50:36  INFO      [sd_mp176yvy2dkagcxxc3] Status: ready
+2026-05-11 16:50:39  INFO      Retrieved 49 record(s) — 29524 total | This run: 25532 / $60.6615 | All-time: $622.0215
+2026-05-11 16:50:39  INFO      [356/704] Processing: 'mall' @ 14.785818,42.945636
+2026-05-11 16:50:39  INFO      Triggered sd_mp179lh61fwf8op185  ('mall' @ 14.785818,42.945636)
+2026-05-11 16:50:41  INFO      [sd_mp179lh61fwf8op185] Status: running
+2026-05-11 16:54:28  INFO      [sd_mp179lh61fwf8op185] Status: ready
+2026-05-11 16:54:30  INFO      Retrieved 1 record(s) — 29525 total | This run: 25533 / $60.6630 | All-time: $622.0230
+2026-05-11 16:54:30  INFO      [357/704] Processing: 'gym' @ 14.785818,42.945636
+2026-05-11 16:54:31  INFO      Triggered sd_mp17ek3i1t401xfy47  ('gym' @ 14.785818,42.945636)
+2026-05-11 16:54:31  INFO      [sd_mp17ek3i1t401xfy47] Status: running
+2026-05-11 16:54:54  INFO      [sd_mp17ek3i1t401xfy47] Status: ready
+2026-05-11 16:54:55  INFO      Skipped 1 duplicate(s)
+2026-05-11 16:54:56  INFO      Retrieved 4 record(s) — 29529 total | This run: 25537 / $60.6705 | All-time: $622.0305
+2026-05-11 16:54:56  INFO      [358/704] Processing: 'hospital' @ 14.785818,42.945636
+2026-05-11 16:54:57  INFO      Triggered sd_mp17f3w1exsij33il  ('hospital' @ 14.785818,42.945636)
+2026-05-11 16:54:57  INFO      [sd_mp17f3w1exsij33il] Status: running
+2026-05-11 16:57:47  INFO      [sd_mp17f3w1exsij33il] Status: ready
+2026-05-11 16:57:48  INFO      Skipped 1 duplicate(s)
+2026-05-11 16:57:49  INFO      Retrieved 3 record(s) — 29532 total | This run: 25540 / $60.6765 | All-time: $622.0365
+2026-05-11 16:57:49  INFO      [359/704] Processing: 'mosque' @ 14.785818,42.945636
+2026-05-11 16:57:50  INFO      Triggered sd_mp17itp11ass2p0x4u  ('mosque' @ 14.785818,42.945636)
+2026-05-11 16:57:51  INFO      [sd_mp17itp11ass2p0x4u] Status: running
+2026-05-11 17:00:52  INFO      [sd_mp17itp11ass2p0x4u] Status: ready
+2026-05-11 17:00:54  INFO      Retrieved 197 record(s) — 29729 total | This run: 25737 / $60.9720 | All-time: $622.3320
+2026-05-11 17:00:54  INFO      [360/704] Processing: 'spa' @ 14.785818,42.945636
+2026-05-11 17:00:56  INFO      Triggered sd_mp17mtda2c58g7qlkk  ('spa' @ 14.785818,42.945636)
+2026-05-11 17:00:57  INFO      [sd_mp17mtda2c58g7qlkk] Status: running
+2026-05-11 17:01:48  INFO      [sd_mp17mtda2c58g7qlkk] Status: ready
+2026-05-11 17:01:50  INFO      Retrieved 3 record(s) — 29732 total | This run: 25740 / $60.9765 | All-time: $622.3365
+2026-05-11 17:01:50  INFO      [361/704] Processing: 'cinema' @ 14.785818,42.945636
+2026-05-11 17:01:51  INFO      Triggered sd_mp17nzfxffovjj7qa  ('cinema' @ 14.785818,42.945636)
+2026-05-11 17:01:51  INFO      [sd_mp17nzfxffovjj7qa] Status: running
+2026-05-11 17:03:00  INFO      [sd_mp17nzfxffovjj7qa] Status: ready
+2026-05-11 17:03:01  INFO      Retrieved 2 record(s) — 29734 total | This run: 25742 / $60.9795 | All-time: $622.3395
+2026-05-11 17:03:01  INFO      [362/704] Processing: 'bakery' @ 14.785818,42.945636
+2026-05-11 17:03:02  INFO      Triggered sd_mp17pipi1i7t8cmggr  ('bakery' @ 14.785818,42.945636)
+2026-05-11 17:03:03  INFO      [sd_mp17pipi1i7t8cmggr] Status: running
+2026-05-11 17:05:49  INFO      [sd_mp17pipi1i7t8cmggr] Status: ready
+2026-05-11 17:05:51  INFO      Skipped 4 duplicate(s)
+2026-05-11 17:05:51  INFO      Retrieved 125 record(s) — 29859 total | This run: 25867 / $61.1730 | All-time: $622.5330
+2026-05-11 17:05:51  INFO      [363/704] Processing: 'clothes' @ 14.785818,42.945636
+2026-05-11 17:05:52  INFO      Triggered sd_mp17t5ux10o6jj44sk  ('clothes' @ 14.785818,42.945636)
+2026-05-11 17:05:53  INFO      [sd_mp17t5ux10o6jj44sk] Status: running
+2026-05-11 17:11:18  INFO      [sd_mp17t5ux10o6jj44sk] Status: ready
+2026-05-11 17:11:20  INFO      Retrieved 141 record(s) — 30000 total | This run: 26008 / $61.3845 | All-time: $622.7445
+2026-05-11 17:11:20  INFO      [364/704] Processing: 'library' @ 14.785818,42.945636
+2026-05-11 17:11:21  INFO      Triggered sd_mp1807skpmosk9paz  ('library' @ 14.785818,42.945636)
+2026-05-11 17:11:22  INFO      [sd_mp1807skpmosk9paz] Status: running
+2026-05-11 17:13:50  INFO      [sd_mp1807skpmosk9paz] Status: ready
+2026-05-11 17:13:52  INFO      Retrieved 47 record(s) — 30047 total | This run: 26055 / $61.4550 | All-time: $622.8150
+2026-05-11 17:13:52  INFO      [365/704] Processing: 'bar' @ 14.785818,42.945636
+2026-05-11 17:13:54  INFO      Triggered sd_mp183hcg1a4tujhiqe  ('bar' @ 14.785818,42.945636)
+2026-05-11 17:13:55  INFO      [sd_mp183hcg1a4tujhiqe] Status: running
+2026-05-11 17:16:34  INFO      [sd_mp183hcg1a4tujhiqe] Status: ready
+2026-05-11 17:16:36  INFO      Retrieved 15 record(s) — 30062 total | This run: 26070 / $61.4775 | All-time: $622.8375
+2026-05-11 17:16:36  INFO      [366/704] Processing: 'dry cleaning' @ 14.785818,42.945636
+2026-05-11 17:16:39  INFO      Triggered sd_mp1870jnhyluehp9o  ('dry cleaning' @ 14.785818,42.945636)
+2026-05-11 17:16:39  INFO      [sd_mp1870jnhyluehp9o] Status: running
+2026-05-11 17:20:13  INFO      [sd_mp1870jnhyluehp9o] Status: ready
+2026-05-11 17:20:15  INFO      Retrieved 3 record(s) — 30065 total | This run: 26073 / $61.4820 | All-time: $622.8420
+2026-05-11 17:20:15  INFO      [367/704] Processing: 'museum' @ 14.785818,42.945636
+2026-05-11 17:20:16  INFO      Triggered sd_mp18boogl9lemkywc  ('museum' @ 14.785818,42.945636)
+2026-05-11 17:20:17  INFO      [sd_mp18boogl9lemkywc] Status: running
+2026-05-11 17:23:48  INFO      [sd_mp18boogl9lemkywc] Status: ready
+2026-05-11 17:23:50  INFO      Retrieved 7 record(s) — 30072 total | This run: 26080 / $61.4925 | All-time: $622.8525
+2026-05-11 17:23:50  INFO      [368/704] Processing: 'convenience store' @ 14.785818,42.945636
+2026-05-11 17:23:50  INFO      Triggered sd_mp18g9rt2klruf5ra7  ('convenience store' @ 14.785818,42.945636)
+2026-05-11 17:23:51  INFO      [sd_mp18g9rt2klruf5ra7] Status: running
+2026-05-11 17:26:31  INFO      [sd_mp18g9rt2klruf5ra7] Status: ready
+2026-05-11 17:26:33  INFO      Retrieved 20 record(s) — 30092 total | This run: 26100 / $61.5225 | All-time: $622.8825
+2026-05-11 17:26:33  INFO      [369/704] Processing: 'restaurant' @ 13.948718,44.145866
+2026-05-11 17:26:34  INFO      Triggered sd_mp18jrso28imyfz91a  ('restaurant' @ 13.948718,44.145866)
+2026-05-11 17:26:34  INFO      [sd_mp18jrso28imyfz91a] Status: running
+2026-05-11 17:29:35  INFO      [sd_mp18jrso28imyfz91a] Status: ready
+2026-05-11 17:29:38  INFO      Retrieved 28 record(s) — 30120 total | This run: 26128 / $61.5645 | All-time: $622.9245
+2026-05-11 17:29:38  INFO      [370/704] Processing: 'cafe' @ 13.948718,44.145866
+2026-05-11 17:29:39  INFO      Triggered sd_mp18nqnn2031w99m9  ('cafe' @ 13.948718,44.145866)
+2026-05-11 17:29:39  INFO      [sd_mp18nqnn2031w99m9] Status: running
+2026-05-11 17:32:12  INFO      [sd_mp18nqnn2031w99m9] Status: ready
+2026-05-11 17:32:14  INFO      Skipped 8 duplicate(s)
+2026-05-11 17:32:15  INFO      Retrieved 100 record(s) — 30220 total | This run: 26228 / $61.7265 | All-time: $623.0865
+2026-05-11 17:32:15  INFO      [371/704] Processing: 'hotel' @ 13.948718,44.145866
+2026-05-11 17:32:16  INFO      Triggered sd_mp18r3lh5beixu8vc  ('hotel' @ 13.948718,44.145866)
+2026-05-11 17:32:16  INFO      [sd_mp18r3lh5beixu8vc] Status: running
+2026-05-11 17:35:12  INFO      [sd_mp18r3lh5beixu8vc] Status: ready
+2026-05-11 17:35:14  INFO      Retrieved 50 record(s) — 30270 total | This run: 26278 / $61.8015 | All-time: $623.1615
+2026-05-11 17:35:14  INFO      [372/704] Processing: 'mall' @ 13.948718,44.145866
+2026-05-11 17:35:16  INFO      Triggered sd_mp18uypp10z0pn15om  ('mall' @ 13.948718,44.145866)
+2026-05-11 17:35:17  INFO      [sd_mp18uypp10z0pn15om] Status: running
+2026-05-11 17:39:05  INFO      [sd_mp18uypp10z0pn15om] Status: ready
+2026-05-11 17:39:08  INFO      Retrieved 148 record(s) — 30418 total | This run: 26426 / $62.0235 | All-time: $623.3835
+2026-05-11 17:39:08  INFO      [373/704] Processing: 'gym' @ 13.948718,44.145866
+2026-05-11 17:39:09  INFO      Triggered sd_mp18zy7u4frln7xn1  ('gym' @ 13.948718,44.145866)
+2026-05-11 17:39:09  INFO      [sd_mp18zy7u4frln7xn1] Status: running
+2026-05-11 17:41:14  INFO      [sd_mp18zy7u4frln7xn1] Status: ready
+2026-05-11 17:41:16  INFO      Retrieved 25 record(s) — 30443 total | This run: 26451 / $62.0610 | All-time: $623.4210
+2026-05-11 17:41:16  INFO      [374/704] Processing: 'hospital' @ 13.948718,44.145866
+2026-05-11 17:41:17  INFO      Triggered sd_mp192p3r2h37453u5b  ('hospital' @ 13.948718,44.145866)
+2026-05-11 17:41:17  INFO      [sd_mp192p3r2h37453u5b] Status: running
+2026-05-11 17:42:20  INFO      [sd_mp192p3r2h37453u5b] Status: ready
+2026-05-11 17:42:22  INFO      Retrieved 4 record(s) — 30447 total | This run: 26455 / $62.0670 | All-time: $623.4270
+2026-05-11 17:42:22  INFO      [375/704] Processing: 'mosque' @ 13.948718,44.145866
+2026-05-11 17:42:23  INFO      Triggered sd_mp1944bqdyq6l0d0v  ('mosque' @ 13.948718,44.145866)
+2026-05-11 17:42:24  INFO      [sd_mp1944bqdyq6l0d0v] Status: running

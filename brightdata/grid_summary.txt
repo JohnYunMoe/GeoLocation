@@ -1,6 +1,6 @@
 Gulf Region Google Maps Grid Summary
 ========================================
-  Basra                     4 grid points
+  Basra                     2 grid points
   Al-Midaina                1 grid points
   Al Qurna 1                1 grid points
   Al Qurna 2                1 grid points
@@ -16,7 +16,7 @@ Gulf Region Google Maps Grid Summary
   Amarah                    1 grid points
   Baghdad                   6 grid points
   Baqubah                   1 grid points
-  Sana'a                    4 grid points
+  Sana'a                    1 grid points
   Dhamar                    1 grid points
   Hodeidah                  1 grid points
   Ibb                       1 grid points
@@ -27,13 +27,13 @@ Gulf Region Google Maps Grid Summary
   Salhabah                  1 grid points
   Khamis Mushayt            1 grid points
   Jeddah                    4 grid points
-  Medina                    4 grid points
-  Cairo                     8 grid points
+  Medina                    2 grid points
+  Cairo                     6 grid points
   Alexandria 1              1 grid points
   Alexandria 2              1 grid points
   Alexandria 3              0 grid points
 ----------------------------------------
-  Total grid points        55
-  Total requests          880  (grid points × 16 keywords)
-  Est. API records      44000
-  Estimated cost       $  66.00  ($1.5/1000 records)
+  Total grid points        46
+  Total requests          736  (grid points × 16 keywords)
+  Est. API records      36800
+  Estimated cost       $  55.20  ($1.5/1000 records)

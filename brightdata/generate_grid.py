@@ -29,8 +29,8 @@ def generate_grid(min_lat, min_lon, max_lat, max_lon, cell_size_km, keywords, co
                     "zoom_level": zoom,
                     "keyword": keyword,
                 })
-            lon += (3.5 * lon_step + lon_step)  # add extra 2.5 steps to reduce overlap between adjacent cells
-        lat += (3.5 * lat_step + lat_step)  # add extra 2.5 steps to reduce overlap between adjacent cells
+            lon += (4 * lon_step + lon_step)  # add extra steps to reduce overlap between adjacent cells
+        lat += (4 * lat_step + lat_step)  # add extra steps to reduce overlap between adjacent cells
 
     return entries
 
