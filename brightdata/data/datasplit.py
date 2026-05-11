@@ -1,17 +1,22 @@
-import json
 import random
 import os
 import shutil
+
+BASE_DIR = '/scratch/jy4017/Geolocation/data'
+AE_DIR = os.path.join(BASE_DIR, 'HPCimagesAE')
+GULF_DIR = os.path.join(BASE_DIR, 'HPCimagesgulf')
+TEST_DIR = os.path.join(BASE_DIR, 'test_set')
+TRAIN_DIR = os.path.join(BASE_DIR, 'train_set')
 
 # load all image paths from both folders into separate lists
 ae_images = []
 gulf_images = []
 
-for img_file in os.listdir('images/imagesAE'):
-    ae_images.append(f'images/imagesAE/{img_file}')
+for img_file in os.listdir(AE_DIR):
+    ae_images.append(os.path.join(AE_DIR, img_file))
 
-for img_file in os.listdir('images/imagesgulf'):
-    gulf_images.append(f'images/imagesgulf/{img_file}')
+for img_file in os.listdir(GULF_DIR):
+    gulf_images.append(os.path.join(GULF_DIR, img_file))
 
 print(f'AE images: {len(ae_images)} | Gulf images: {len(gulf_images)}')
 
@@ -27,27 +32,23 @@ train_set = ae_images[5000:] + gulf_images[5000:]
 
 print(f'Test: {len(test_set)} | Train: {len(train_set)}')
 
-
-test_dir = './test_set'
-train_dir = './train_set'
-
 for folder in [
-    os.path.join(test_dir, 'imagesAE'),
-    os.path.join(test_dir, 'imagesgulf'),
-    os.path.join(train_dir, 'imagesAE'),
-    os.path.join(train_dir, 'imagesgulf'),
+    os.path.join(TEST_DIR, 'imagesAE'),
+    os.path.join(TEST_DIR, 'imagesgulf'),
+    os.path.join(TRAIN_DIR, 'imagesAE'),
+    os.path.join(TRAIN_DIR, 'imagesgulf'),
 ]:
     os.makedirs(folder, exist_ok=True)
 
 def copy_images(image_paths, output_root):
     for image_path in image_paths:
-        region = 'imagesAE' if 'imagesAE' in image_path else 'imagesgulf'
+        region = 'imagesAE' if os.sep + 'HPCimagesAE' + os.sep in image_path else 'imagesgulf'
         destination = os.path.join(output_root, region, os.path.basename(image_path))
         shutil.copy2(image_path, destination)
 
 
-copy_images(test_set, test_dir)
-copy_images(train_set, train_dir)
+copy_images(test_set, TEST_DIR)
+copy_images(train_set, TRAIN_DIR)
 
-print(f'Saved test images to {test_dir}')
-print(f'Saved train images to {train_dir}')
+print(f'Saved test images to {TEST_DIR}')
+print(f'Saved train images to {TRAIN_DIR}')
