@@ -6,8 +6,8 @@ import os
 ae_images = []
 gulf_images = []
 
-for img_file in os.listdir('./data/images/imagesAE'):
-    ae_images.append(f'./data/images/imagesAE/{img_file}')
+for img_file in os.listdir('images/imagesAE'):
+    ae_images.append(f'images/imagesAE/{img_file}')
 
 for img_file in os.listdir('./data/images/imagesgulf'):
     gulf_images.append(f'./data/images/imagesgulf/{img_file}')
