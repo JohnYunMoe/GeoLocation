@@ -16595,3 +16595,25 @@
 2026-05-11 17:42:22  INFO      [375/704] Processing: 'mosque' @ 13.948718,44.145866
 2026-05-11 17:42:23  INFO      Triggered sd_mp1944bqdyq6l0d0v  ('mosque' @ 13.948718,44.145866)
 2026-05-11 17:42:24  INFO      [sd_mp1944bqdyq6l0d0v] Status: running
+2026-05-11 17:47:14  INFO      [sd_mp1944bqdyq6l0d0v] Status: ready
+2026-05-11 17:47:16  INFO      Skipped 5 duplicate(s)
+2026-05-11 17:47:17  INFO      Retrieved 199 record(s) — 30646 total | This run: 26654 / $62.3730 | All-time: $623.7330
+2026-05-11 17:47:17  INFO      [376/704] Processing: 'spa' @ 13.948718,44.145866
+2026-05-11 17:47:18  INFO      Triggered sd_mp19afx212751wrrz3  ('spa' @ 13.948718,44.145866)
+2026-05-11 17:47:19  INFO      [sd_mp19afx212751wrrz3] Status: running
+2026-05-11 17:49:07  INFO      [sd_mp19afx212751wrrz3] Status: ready
+2026-05-11 17:49:09  INFO      Retrieved 8 record(s) — 30654 total | This run: 26662 / $62.3850 | All-time: $623.7450
+2026-05-11 17:49:09  INFO      [377/704] Processing: 'cinema' @ 13.948718,44.145866
+2026-05-11 17:49:10  INFO      Triggered sd_mp19cu6o1c62pdoafo  ('cinema' @ 13.948718,44.145866)
+2026-05-11 17:49:10  INFO      [sd_mp19cu6o1c62pdoafo] Status: running
+2026-05-11 17:49:22  INFO      [sd_mp19cu6o1c62pdoafo] Status: ready
+2026-05-11 17:49:24  INFO      Retrieved 1 record(s) — 30655 total | This run: 26663 / $62.3865 | All-time: $623.7465
+2026-05-11 17:49:24  INFO      [378/704] Processing: 'bakery' @ 13.948718,44.145866
+2026-05-11 17:49:24  INFO      Triggered sd_mp19d5dsmga9uipe  ('bakery' @ 13.948718,44.145866)
+2026-05-11 17:49:25  INFO      [sd_mp19d5dsmga9uipe] Status: running
+2026-05-11 17:52:06  INFO      [sd_mp19d5dsmga9uipe] Status: ready
+2026-05-11 17:52:07  INFO      Skipped 2 duplicate(s)
+2026-05-11 17:52:08  INFO      Retrieved 62 record(s) — 30717 total | This run: 26725 / $62.4825 | All-time: $623.8425
+2026-05-11 17:52:08  INFO      [379/704] Processing: 'clothes' @ 13.948718,44.145866
+2026-05-11 17:52:09  INFO      Triggered sd_mp19go6fn6ma1stmv  ('clothes' @ 13.948718,44.145866)
+2026-05-11 17:52:09  INFO      [sd_mp19go6fn6ma1stmv] Status: running
