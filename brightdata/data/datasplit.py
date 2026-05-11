@@ -3,8 +3,8 @@ import os
 import shutil
 
 BASE_DIR = '/scratch/jy4017/Geolocation/data'
-AE_DIR = os.path.join(BASE_DIR, 'HPCimagesAE')
-GULF_DIR = os.path.join(BASE_DIR, 'HPCimagesgulf')
+AE_DIR = os.path.join(BASE_DIR, 'HPCimagesAE/imagesAE')
+GULF_DIR = os.path.join(BASE_DIR, 'HPCimagesgulf/imagesgulf')
 TEST_DIR = os.path.join(BASE_DIR, 'test_set')
 TRAIN_DIR = os.path.join(BASE_DIR, 'train_set')
 
@@ -32,18 +32,12 @@ train_set = ae_images[5000:] + gulf_images[5000:]
 
 print(f'Test: {len(test_set)} | Train: {len(train_set)}')
 
-for folder in [
-    os.path.join(TEST_DIR, 'imagesAE'),
-    os.path.join(TEST_DIR, 'imagesgulf'),
-    os.path.join(TRAIN_DIR, 'imagesAE'),
-    os.path.join(TRAIN_DIR, 'imagesgulf'),
-]:
-    os.makedirs(folder, exist_ok=True)
+os.makedirs(TEST_DIR, exist_ok=True)
+os.makedirs(TRAIN_DIR, exist_ok=True)
 
 def copy_images(image_paths, output_root):
     for image_path in image_paths:
-        region = 'imagesAE' if os.sep + 'HPCimagesAE' + os.sep in image_path else 'imagesgulf'
-        destination = os.path.join(output_root, region, os.path.basename(image_path))
+        destination = os.path.join(output_root, os.path.basename(image_path))
         shutil.copy2(image_path, destination)
 
 
