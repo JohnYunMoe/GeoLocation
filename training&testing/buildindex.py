@@ -112,8 +112,8 @@ print(f'Images with GPS coordinates: {matched}/{len(gallery)}')
 # ---- TEST MODE ----
 # REMOVE THIS LINE for the full run
 #gallery = gallery[:100]
-print(f'Running on {len(gallery)} images (test mode)')
-
+#print(f'Running on {len(gallery)} images (test mode)')
+print(f'Running on {len(gallery)} images')
 # ---- LOAD MODEL ----
 print('Loading Qwen3-VL-Embedding-2B...')
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
