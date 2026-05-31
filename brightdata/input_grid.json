@@ -1,2248 +1,8513 @@
 [
   {
     "country": "Yemen",
-    "lat": 13.948718,
-    "long": 44.145866,
-    "zoom_level": 14.5,
-    "keyword": "convenience store"
-  },
-  {
-    "country": "Yemen",
-    "lat": 13.572018,
-    "long": 44.004236,
+    "lat": 12.777118,
+    "long": 44.995576,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
     "country": "Yemen",
-    "lat": 13.572018,
-    "long": 44.004236,
+    "lat": 12.777118,
+    "long": 44.995576,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
     "country": "Yemen",
-    "lat": 13.572018,
-    "long": 44.004236,
+    "lat": 12.777118,
+    "long": 44.995576,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
     "country": "Yemen",
-    "lat": 13.572018,
-    "long": 44.004236,
+    "lat": 12.777118,
+    "long": 44.995576,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
     "country": "Yemen",
-    "lat": 13.572018,
-    "long": 44.004236,
+    "lat": 12.777118,
+    "long": 44.995576,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
     "country": "Yemen",
-    "lat": 13.572018,
-    "long": 44.004236,
+    "lat": 12.777118,
+    "long": 44.995576,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
     "country": "Yemen",
-    "lat": 13.572018,
-    "long": 44.004236,
+    "lat": 12.777118,
+    "long": 44.995576,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
     "country": "Yemen",
-    "lat": 13.572018,
-    "long": 44.004236,
+    "lat": 12.777118,
+    "long": 44.995576,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
     "country": "Yemen",
-    "lat": 13.572018,
-    "long": 44.004236,
+    "lat": 12.777118,
+    "long": 44.995576,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
     "country": "Yemen",
-    "lat": 13.572018,
-    "long": 44.004236,
+    "lat": 12.777118,
+    "long": 44.995576,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
     "country": "Yemen",
-    "lat": 13.572018,
-    "long": 44.004236,
+    "lat": 12.777118,
+    "long": 44.995576,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
     "country": "Yemen",
-    "lat": 13.572018,
-    "long": 44.004236,
+    "lat": 12.777118,
+    "long": 44.995576,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
     "country": "Yemen",
-    "lat": 13.572018,
-    "long": 44.004236,
+    "lat": 12.777118,
+    "long": 44.995576,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
     "country": "Yemen",
-    "lat": 13.572018,
-    "long": 44.004236,
+    "lat": 12.777118,
+    "long": 44.995576,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
     "country": "Yemen",
-    "lat": 13.572018,
-    "long": 44.004236,
+    "lat": 12.777118,
+    "long": 44.995576,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
     "country": "Yemen",
-    "lat": 13.572018,
-    "long": 44.004236,
+    "lat": 12.777118,
+    "long": 44.995576,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
     "country": "Yemen",
-    "lat": 14.516018,
-    "long": 46.835213,
+    "lat": 12.857018,
+    "long": 44.973183,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
     "country": "Yemen",
-    "lat": 14.516018,
-    "long": 46.835213,
+    "lat": 12.857018,
+    "long": 44.973183,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
     "country": "Yemen",
-    "lat": 14.516018,
-    "long": 46.835213,
+    "lat": 12.857018,
+    "long": 44.973183,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
     "country": "Yemen",
-    "lat": 14.516018,
-    "long": 46.835213,
+    "lat": 12.857018,
+    "long": 44.973183,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
     "country": "Yemen",
-    "lat": 14.516018,
-    "long": 46.835213,
+    "lat": 12.857018,
+    "long": 44.973183,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
     "country": "Yemen",
-    "lat": 14.516018,
-    "long": 46.835213,
+    "lat": 12.857018,
+    "long": 44.973183,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
     "country": "Yemen",
-    "lat": 14.516018,
-    "long": 46.835213,
+    "lat": 12.857018,
+    "long": 44.973183,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
     "country": "Yemen",
-    "lat": 14.516018,
-    "long": 46.835213,
+    "lat": 12.857018,
+    "long": 44.973183,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
     "country": "Yemen",
-    "lat": 14.516018,
-    "long": 46.835213,
+    "lat": 12.857018,
+    "long": 44.973183,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
     "country": "Yemen",
-    "lat": 14.516018,
-    "long": 46.835213,
+    "lat": 12.857018,
+    "long": 44.973183,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
     "country": "Yemen",
-    "lat": 14.516018,
-    "long": 46.835213,
+    "lat": 12.857018,
+    "long": 44.973183,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
     "country": "Yemen",
-    "lat": 14.516018,
-    "long": 46.835213,
+    "lat": 12.857018,
+    "long": 44.973183,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
     "country": "Yemen",
-    "lat": 14.516018,
-    "long": 46.835213,
+    "lat": 12.857018,
+    "long": 44.973183,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
     "country": "Yemen",
-    "lat": 14.516018,
-    "long": 46.835213,
+    "lat": 12.857018,
+    "long": 44.973183,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
     "country": "Yemen",
-    "lat": 14.516018,
-    "long": 46.835213,
+    "lat": 12.857018,
+    "long": 44.973183,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
     "country": "Yemen",
-    "lat": 14.516018,
-    "long": 46.835213,
+    "lat": 12.857018,
+    "long": 44.973183,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
     "country": "Yemen",
-    "lat": 16.944218,
-    "long": 43.767335,
+    "lat": 12.817318,
+    "long": 45.041878,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
     "country": "Yemen",
-    "lat": 16.944218,
-    "long": 43.767335,
+    "lat": 12.817318,
+    "long": 45.041878,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
     "country": "Yemen",
-    "lat": 16.944218,
-    "long": 43.767335,
+    "lat": 12.817318,
+    "long": 45.041878,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
     "country": "Yemen",
-    "lat": 16.944218,
-    "long": 43.767335,
+    "lat": 12.817318,
+    "long": 45.041878,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
     "country": "Yemen",
-    "lat": 16.944218,
-    "long": 43.767335,
+    "lat": 12.817318,
+    "long": 45.041878,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
     "country": "Yemen",
-    "lat": 16.944218,
-    "long": 43.767335,
+    "lat": 12.817318,
+    "long": 45.041878,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
     "country": "Yemen",
-    "lat": 16.944218,
-    "long": 43.767335,
+    "lat": 12.817318,
+    "long": 45.041878,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
     "country": "Yemen",
-    "lat": 16.944218,
-    "long": 43.767335,
+    "lat": 12.817318,
+    "long": 45.041878,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
     "country": "Yemen",
-    "lat": 16.944218,
-    "long": 43.767335,
+    "lat": 12.817318,
+    "long": 45.041878,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
     "country": "Yemen",
-    "lat": 16.944218,
-    "long": 43.767335,
+    "lat": 12.817318,
+    "long": 45.041878,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
     "country": "Yemen",
-    "lat": 16.944218,
-    "long": 43.767335,
+    "lat": 12.817318,
+    "long": 45.041878,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
     "country": "Yemen",
-    "lat": 16.944218,
-    "long": 43.767335,
+    "lat": 12.817318,
+    "long": 45.041878,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
     "country": "Yemen",
-    "lat": 16.944218,
-    "long": 43.767335,
+    "lat": 12.817318,
+    "long": 45.041878,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
     "country": "Yemen",
-    "lat": 16.944218,
-    "long": 43.767335,
+    "lat": 12.817318,
+    "long": 45.041878,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
     "country": "Yemen",
-    "lat": 16.944218,
-    "long": 43.767335,
+    "lat": 12.817318,
+    "long": 45.041878,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
     "country": "Yemen",
-    "lat": 16.944218,
-    "long": 43.767335,
+    "lat": 12.817318,
+    "long": 45.041878,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 16.862118,
-    "long": 42.563831,
+    "lat": 21.326418,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 16.862118,
-    "long": 42.563831,
+    "lat": 21.326418,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 16.862118,
-    "long": 42.563831,
+    "lat": 21.326418,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 16.862118,
-    "long": 42.563831,
+    "lat": 21.326418,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 16.862118,
-    "long": 42.563831,
+    "lat": 21.326418,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 16.862118,
-    "long": 42.563831,
+    "lat": 21.326418,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 16.862118,
-    "long": 42.563831,
+    "lat": 21.326418,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 16.862118,
-    "long": 42.563831,
+    "lat": 21.326418,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 16.862118,
-    "long": 42.563831,
+    "lat": 21.326418,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 16.862118,
-    "long": 42.563831,
+    "lat": 21.326418,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 16.862118,
-    "long": 42.563831,
+    "lat": 21.326418,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 16.862118,
-    "long": 42.563831,
+    "lat": 21.326418,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 16.862118,
-    "long": 42.563831,
+    "lat": 21.326418,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 16.862118,
-    "long": 42.563831,
+    "lat": 21.326418,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 16.862118,
-    "long": 42.563831,
+    "lat": 21.326418,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 16.862118,
-    "long": 42.563831,
+    "lat": 21.326418,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 17.161718,
-    "long": 42.629958,
+    "lat": 21.326418,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 17.161718,
-    "long": 42.629958,
+    "lat": 21.326418,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 17.161718,
-    "long": 42.629958,
+    "lat": 21.326418,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 17.161718,
-    "long": 42.629958,
+    "lat": 21.326418,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 17.161718,
-    "long": 42.629958,
+    "lat": 21.326418,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 17.161718,
-    "long": 42.629958,
+    "lat": 21.326418,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 17.161718,
-    "long": 42.629958,
+    "lat": 21.326418,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 17.161718,
-    "long": 42.629958,
+    "lat": 21.326418,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 17.161718,
-    "long": 42.629958,
+    "lat": 21.326418,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 17.161718,
-    "long": 42.629958,
+    "lat": 21.326418,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 17.161718,
-    "long": 42.629958,
+    "lat": 21.326418,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 17.161718,
-    "long": 42.629958,
+    "lat": 21.326418,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 17.161718,
-    "long": 42.629958,
+    "lat": 21.326418,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 17.161718,
-    "long": 42.629958,
+    "lat": 21.326418,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 17.161718,
-    "long": 42.629958,
+    "lat": 21.326418,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 17.161718,
-    "long": 42.629958,
+    "lat": 21.326418,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 18.265318,
-    "long": 42.68898,
+    "lat": 21.506598,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 18.265318,
-    "long": 42.68898,
+    "lat": 21.506598,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 18.265318,
-    "long": 42.68898,
+    "lat": 21.506598,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 18.265318,
-    "long": 42.68898,
+    "lat": 21.506598,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 18.265318,
-    "long": 42.68898,
+    "lat": 21.506598,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 18.265318,
-    "long": 42.68898,
+    "lat": 21.506598,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 18.265318,
-    "long": 42.68898,
+    "lat": 21.506598,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 18.265318,
-    "long": 42.68898,
+    "lat": 21.506598,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 18.265318,
-    "long": 42.68898,
+    "lat": 21.506598,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 18.265318,
-    "long": 42.68898,
+    "lat": 21.506598,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 18.265318,
-    "long": 42.68898,
+    "lat": 21.506598,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 18.265318,
-    "long": 42.68898,
+    "lat": 21.506598,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 18.265318,
-    "long": 42.68898,
+    "lat": 21.506598,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 18.265318,
-    "long": 42.68898,
+    "lat": 21.506598,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 18.265318,
-    "long": 42.68898,
+    "lat": 21.506598,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 18.265318,
-    "long": 42.68898,
+    "lat": 21.506598,
+    "long": 39.692655,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.117477,
+    "lat": 21.506598,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.117477,
+    "lat": 21.506598,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.117477,
+    "lat": 21.506598,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.117477,
+    "lat": 21.506598,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.117477,
+    "lat": 21.506598,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.117477,
+    "lat": 21.506598,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.117477,
+    "lat": 21.506598,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.117477,
+    "lat": 21.506598,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.117477,
+    "lat": 21.506598,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.117477,
+    "lat": 21.506598,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.117477,
+    "lat": 21.506598,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.117477,
+    "lat": 21.506598,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.117477,
+    "lat": 21.506598,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.117477,
+    "lat": 21.506598,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.117477,
+    "lat": 21.506598,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.117477,
+    "lat": 21.506598,
+    "long": 39.886204,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.311246,
+    "lat": 28.311418,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.311246,
+    "lat": 28.311418,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.311246,
+    "lat": 28.311418,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.311246,
+    "lat": 28.311418,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.311246,
+    "lat": 28.311418,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.311246,
+    "lat": 28.311418,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.311246,
+    "lat": 28.311418,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.311246,
+    "lat": 28.311418,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.311246,
+    "lat": 28.311418,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.311246,
+    "lat": 28.311418,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.311246,
+    "lat": 28.311418,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.311246,
+    "lat": 28.311418,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.311246,
+    "lat": 28.311418,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.311246,
+    "lat": 28.311418,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.311246,
+    "lat": 28.311418,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.438218,
-    "long": 39.311246,
+    "lat": 28.311418,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.117477,
+    "lat": 28.311418,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.117477,
+    "lat": 28.311418,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.117477,
+    "lat": 28.311418,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.117477,
+    "lat": 28.311418,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.117477,
+    "lat": 28.311418,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.117477,
+    "lat": 28.311418,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.117477,
+    "lat": 28.311418,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.117477,
+    "lat": 28.311418,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.117477,
+    "lat": 28.311418,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.117477,
+    "lat": 28.311418,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.117477,
+    "lat": 28.311418,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.117477,
+    "lat": 28.311418,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.117477,
+    "lat": 28.311418,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.117477,
+    "lat": 28.311418,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.117477,
+    "lat": 28.311418,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.117477,
+    "lat": 28.311418,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.311246,
+    "lat": 28.491598,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.311246,
+    "lat": 28.491598,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.311246,
+    "lat": 28.491598,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.311246,
+    "lat": 28.491598,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.311246,
+    "lat": 28.491598,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.311246,
+    "lat": 28.491598,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.311246,
+    "lat": 28.491598,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.311246,
+    "lat": 28.491598,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.311246,
+    "lat": 28.491598,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.311246,
+    "lat": 28.491598,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.311246,
+    "lat": 28.491598,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.311246,
+    "lat": 28.491598,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.311246,
+    "lat": 28.491598,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.311246,
+    "lat": 28.491598,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.311246,
+    "lat": 28.491598,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 21.618398,
-    "long": 39.311246,
+    "lat": 28.491598,
+    "long": 36.466585,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.469896,
+    "lat": 28.491598,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.469896,
+    "lat": 28.491598,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.469896,
+    "lat": 28.491598,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.469896,
+    "lat": 28.491598,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.469896,
+    "lat": 28.491598,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.469896,
+    "lat": 28.491598,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.469896,
+    "lat": 28.491598,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.469896,
+    "lat": 28.491598,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.469896,
+    "lat": 28.491598,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.469896,
+    "lat": 28.491598,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.469896,
+    "lat": 28.491598,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.469896,
+    "lat": 28.491598,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.469896,
+    "lat": 28.491598,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.469896,
+    "lat": 28.491598,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.469896,
+    "lat": 28.491598,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.469896,
+    "lat": 28.491598,
+    "long": 36.671433,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.667851,
+    "lat": 18.213318,
+    "long": 42.48207,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.667851,
+    "lat": 18.213318,
+    "long": 42.48207,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.667851,
+    "lat": 18.213318,
+    "long": 42.48207,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.667851,
+    "lat": 18.213318,
+    "long": 42.48207,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.667851,
+    "lat": 18.213318,
+    "long": 42.48207,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.667851,
+    "lat": 18.213318,
+    "long": 42.48207,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.667851,
+    "lat": 18.213318,
+    "long": 42.48207,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.667851,
+    "lat": 18.213318,
+    "long": 42.48207,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.667851,
+    "lat": 18.213318,
+    "long": 42.48207,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.667851,
+    "lat": 18.213318,
+    "long": 42.48207,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.667851,
+    "lat": 18.213318,
+    "long": 42.48207,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.667851,
+    "lat": 18.213318,
+    "long": 42.48207,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.667851,
+    "lat": 18.213318,
+    "long": 42.48207,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.667851,
+    "lat": 18.213318,
+    "long": 42.48207,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.667851,
+    "lat": 18.213318,
+    "long": 42.48207,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
     "country": "Saudi Arabia",
-    "lat": 24.391018,
-    "long": 39.667851,
+    "lat": 18.213318,
+    "long": 42.48207,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.310812,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.310812,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.310812,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.310812,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.310812,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.310812,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.310812,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.310812,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.310812,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.310812,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.310812,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.310812,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.310812,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.310812,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.310812,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.310812,
+    "country": "Saudi Arabia",
+    "lat": 27.404218,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.518914,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.518914,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.518914,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.518914,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.518914,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.518914,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.518914,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.518914,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.518914,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.518914,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.518914,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.518914,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.518914,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.518914,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.518914,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
-    "country": "Egypt",
-    "lat": 29.896118,
-    "long": 31.518914,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.557119,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.10271,
+    "country": "Saudi Arabia",
+    "lat": 27.584398,
+    "long": 41.760313,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.310812,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.310812,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.310812,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.310812,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.310812,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.310812,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.310812,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.310812,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.310812,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.310812,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.310812,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.310812,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.310812,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.310812,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.310812,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.310812,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.518914,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.518914,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.518914,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.518914,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.518914,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.518914,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.518914,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.518914,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.518914,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.518914,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.518914,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.518914,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.518914,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.518914,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.518914,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
-    "country": "Egypt",
-    "lat": 30.076298,
-    "long": 31.518914,
+    "country": "Jordan",
+    "lat": 31.819018,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
-    "country": "Egypt",
-    "lat": 31.196618,
-    "long": 29.898463,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
-    "country": "Egypt",
-    "lat": 31.196618,
-    "long": 29.898463,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
-    "country": "Egypt",
-    "lat": 31.196618,
-    "long": 29.898463,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
-    "country": "Egypt",
-    "lat": 31.196618,
-    "long": 29.898463,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
-    "country": "Egypt",
-    "lat": 31.196618,
-    "long": 29.898463,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
-    "country": "Egypt",
-    "lat": 31.196618,
-    "long": 29.898463,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
-    "country": "Egypt",
-    "lat": 31.196618,
-    "long": 29.898463,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
-    "country": "Egypt",
-    "lat": 31.196618,
-    "long": 29.898463,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
-    "country": "Egypt",
-    "lat": 31.196618,
-    "long": 29.898463,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
-    "country": "Egypt",
-    "lat": 31.196618,
-    "long": 29.898463,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
-    "country": "Egypt",
-    "lat": 31.196618,
-    "long": 29.898463,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
-    "country": "Egypt",
-    "lat": 31.196618,
-    "long": 29.898463,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
-    "country": "Egypt",
-    "lat": 31.196618,
-    "long": 29.898463,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
-    "country": "Egypt",
-    "lat": 31.196618,
-    "long": 29.898463,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
-    "country": "Egypt",
-    "lat": 31.196618,
-    "long": 29.898463,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
-    "country": "Egypt",
-    "lat": 31.196618,
-    "long": 29.898463,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.778436,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   },
   {
-    "country": "Egypt",
-    "lat": 31.237818,
-    "long": 29.988872,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "restaurant"
   },
   {
-    "country": "Egypt",
-    "lat": 31.237818,
-    "long": 29.988872,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "cafe"
   },
   {
-    "country": "Egypt",
-    "lat": 31.237818,
-    "long": 29.988872,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "hotel"
   },
   {
-    "country": "Egypt",
-    "lat": 31.237818,
-    "long": 29.988872,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "mall"
   },
   {
-    "country": "Egypt",
-    "lat": 31.237818,
-    "long": 29.988872,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "gym"
   },
   {
-    "country": "Egypt",
-    "lat": 31.237818,
-    "long": 29.988872,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "hospital"
   },
   {
-    "country": "Egypt",
-    "lat": 31.237818,
-    "long": 29.988872,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "mosque"
   },
   {
-    "country": "Egypt",
-    "lat": 31.237818,
-    "long": 29.988872,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "spa"
   },
   {
-    "country": "Egypt",
-    "lat": 31.237818,
-    "long": 29.988872,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "cinema"
   },
   {
-    "country": "Egypt",
-    "lat": 31.237818,
-    "long": 29.988872,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "bakery"
   },
   {
-    "country": "Egypt",
-    "lat": 31.237818,
-    "long": 29.988872,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "clothes"
   },
   {
-    "country": "Egypt",
-    "lat": 31.237818,
-    "long": 29.988872,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "library"
   },
   {
-    "country": "Egypt",
-    "lat": 31.237818,
-    "long": 29.988872,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "bar"
   },
   {
-    "country": "Egypt",
-    "lat": 31.237818,
-    "long": 29.988872,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "dry cleaning"
   },
   {
-    "country": "Egypt",
-    "lat": 31.237818,
-    "long": 29.988872,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.990798,
     "zoom_level": 14.5,
     "keyword": "museum"
   },
   {
-    "country": "Egypt",
-    "lat": 31.237818,
-    "long": 29.988872,
+    "country": "Jordan",
+    "lat": 31.999198,
+    "long": 35.990798,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.829418,
+    "long": 35.491997,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.829418,
+    "long": 35.491997,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.829418,
+    "long": 35.491997,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.829418,
+    "long": 35.491997,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.829418,
+    "long": 35.491997,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.829418,
+    "long": 35.491997,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.829418,
+    "long": 35.491997,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.829418,
+    "long": 35.491997,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.829418,
+    "long": 35.491997,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.829418,
+    "long": 35.491997,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.829418,
+    "long": 35.491997,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.829418,
+    "long": 35.491997,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.829418,
+    "long": 35.491997,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.829418,
+    "long": 35.491997,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.829418,
+    "long": 35.491997,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.829418,
+    "long": 35.491997,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.544818,
+    "long": 35.392919,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.544818,
+    "long": 35.392919,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.544818,
+    "long": 35.392919,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.544818,
+    "long": 35.392919,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.544818,
+    "long": 35.392919,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.544818,
+    "long": 35.392919,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.544818,
+    "long": 35.392919,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.544818,
+    "long": 35.392919,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.544818,
+    "long": 35.392919,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.544818,
+    "long": 35.392919,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.544818,
+    "long": 35.392919,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.544818,
+    "long": 35.392919,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.544818,
+    "long": 35.392919,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.544818,
+    "long": 35.392919,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.544818,
+    "long": 35.392919,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Lebanon",
+    "lat": 33.544818,
+    "long": 35.392919,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.866118,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.770651,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.046298,
+    "long": 34.98316,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.786218,
+    "long": 34.980936,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.786218,
+    "long": 34.980936,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.786218,
+    "long": 34.980936,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.786218,
+    "long": 34.980936,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.786218,
+    "long": 34.980936,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.786218,
+    "long": 34.980936,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.786218,
+    "long": 34.980936,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.786218,
+    "long": 34.980936,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.786218,
+    "long": 34.980936,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.786218,
+    "long": 34.980936,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.786218,
+    "long": 34.980936,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.786218,
+    "long": 34.980936,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.786218,
+    "long": 34.980936,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.786218,
+    "long": 34.980936,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.786218,
+    "long": 34.980936,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Israel",
+    "lat": 32.786218,
+    "long": 34.980936,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.674218,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.133295,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Israel",
+    "lat": 31.854398,
+    "long": 35.345243,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.177009,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.177009,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.177009,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.177009,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.177009,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.177009,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.177009,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.177009,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.177009,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.177009,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.177009,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.177009,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.177009,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.177009,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.177009,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.177009,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.393099,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.393099,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.393099,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.393099,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.393099,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.393099,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.393099,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.393099,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.393099,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.393099,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.393099,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.393099,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.393099,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.393099,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.393099,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Syria",
+    "lat": 33.440718,
+    "long": 36.393099,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 40.909518,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.75818,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 28.996982,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 41.089698,
+    "long": 29.235784,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.754418,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.58249,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 32.817387,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 39.934598,
+    "long": 33.052285,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.384518,
+    "long": 27.0994,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.384518,
+    "long": 27.0994,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.384518,
+    "long": 27.0994,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.384518,
+    "long": 27.0994,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.384518,
+    "long": 27.0994,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.384518,
+    "long": 27.0994,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.384518,
+    "long": 27.0994,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.384518,
+    "long": 27.0994,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.384518,
+    "long": 27.0994,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.384518,
+    "long": 27.0994,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.384518,
+    "long": 27.0994,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.384518,
+    "long": 27.0994,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.384518,
+    "long": 27.0994,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.384518,
+    "long": 27.0994,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.384518,
+    "long": 27.0994,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.384518,
+    "long": 27.0994,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.607232,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.607232,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.607232,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.607232,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.607232,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.607232,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.607232,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.607232,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.607232,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.607232,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.607232,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.607232,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.607232,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.607232,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.607232,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.607232,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.832555,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.832555,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.832555,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.832555,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.832555,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.832555,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.832555,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.832555,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.832555,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.832555,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.832555,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.832555,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.832555,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.832555,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.832555,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 36.852218,
+    "long": 30.832555,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.792618,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.792618,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.792618,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.792618,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.792618,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.792618,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.792618,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.792618,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.792618,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.792618,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.792618,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.792618,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.792618,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.792618,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.792618,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.792618,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.972798,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.972798,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.972798,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.972798,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.972798,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.972798,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.972798,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.972798,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.972798,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.972798,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.972798,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.972798,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.972798,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.972798,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.972798,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.972798,
+    "long": 32.421028,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.750218,
+    "long": 29.015502,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.750218,
+    "long": 29.015502,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.750218,
+    "long": 29.015502,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.750218,
+    "long": 29.015502,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.750218,
+    "long": 29.015502,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.750218,
+    "long": 29.015502,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.750218,
+    "long": 29.015502,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.750218,
+    "long": 29.015502,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.750218,
+    "long": 29.015502,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.750218,
+    "long": 29.015502,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.750218,
+    "long": 29.015502,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.750218,
+    "long": 29.015502,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.750218,
+    "long": 29.015502,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.750218,
+    "long": 29.015502,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.750218,
+    "long": 29.015502,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.750218,
+    "long": 29.015502,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.830618,
+    "long": 27.821215,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.830618,
+    "long": 27.821215,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.830618,
+    "long": 27.821215,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.830618,
+    "long": 27.821215,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.830618,
+    "long": 27.821215,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.830618,
+    "long": 27.821215,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.830618,
+    "long": 27.821215,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.830618,
+    "long": 27.821215,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.830618,
+    "long": 27.821215,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.830618,
+    "long": 27.821215,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.830618,
+    "long": 27.821215,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.830618,
+    "long": 27.821215,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.830618,
+    "long": 27.821215,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.830618,
+    "long": 27.821215,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.830618,
+    "long": 27.821215,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.830618,
+    "long": 27.821215,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.618218,
+    "long": 27.404761,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.618218,
+    "long": 27.404761,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.618218,
+    "long": 27.404761,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.618218,
+    "long": 27.404761,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.618218,
+    "long": 27.404761,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.618218,
+    "long": 27.404761,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.618218,
+    "long": 27.404761,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.618218,
+    "long": 27.404761,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.618218,
+    "long": 27.404761,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.618218,
+    "long": 27.404761,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.618218,
+    "long": 27.404761,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.618218,
+    "long": 27.404761,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.618218,
+    "long": 27.404761,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.618218,
+    "long": 27.404761,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.618218,
+    "long": 27.404761,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 38.618218,
+    "long": 27.404761,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.761818,
+    "long": 30.529794,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.761818,
+    "long": 30.529794,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.761818,
+    "long": 30.529794,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.761818,
+    "long": 30.529794,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.761818,
+    "long": 30.529794,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.761818,
+    "long": 30.529794,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.761818,
+    "long": 30.529794,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.761818,
+    "long": 30.529794,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.761818,
+    "long": 30.529794,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.761818,
+    "long": 30.529794,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.761818,
+    "long": 30.529794,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.761818,
+    "long": 30.529794,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.761818,
+    "long": 30.529794,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.761818,
+    "long": 30.529794,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.761818,
+    "long": 30.529794,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Turkey",
+    "lat": 37.761818,
+    "long": 30.529794,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 34.963018,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.203322,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.423538,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Cyprus",
+    "lat": 35.143198,
+    "long": 33.643755,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.592518,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.258285,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772698,
+    "long": 51.480136,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Iran",
+    "lat": 32.605718,
+    "long": 51.602102,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Iran",
+    "lat": 32.605718,
+    "long": 51.602102,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Iran",
+    "lat": 32.605718,
+    "long": 51.602102,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Iran",
+    "lat": 32.605718,
+    "long": 51.602102,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Iran",
+    "lat": 32.605718,
+    "long": 51.602102,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Iran",
+    "lat": 32.605718,
+    "long": 51.602102,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Iran",
+    "lat": 32.605718,
+    "long": 51.602102,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Iran",
+    "lat": 32.605718,
+    "long": 51.602102,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Iran",
+    "lat": 32.605718,
+    "long": 51.602102,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Iran",
+    "lat": 32.605718,
+    "long": 51.602102,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Iran",
+    "lat": 32.605718,
+    "long": 51.602102,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Iran",
+    "lat": 32.605718,
+    "long": 51.602102,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Iran",
+    "lat": 32.605718,
+    "long": 51.602102,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Iran",
+    "lat": 32.605718,
+    "long": 51.602102,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Iran",
+    "lat": 32.605718,
+    "long": 51.602102,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Iran",
+    "lat": 32.605718,
+    "long": 51.602102,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.482059,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.482059,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.482059,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.482059,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.482059,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.482059,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.482059,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.482059,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.482059,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.482059,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.482059,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.482059,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.482059,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.482059,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.482059,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.482059,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.705646,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.705646,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.705646,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.705646,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.705646,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.705646,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.705646,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.705646,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.705646,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.705646,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.705646,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.705646,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.705646,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.705646,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.705646,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Iran",
+    "lat": 36.229018,
+    "long": 59.705646,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Iran",
+    "lat": 38.027018,
+    "long": 46.247186,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Iran",
+    "lat": 38.027018,
+    "long": 46.247186,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Iran",
+    "lat": 38.027018,
+    "long": 46.247186,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Iran",
+    "lat": 38.027018,
+    "long": 46.247186,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Iran",
+    "lat": 38.027018,
+    "long": 46.247186,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Iran",
+    "lat": 38.027018,
+    "long": 46.247186,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Iran",
+    "lat": 38.027018,
+    "long": 46.247186,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Iran",
+    "lat": 38.027018,
+    "long": 46.247186,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Iran",
+    "lat": 38.027018,
+    "long": 46.247186,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Iran",
+    "lat": 38.027018,
+    "long": 46.247186,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Iran",
+    "lat": 38.027018,
+    "long": 46.247186,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Iran",
+    "lat": 38.027018,
+    "long": 46.247186,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Iran",
+    "lat": 38.027018,
+    "long": 46.247186,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Iran",
+    "lat": 38.027018,
+    "long": 46.247186,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Iran",
+    "lat": 38.027018,
+    "long": 46.247186,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Iran",
+    "lat": 38.027018,
+    "long": 46.247186,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772118,
+    "long": 50.935719,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772118,
+    "long": 50.935719,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772118,
+    "long": 50.935719,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772118,
+    "long": 50.935719,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772118,
+    "long": 50.935719,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772118,
+    "long": 50.935719,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772118,
+    "long": 50.935719,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772118,
+    "long": 50.935719,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772118,
+    "long": 50.935719,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772118,
+    "long": 50.935719,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772118,
+    "long": 50.935719,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772118,
+    "long": 50.935719,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772118,
+    "long": 50.935719,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772118,
+    "long": 50.935719,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772118,
+    "long": 50.935719,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Iran",
+    "lat": 35.772118,
+    "long": 50.935719,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.118995,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.118995,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.118995,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.118995,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.118995,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.118995,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.118995,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.118995,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.118995,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.118995,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.118995,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.118995,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.118995,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.118995,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.118995,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.118995,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.343947,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.343947,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.343947,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.343947,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.343947,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.343947,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.343947,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.343947,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.343947,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.343947,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.343947,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.343947,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.343947,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.343947,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.343947,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Tunisia",
+    "lat": 36.696018,
+    "long": 10.343947,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.689578,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.689578,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.689578,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.689578,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.689578,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.689578,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.689578,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.689578,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.689578,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.689578,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.689578,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.689578,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.689578,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.689578,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.689578,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.689578,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.473358,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.473358,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.473358,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.473358,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.473358,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.473358,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.473358,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.473358,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.473358,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.473358,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.473358,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.473358,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.473358,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.473358,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.473358,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Morocco",
+    "lat": 33.521518,
+    "long": -7.473358,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -8.105138,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -8.105138,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -8.105138,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -8.105138,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -8.105138,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -8.105138,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -8.105138,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -8.105138,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -8.105138,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -8.105138,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -8.105138,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -8.105138,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -8.105138,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -8.105138,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -8.105138,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -8.105138,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -7.893516,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -7.893516,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -7.893516,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -7.893516,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -7.893516,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -7.893516,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -7.893516,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -7.893516,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -7.893516,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -7.893516,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -7.893516,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -7.893516,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -7.893516,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -7.893516,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -7.893516,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Morocco",
+    "lat": 31.561518,
+    "long": -7.893516,
+    "zoom_level": 14.5,
+    "keyword": "convenience store"
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.000318,
+    "long": -5.03576,
+    "zoom_level": 14.5,
+    "keyword": "restaurant"
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.000318,
+    "long": -5.03576,
+    "zoom_level": 14.5,
+    "keyword": "cafe"
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.000318,
+    "long": -5.03576,
+    "zoom_level": 14.5,
+    "keyword": "hotel"
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.000318,
+    "long": -5.03576,
+    "zoom_level": 14.5,
+    "keyword": "mall"
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.000318,
+    "long": -5.03576,
+    "zoom_level": 14.5,
+    "keyword": "gym"
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.000318,
+    "long": -5.03576,
+    "zoom_level": 14.5,
+    "keyword": "hospital"
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.000318,
+    "long": -5.03576,
+    "zoom_level": 14.5,
+    "keyword": "mosque"
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.000318,
+    "long": -5.03576,
+    "zoom_level": 14.5,
+    "keyword": "spa"
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.000318,
+    "long": -5.03576,
+    "zoom_level": 14.5,
+    "keyword": "cinema"
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.000318,
+    "long": -5.03576,
+    "zoom_level": 14.5,
+    "keyword": "bakery"
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.000318,
+    "long": -5.03576,
+    "zoom_level": 14.5,
+    "keyword": "clothes"
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.000318,
+    "long": -5.03576,
+    "zoom_level": 14.5,
+    "keyword": "library"
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.000318,
+    "long": -5.03576,
+    "zoom_level": 14.5,
+    "keyword": "bar"
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.000318,
+    "long": -5.03576,
+    "zoom_level": 14.5,
+    "keyword": "dry cleaning"
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.000318,
+    "long": -5.03576,
+    "zoom_level": 14.5,
+    "keyword": "museum"
+  },
+  {
+    "country": "Morocco",
+    "lat": 34.000318,
+    "long": -5.03576,
     "zoom_level": 14.5,
     "keyword": "convenience store"
   }

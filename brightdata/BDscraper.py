@@ -23,7 +23,7 @@ CUSTOM_FIELDS = "place_id|url|country|name|address|main_image|lat|lon|photos_and
 
 RATE_PER_1K = 1.50  # USD per 1000 records
 BUDGET_LIMIT = 1000.00  # USD — stop run if all-time cost exceeds this
-initial_cost = 625.00 # USD — if you have prior costs from previous runs, set that here to account for it in the budget limit
+initial_cost = 680.27 # USD — if you have prior costs from previous runs, set that here to account for it in the budget limit
 
 def cost(record_count):
     return (record_count / 1000) * RATE_PER_1K

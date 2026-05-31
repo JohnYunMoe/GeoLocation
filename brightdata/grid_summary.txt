@@ -1,39 +1,40 @@
 Gulf Region Google Maps Grid Summary
 ========================================
-  Basra                     2 grid points
-  Al-Midaina                1 grid points
-  Al Qurna 1                1 grid points
-  Al Qurna 2                1 grid points
-  Al Howair                 1 grid points
-  Nasiriyah                 1 grid points
-  As Samawah 1              1 grid points
-  As Samawah 2              1 grid points
-  Al-Najaf                  1 grid points
-  Al Hillah                 1 grid points
-  Karbala                   1 grid points
-  Hindiya                   1 grid points
-  Al-Kut                    1 grid points
-  Amarah                    1 grid points
-  Baghdad                   6 grid points
-  Baqubah                   1 grid points
-  Sana'a                    1 grid points
-  Dhamar                    1 grid points
-  Hodeidah                  1 grid points
-  Ibb                       1 grid points
-  Ta'izz                    1 grid points
-  Ataq                      1 grid points
-  Sa'dah                    1 grid points
-  Jizan                     1 grid points
-  Salhabah                  1 grid points
-  Khamis Mushayt            1 grid points
-  Jeddah                    4 grid points
-  Medina                    2 grid points
-  Cairo                     6 grid points
-  Alexandria 1              1 grid points
-  Alexandria 2              1 grid points
-  Alexandria 3              0 grid points
+  Aden 1                    1 grid points
+  Aden 2                    1 grid points
+  Aden 3                    1 grid points
+  Mecca                     4 grid points
+  Tabuk                     4 grid points
+  Abha                      1 grid points
+  Hail                      4 grid points
+  Amman                     4 grid points
+  Beirut                    1 grid points
+  Sidon                     1 grid points
+  Tel Aviv                  4 grid points
+  Haifa                     1 grid points
+  Jerusalem                 4 grid points
+  Damascus                  2 grid points
+  Istanbul                  6 grid points
+  Ankara                    6 grid points
+  Izmir                     1 grid points
+  Antalya                   2 grid points
+  Konya                     2 grid points
+  Denizli                   1 grid points
+  Aydin                     1 grid points
+  Manisa                    1 grid points
+  Isparta                   1 grid points
+  Cyprus                    6 grid points
+  Tehran                    4 grid points
+  Isfahan                   1 grid points
+  Mashhad                   2 grid points
+  Tabriz                    1 grid points
+  Karaj                     1 grid points
+  Tunis                     2 grid points
+  Casablanca                2 grid points
+  Marrakesh                 2 grid points
+  Fez                       1 grid points
 ----------------------------------------
-  Total grid points        46
-  Total requests          736  (grid points × 16 keywords)
-  Est. API records      36800
-  Estimated cost       $  55.20  ($1.5/1000 records)
+  Total grid points        76
+  Total requests         1216  (grid points × 16 keywords)
+  Est. API records      60800
+  Estimated cost       $  91.20  ($1.5/1000 records)

@@ -39,174 +39,191 @@ def generate_grid(min_lat, min_lon, max_lat, max_lon, cell_size_km, keywords, co
 # Gulf region bounding boxes with country tags
 # ---------------------------------------------------------------------------
 LOCATIONS = {
-    # Iraq - Basra region
-    "Basra": {
-        "bbox": (30.4104, 47.6750, 30.6049, 48.0189),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Al-Midaina": {
-        "bbox": (30.8959, 47.2265, 30.9683, 47.3320),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Al Qurna 1": {
-        "bbox": (30.9809, 47.4142, 31.0371, 47.4544),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Al Qurna 2": {
-        "bbox": (30.9426, 47.4453, 30.9799, 47.4750),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Al Howair": {
-        "bbox": (30.9704, 47.2991, 30.9936, 47.3592),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Nasiriyah": {
-        "bbox": (30.9989, 46.1961, 31.0936, 46.3264),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "As Samawah 1": {
-        "bbox": (31.2699, 45.2450, 31.3226, 45.3148),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "As Samawah 2": {
-        "bbox": (31.3257, 45.2563, 31.3595, 45.3064),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Al-Najaf": {
-        "bbox": (31.9880, 44.2641, 32.1154, 44.4283),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Al Hillah": {
-        "bbox": (32.4321, 44.3902, 32.5174, 44.4804),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Karbala": {
-        "bbox": (32.5501, 43.9470, 32.6555, 44.1072),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Hindiya": {
-        "bbox": (32.5322, 44.2043, 32.5642, 44.2806),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Al-Kut": {
-        "bbox": (32.4681, 45.7768, 32.5513, 45.8861),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Amarah": {
-        "bbox": (31.8088, 47.1085, 31.8854, 47.1937),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-
-    # Iraq - Baghdad region
-    "Baghdad": {
-        "bbox": (33.1715, 44.1793, 33.4613, 44.6467),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Baqubah": {
-        "bbox": (33.7083, 44.5788, 33.7695, 44.6862),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-
-    # Yemen
-    "Sana'a": {
-        "bbox": (15.2645, 44.1115, 15.4500, 44.3016),
+    # Yemen - Aden
+    "Aden 1": {
+        "bbox": (12.7591, 44.9771, 12.7968, 45.0537),
         "cell_size_km": 4.0,
         "country": "Yemen",
     },
-    "Dhamar": {
-        "bbox": (14.5045, 44.3666, 14.5825, 44.4380),
+    "Aden 2": {
+        "bbox": (12.8390, 44.9547, 12.9178, 45.0655),
         "cell_size_km": 4.0,
         "country": "Yemen",
     },
-    "Hodeidah": {
-        "bbox": (14.7678, 42.9270, 14.8346, 43.0021),
-        "cell_size_km": 4.0,
-        "country": "Yemen",
-    },
-    "Ibb": {
-        "bbox": (13.9307, 44.1273, 13.9875, 44.1965),
-        "cell_size_km": 4.0,
-        "country": "Yemen",
-    },
-    "Ta'izz": {
-        "bbox": (13.5540, 43.9857, 13.6004, 44.0593),
-        "cell_size_km": 4.0,
-        "country": "Yemen",
-    },
-    "Ataq": {
-        "bbox": (14.4980, 46.8166, 14.5479, 46.9005),
-        "cell_size_km": 4.0,
-        "country": "Yemen",
-    },
-    "Sa'dah": {
-        "bbox": (16.9262, 43.7485, 16.9544, 43.7783),
+    "Aden 3": {
+        "bbox": (12.7993, 45.0234, 12.8283, 45.0454),
         "cell_size_km": 4.0,
         "country": "Yemen",
     },
 
     # Saudi Arabia
-    "Jizan": {
-        "bbox": (16.8441, 42.5450, 16.9414, 42.6230),
-        "cell_size_km": 4.0,
-        "country": "Saudi Arabia",  # ⚠️ mislabeled as Yemen in GeoJSON — Jizan is in Saudi Arabia
-    },
-    "Salhabah": {
-        "bbox": (17.1437, 42.6111, 17.1778, 42.6880),
-        "cell_size_km": 4.0,
-        "country": "Saudi Arabia",  # ⚠️ mislabeled as Yemen in GeoJSON — coordinates place this in Saudi Arabia
-    },
-    "Khamis Mushayt": {
-        "bbox": (18.2473, 42.6700, 18.3852, 42.7995),
-        "cell_size_km": 4.0,
-        "country": "Saudi Arabia",  # ⚠️ mislabeled as Yemen in GeoJSON — Khamis Mushayt is in Saudi Arabia
-    },
-    "Jeddah": {
-        "bbox": (21.4202, 39.0981, 21.7505, 39.3701),
+    "Mecca": {
+        "bbox": (21.3084, 39.6733, 21.5314, 39.9905),
         "cell_size_km": 4.0,
         "country": "Saudi Arabia",
     },
-    "Medina": {
-        "bbox": (24.3730, 39.4501, 24.5590, 39.7495),
+    "Tabuk": {
+        "bbox": (28.2934, 36.4461, 28.5234, 36.8467),
+        "cell_size_km": 4.0,
+        "country": "Saudi Arabia",
+    },
+    "Abha": {
+        "bbox": (18.1953, 42.4631, 18.2566, 42.5690),
+        "cell_size_km": 4.0,
+        "country": "Saudi Arabia",
+    },
+    "Hail": {
+        "bbox": (27.3862, 41.5368, 27.6802, 41.9579),
         "cell_size_km": 4.0,
         "country": "Saudi Arabia",
     },
 
-    # Egypt
-    "Cairo": {
-        "bbox": (29.8781, 31.0819, 30.1674, 31.6908),
+    # Jordan
+    "Amman": {
+        "bbox": (31.8010, 35.7572, 32.1106, 36.1360),
         "cell_size_km": 4.0,
-        "country": "Egypt",
+        "country": "Jordan",
     },
-    "Alexandria 1": {
-        "bbox": (31.1786, 29.8774, 31.2087, 29.9536),
+
+    # Lebanon
+    "Beirut": {
+        "bbox": (33.8114, 35.4703, 33.9012, 35.5846),
         "cell_size_km": 4.0,
-        "country": "Egypt",
+        "country": "Lebanon",
     },
-    "Alexandria 2": {
-        "bbox": (31.2198, 29.9678, 31.2480, 30.0048),
+    "Sidon": {
+        "bbox": (33.5268, 35.3713, 33.5657, 35.4216),
         "cell_size_km": 4.0,
-        "country": "Egypt",
+        "country": "Lebanon",
     },
-    "Alexandria 3": {
-        "bbox": (31.2549, 29.9880, 31.2699, 30.0240),
+
+    # Israel
+    "Tel Aviv": {
+        "bbox": (31.8481, 34.7494, 32.1905, 35.0295),
         "cell_size_km": 4.0,
-        "country": "Egypt",
+        "country": "Israel",
+    },
+    "Haifa": {
+        "bbox": (32.7682, 34.9595, 32.8317, 35.0831),
+        "cell_size_km": 4.0,
+        "country": "Israel",
+    },
+    "Jerusalem": {
+        "bbox": (31.6562, 35.1121, 31.8955, 35.3594),
+        "cell_size_km": 4.0,
+        "country": "Israel",
+    },
+
+    # Syria
+    "Damascus": {
+        "bbox": (33.4227, 36.1554, 33.5908, 36.4363),
+        "cell_size_km": 4.0,
+        "country": "Syria",
+    },
+
+    # Turkey
+    "Istanbul": {
+        "bbox": (40.8915, 28.7343, 41.1422, 29.3178),
+        "cell_size_km": 4.0,
+        "country": "Turkey",
+    },
+    "Ankara": {
+        "bbox": (39.7364, 32.5590, 40.0826, 33.1621),
+        "cell_size_km": 4.0,
+        "country": "Turkey",
+    },
+    "Izmir": {
+        "bbox": (38.3665, 27.0764, 38.4863, 27.2347),
+        "cell_size_km": 4.0,
+        "country": "Turkey",
+    },
+    "Antalya": {
+        "bbox": (36.8342, 30.5847, 36.9716, 30.8389),
+        "cell_size_km": 4.0,
+        "country": "Turkey",
+    },
+    "Konya": {
+        "bbox": (37.7746, 32.3982, 37.9847, 32.6432),
+        "cell_size_km": 4.0,
+        "country": "Turkey",
+    },
+    "Denizli": {
+        "bbox": (37.7322, 28.9927, 37.8576, 29.1785),
+        "cell_size_km": 4.0,
+        "country": "Turkey",
+    },
+    "Aydin": {
+        "bbox": (37.8126, 27.7984, 37.8637, 27.8887),
+        "cell_size_km": 4.0,
+        "country": "Turkey",
+    },
+    "Manisa": {
+        "bbox": (38.6002, 27.3817, 38.6369, 27.4843),
+        "cell_size_km": 4.0,
+        "country": "Turkey",
+    },
+    "Isparta": {
+        "bbox": (37.7438, 30.5070, 37.7980, 30.6079),
+        "cell_size_km": 4.0,
+        "country": "Turkey",
+    },
+
+    # Cyprus
+    "Cyprus": {
+        "bbox": (34.9450, 33.1813, 35.2459, 33.7665),
+        "cell_size_km": 4.0,
+        "country": "Cyprus",
+    },
+
+    # Iran
+    "Tehran": {
+        "bbox": (35.5745, 51.2361, 35.8091, 51.6090),
+        "cell_size_km": 4.0,
+        "country": "Iran",
+    },
+    "Isfahan": {
+        "bbox": (32.5877, 51.5807, 32.7354, 51.7821),
+        "cell_size_km": 4.0,
+        "country": "Iran",
+    },
+    "Mashhad": {
+        "bbox": (36.2110, 59.4597, 36.4018, 59.7376),
+        "cell_size_km": 4.0,
+        "country": "Iran",
+    },
+    "Tabriz": {
+        "bbox": (38.0090, 46.2243, 38.1258, 46.4018),
+        "cell_size_km": 4.0,
+        "country": "Iran",
+    },
+    "Karaj": {
+        "bbox": (35.7541, 50.9135, 35.8738, 51.0631),
+        "cell_size_km": 4.0,
+        "country": "Iran",
+    },
+
+    # Tunisia
+    "Tunis": {
+        "bbox": (36.6780, 10.0965, 36.8759, 10.3660),
+        "cell_size_km": 4.0,
+        "country": "Tunisia",
+    },
+
+    # Morocco
+    "Casablanca": {
+        "bbox": (33.5035, -7.7112, 33.6140, -7.4351),
+        "cell_size_km": 4.0,
+        "country": "Morocco",
+    },
+    "Marrakesh": {
+        "bbox": (31.5435, -8.1263, 31.7224, -7.8446),
+        "cell_size_km": 4.0,
+        "country": "Morocco",
+    },
+    "Fez": {
+        "bbox": (33.9823, -5.0575, 34.0690, -4.9332),
+        "cell_size_km": 4.0,
+        "country": "Morocco",
     },
 }
 
