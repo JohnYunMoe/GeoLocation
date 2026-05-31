@@ -10,5 +10,4 @@ old/review_scraper(outdated)/__pycache__
 brightdata/.env
 brightdata/venv
 brightdata/data/images
-brightdata/data/resultsgulf2.json
 brightdata/__pycache__
