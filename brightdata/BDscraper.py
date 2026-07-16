@@ -82,7 +82,7 @@ log.setLevel(logging.INFO)
 log.addHandler(_file_handler)
 log.propagate = False
 
-output_path = "./data/resultsgulf2.json"
+output_path = "./data/resultsafrica.json"
 
 # Load existing results if file already has data
 if os.path.exists(output_path):

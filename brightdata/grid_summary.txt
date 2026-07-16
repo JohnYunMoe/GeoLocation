@@ -1,39 +1,43 @@
 Gulf Region Google Maps Grid Summary
 ========================================
-  Basra                     2 grid points
-  Al-Midaina                1 grid points
-  Al Qurna 1                1 grid points
-  Al Qurna 2                1 grid points
-  Al Howair                 1 grid points
-  Nasiriyah                 1 grid points
-  As Samawah 1              1 grid points
-  As Samawah 2              1 grid points
-  Al-Najaf                  1 grid points
-  Al Hillah                 1 grid points
-  Karbala                   1 grid points
-  Hindiya                   1 grid points
-  Al-Kut                    1 grid points
-  Amarah                    1 grid points
-  Baghdad                   6 grid points
-  Baqubah                   1 grid points
-  Sana'a                    1 grid points
-  Dhamar                    1 grid points
-  Hodeidah                  1 grid points
-  Ibb                       1 grid points
-  Ta'izz                    1 grid points
-  Ataq                      1 grid points
-  Sa'dah                    1 grid points
-  Jizan                     1 grid points
-  Salhabah                  1 grid points
-  Khamis Mushayt            1 grid points
-  Jeddah                    4 grid points
-  Medina                    2 grid points
-  Cairo                     6 grid points
-  Alexandria 1              1 grid points
-  Alexandria 2              1 grid points
-  Alexandria 3              0 grid points
+  Cape Town                20 grid points
+  Gqeberha                  2 grid points
+  Durban                    9 grid points
+  Johannesburg             24 grid points
+  Lesotho                 110 grid points
+  Windhoek                  1 grid points
+  Harare                   12 grid points
+  Gaborone                  4 grid points
+  Huambo                    1 grid points
+  Catumbela                 1 grid points
+  Luanda                    9 grid points
+  Inhambane                 6 grid points
+  Beira                     1 grid points
+  Blantyre                  2 grid points
+  Lilongwe                  2 grid points
+  Dar es Salaam             9 grid points
+  Zanzibar City             2 grid points
+  Nairobi                   6 grid points
+  Mombasa                   2 grid points
+  Kampala                   4 grid points
+  Kinshasa                  6 grid points
+  Kananga                   1 grid points
+  Casablanca                2 grid points
+  Rabat                     1 grid points
+  Fez                       1 grid points
+  Tunis                     4 grid points
+  Lusaka                    4 grid points
+  Kigali                    1 grid points
+  Mogadishu                 6 grid points
+  Hawassa                   1 grid points
+  Manakara                  1 grid points
+  Tolanaro                  1 grid points
+  Mauritius                12 grid points
+  Yaounde                   4 grid points
+  Lagos                     6 grid points
+  Dakar                     6 grid points
 ----------------------------------------
-  Total grid points        46
-  Total requests          736  (grid points × 16 keywords)
-  Est. API records      36800
-  Estimated cost       $  55.20  ($1.5/1000 records)
+  Total grid points       284
+  Total requests         4544  (grid points × 16 keywords)
+  Est. API records     227200
+  Estimated cost       $ 340.80  ($1.5/1000 records)

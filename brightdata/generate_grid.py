@@ -36,177 +36,233 @@ def generate_grid(min_lat, min_lon, max_lat, max_lon, cell_size_km, keywords, co
 
 
 # ---------------------------------------------------------------------------
-# Gulf region bounding boxes with country tags
+# African Continental region bounding boxes with country tags
 # ---------------------------------------------------------------------------
 LOCATIONS = {
-    # Iraq - Basra region
-    "Basra": {
-        "bbox": (30.4104, 47.6750, 30.6049, 48.0189),
+    # South Africa
+    "Cape Town": {
+        "bbox": (-34.3988, 18.3113, -33.5589, 19.0864),
         "cell_size_km": 4.0,
-        "country": "Iraq",
+        "country": "South Africa",
     },
-    "Al-Midaina": {
-        "bbox": (30.8959, 47.2265, 30.9683, 47.3320),
+    "Gqeberha": {
+        "bbox": (-34.0103, 25.4730, -33.7792, 25.6889),
         "cell_size_km": 4.0,
-        "country": "Iraq",
+        "country": "South Africa",
     },
-    "Al Qurna 1": {
-        "bbox": (30.9809, 47.4142, 31.0371, 47.4544),
+    "Durban": {
+        "bbox": (-30.0807, 30.7252, -29.5642, 31.1731),
         "cell_size_km": 4.0,
-        "country": "Iraq",
+        "country": "South Africa",
     },
-    "Al Qurna 2": {
-        "bbox": (30.9426, 47.4453, 30.9799, 47.4750),
+    "Johannesburg": {
+        "bbox": (-26.5773, 27.7439, -25.6138, 28.5117),
         "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Al Howair": {
-        "bbox": (30.9704, 47.2991, 30.9936, 47.3592),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Nasiriyah": {
-        "bbox": (30.9989, 46.1961, 31.0936, 46.3264),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "As Samawah 1": {
-        "bbox": (31.2699, 45.2450, 31.3226, 45.3148),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "As Samawah 2": {
-        "bbox": (31.3257, 45.2563, 31.3595, 45.3064),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Al-Najaf": {
-        "bbox": (31.9880, 44.2641, 32.1154, 44.4283),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Al Hillah": {
-        "bbox": (32.4321, 44.3902, 32.5174, 44.4804),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Karbala": {
-        "bbox": (32.5501, 43.9470, 32.6555, 44.1072),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Hindiya": {
-        "bbox": (32.5322, 44.2043, 32.5642, 44.2806),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Al-Kut": {
-        "bbox": (32.4681, 45.7768, 32.5513, 45.8861),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Amarah": {
-        "bbox": (31.8088, 47.1085, 31.8854, 47.1937),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
+        "country": "South Africa",
     },
 
-    # Iraq - Baghdad region
-    "Baghdad": {
-        "bbox": (33.1715, 44.1793, 33.4613, 44.6467),
+    # Lesotho
+    "Lesotho": {
+        "bbox": (-30.5483, 27.2843, -28.6284, 29.3680),
         "cell_size_km": 4.0,
-        "country": "Iraq",
-    },
-    "Baqubah": {
-        "bbox": (33.7083, 44.5788, 33.7695, 44.6862),
-        "cell_size_km": 4.0,
-        "country": "Iraq",
+        "country": "Lesotho",
     },
 
-    # Yemen
-    "Sana'a": {
-        "bbox": (15.2645, 44.1115, 15.4500, 44.3016),
+    # Namibia
+    "Windhoek": {
+        "bbox": (-22.6573, 16.9705, -22.4745, 17.1754),
         "cell_size_km": 4.0,
-        "country": "Yemen",
-    },
-    "Dhamar": {
-        "bbox": (14.5045, 44.3666, 14.5825, 44.4380),
-        "cell_size_km": 4.0,
-        "country": "Yemen",
-    },
-    "Hodeidah": {
-        "bbox": (14.7678, 42.9270, 14.8346, 43.0021),
-        "cell_size_km": 4.0,
-        "country": "Yemen",
-    },
-    "Ibb": {
-        "bbox": (13.9307, 44.1273, 13.9875, 44.1965),
-        "cell_size_km": 4.0,
-        "country": "Yemen",
-    },
-    "Ta'izz": {
-        "bbox": (13.5540, 43.9857, 13.6004, 44.0593),
-        "cell_size_km": 4.0,
-        "country": "Yemen",
-    },
-    "Ataq": {
-        "bbox": (14.4980, 46.8166, 14.5479, 46.9005),
-        "cell_size_km": 4.0,
-        "country": "Yemen",
-    },
-    "Sa'dah": {
-        "bbox": (16.9262, 43.7485, 16.9544, 43.7783),
-        "cell_size_km": 4.0,
-        "country": "Yemen",
+        "country": "Namibia",
     },
 
-    # Saudi Arabia
-    "Jizan": {
-        "bbox": (16.8441, 42.5450, 16.9414, 42.6230),
+    # Zimbabwe
+    "Harare": {
+        "bbox": (-18.1000, 30.7722, -17.5866, 31.3611),
         "cell_size_km": 4.0,
-        "country": "Saudi Arabia",  # ⚠️ mislabeled as Yemen in GeoJSON — Jizan is in Saudi Arabia
-    },
-    "Salhabah": {
-        "bbox": (17.1437, 42.6111, 17.1778, 42.6880),
-        "cell_size_km": 4.0,
-        "country": "Saudi Arabia",  # ⚠️ mislabeled as Yemen in GeoJSON — coordinates place this in Saudi Arabia
-    },
-    "Khamis Mushayt": {
-        "bbox": (18.2473, 42.6700, 18.3852, 42.7995),
-        "cell_size_km": 4.0,
-        "country": "Saudi Arabia",  # ⚠️ mislabeled as Yemen in GeoJSON — Khamis Mushayt is in Saudi Arabia
-    },
-    "Jeddah": {
-        "bbox": (21.4202, 39.0981, 21.7505, 39.3701),
-        "cell_size_km": 4.0,
-        "country": "Saudi Arabia",
-    },
-    "Medina": {
-        "bbox": (24.3730, 39.4501, 24.5590, 39.7495),
-        "cell_size_km": 4.0,
-        "country": "Saudi Arabia",
+        "country": "Zimbabwe",
     },
 
-    # Egypt
-    "Cairo": {
-        "bbox": (29.8781, 31.0819, 30.1674, 31.6908),
+    # Botswana
+    "Gaborone": {
+        "bbox": (-24.7369, 25.7762, -24.5358, 26.0330),
         "cell_size_km": 4.0,
-        "country": "Egypt",
+        "country": "Botswana",
     },
-    "Alexandria 1": {
-        "bbox": (31.1786, 29.8774, 31.2087, 29.9536),
+
+    # Angola
+    "Huambo": {
+        "bbox": (-12.8575, 15.6653, -12.7147, 15.8260),
         "cell_size_km": 4.0,
-        "country": "Egypt",
+        "country": "Angola",
     },
-    "Alexandria 2": {
-        "bbox": (31.2198, 29.9678, 31.2480, 30.0048),
+    "Catumbela": {
+        "bbox": (-12.4853, 13.4958, -12.3383, 13.6193),
         "cell_size_km": 4.0,
-        "country": "Egypt",
+        "country": "Angola",
     },
-    "Alexandria 3": {
-        "bbox": (31.2549, 29.9880, 31.2699, 30.0240),
+    "Luanda": {
+        "bbox": (-9.1413, 13.1100, -8.7519, 13.5899),
         "cell_size_km": 4.0,
-        "country": "Egypt",
+        "country": "Angola",
+    },
+
+    # Mozambique
+    "Inhambane": {
+        "bbox": (-24.1063, 35.2519, -23.6563, 35.5798),
+        "cell_size_km": 4.0,
+        "country": "Mozambique",
+    },
+    "Beira": {
+        "bbox": (-19.8614, 34.7624, -19.6969, 34.9506),
+        "cell_size_km": 4.0,
+        "country": "Mozambique",
+    },
+
+    # Malawi
+    "Blantyre": {
+        "bbox": (-15.8809, 34.9207, -15.6848, 35.1296),
+        "cell_size_km": 4.0,
+        "country": "Malawi",
+    },
+    "Lilongwe": {
+        "bbox": (-14.1077, 33.6963, -13.8825, 33.8757),
+        "cell_size_km": 4.0,
+        "country": "Malawi",
+    },
+
+    # Tanzania
+    "Dar es Salaam": {
+        "bbox": (-7.0871, 39.0040, -6.5475, 39.4579),
+        "cell_size_km": 4.0,
+        "country": "Tanzania",
+    },
+    "Zanzibar City": {
+        "bbox": (-6.2989, 39.1922, -6.0269, 39.2963),
+        "cell_size_km": 4.0,
+        "country": "Tanzania",
+    },
+
+    # Kenya
+    "Nairobi": {
+        "bbox": (-1.4674, 36.6339, -1.1189, 37.1438),
+        "cell_size_km": 4.0,
+        "country": "Kenya",
+    },
+    "Mombasa": {
+        "bbox": (-4.1226, 39.5471, -3.9265, 39.7494),
+        "cell_size_km": 4.0,
+        "country": "Kenya",
+    },
+
+    # Uganda
+    "Kampala": {
+        "bbox": (0.2015, 32.4778, 0.4227, 32.7046),
+        "cell_size_km": 4.0,
+        "country": "Uganda",
+    },
+
+    # DR Congo
+    "Kinshasa": {
+        "bbox": (-4.4873, 15.1440, -4.1125, 15.5531),
+        "cell_size_km": 4.0,
+        "country": "DR Congo",
+    },
+    "Kananga": {
+        "bbox": (-5.9292, 22.3698, -5.8643, 22.4537),
+        "cell_size_km": 4.0,
+        "country": "DR Congo",
+    },
+
+    # Morocco
+    "Casablanca": {
+        "bbox": (33.4514, -7.6804, 33.6246, -7.3923),
+        "cell_size_km": 4.0,
+        "country": "Morocco",
+    },
+    "Rabat": {
+        "bbox": (33.9252, -6.8740, 34.0681, -6.7042),
+        "cell_size_km": 4.0,
+        "country": "Morocco",
+    },
+    "Fez": {
+        "bbox": (33.9918, -5.0654, 34.0715, -4.9468),
+        "cell_size_km": 4.0,
+        "country": "Morocco",
+    },
+
+    # Tunisia
+    "Tunis": {
+        "bbox": (36.6694, 10.0457, 36.9617, 10.3629),
+        "cell_size_km": 4.0,
+        "country": "Tunisia",
+    },
+
+    # Zambia
+    "Lusaka": {
+        "bbox": (-15.5933, 28.1473, -15.2947, 28.5075),
+        "cell_size_km": 4.0,
+        "country": "Zambia",
+    },
+
+    # Rwanda
+    "Kigali": {
+        "bbox": (-2.0114, 30.0395, -1.8875, 30.1739),
+        "cell_size_km": 4.0,
+        "country": "Rwanda",
+    },
+
+    # Somalia
+    "Mogadishu": {
+        "bbox": (1.9698, 45.0988, 2.1983, 45.4946),
+        "cell_size_km": 4.0,
+        "country": "Somalia",
+    },
+
+    # Ethiopia
+    "Hawassa": {
+        "bbox": (6.9880, 38.4695, 7.1124, 38.5258),
+        "cell_size_km": 4.0,
+        "country": "Ethiopia",
+    },
+
+    # Madagascar
+    "Manakara": {
+        "bbox": (-22.1925, 47.9768, -22.0988, 48.0269),
+        "cell_size_km": 4.0,
+        "country": "Madagascar",
+    },
+    "Tolanaro": {
+        "bbox": (-25.0458, 46.9616, -25.0090, 47.0082),
+        "cell_size_km": 4.0,
+        "country": "Madagascar",
+    },
+
+    # Mauritius
+    "Mauritius": {
+        "bbox": (-20.5788, 57.3259, -20.0061, 57.8603),
+        "cell_size_km": 4.0,
+        "country": "Mauritius",
+    },
+
+    # Cameroon
+    "Yaounde": {
+        "bbox": (3.7127, 11.3793, 3.9923, 11.6701),
+        "cell_size_km": 4.0,
+        "country": "Cameroon",
+    },
+
+    # Nigeria
+    "Lagos": {
+        "bbox": (6.3886, 3.1840, 6.6566, 3.6166),
+        "cell_size_km": 4.0,
+        "country": "Nigeria",
+    },
+
+    # Senegal
+    "Dakar": {
+        "bbox": (14.6286, -17.5817, 14.8560, -17.1377),
+        "cell_size_km": 4.0,
+        "country": "Senegal",
     },
 }
 
